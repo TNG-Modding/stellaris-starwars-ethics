@@ -1072,7 +1072,7 @@
  colony.163.name:0 "Wasteland Radiation"
  colony.163.desc:0 "The radiation levels in some wasteland regions of [Root.GetName] appear to be greater than our previous scans had indicated. Colonists in several local settlements have complained of poor health, and birth rates are down. We are taking steps to evacuate the affected regions, but these measures will take time."
  colony.164.name:0 "Pacifist Movement"
- colony.164.desc:0 "The decrepit ruins and desolate wastelands found on [Root.GetName] seem to have prompted many of the [Root.GetPlanetMoon]'s colonists to adopt some kind of pacifistic philosophy.\n\nMembers of this new movement claim that the environment they live in serve as a daily reminder of the senseless horrors of war. They see it as their civic duty to prevent the terrible destruction visited upon [Root.GetName] from occurring on other worlds."
+ colony.164.desc:0 "The decrepit ruins and desolate wastelands found on [Root.GetName] seem to have prompted many of the [Root.GetPlanetMoon]'s colonists to adopt some kind of Jedi philosophy.\n\nMembers of this new movement claim that the environment they live in serve as a daily reminder of the senseless horrors of war. They see it as their civic duty to prevent the terrible destruction visited upon [Root.GetName] from occurring on other worlds."
  colony.164.a:0 "Do they, now?"
  colony.164.b:0 "These wretched cowards shame our nation!"
  colony.164.c:0 "Excellent. Everyone should give peace a chance."
