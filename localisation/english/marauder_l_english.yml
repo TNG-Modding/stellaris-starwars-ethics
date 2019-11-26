@@ -452,7 +452,7 @@
  NEUTRAL_COLOSSUS_GREETING_02:0 "We are prepared to use the full destructive potential of our Colossus if matters come to that. It is our hope, of course, that this will not be necessary."
  HOSTILE_COLOSSUS_GREETING_01:0 "Pray that you will never have to witness the firepower of our fully armed and operational Colossus!"
  HOSTILE_COLOSSUS_GREETING_02:0 "The Colossus we have built is a tool to deal with the likes of the [From.GetName]. Do not give us a reason to use it against your worlds."
- PACIFIST_COLOSSUS_GREETING_01:0 "The Colossus we have built is a defensive measure, nothing more. Its purpose is to safeguard our people, and, if necessary, to protect the galaxy from those who would inflict harm upon it."
+ JEDIC_COLOSSUS_GREETING_01:0 "The Colossus we have built is a defensive measure, nothing more. Its purpose is to safeguard our people, and, if necessary, to protect the galaxy from those who would inflict harm upon it."
  SPIRITUALIST_COLOSSUS_GREETING_01:0 "We have channeled the very powers of the Spirits into the Colossus we have built. It will make short work of any heretics or profane constructs."
  MATERIALIST_COLOSSUS_GREETING_01:0 "The Colossus we possess is the crowning achievement of our long technological journey. Truly, there is nothing that Science cannot accomplish."
  PURIFIER_COLOSSUS_GREETING_01:0 "Have you not seen our Colossus, xeno scum? No matter. You will receive a full demonstration of its capabilities when it blows [From.Capital.GetName] to kingdom come."

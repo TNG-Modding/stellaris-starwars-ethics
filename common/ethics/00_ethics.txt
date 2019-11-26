@@ -1696,7 +1696,7 @@ ethic_jedic = {
 	}
 
 	pop_attraction_tag = {
-		desc = POP_ATTRACTION_PACIFIST_POS
+		desc = POP_ATTRACTION_JEDIC_POS
 		trigger = {
 			OR = {
 				has_ethic = ethic_jedic

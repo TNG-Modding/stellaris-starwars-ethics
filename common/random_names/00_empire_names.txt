@@ -889,7 +889,7 @@ empire_name_parts_list = {
 	}
 }
 
-### PACIFIST
+### JEDIC
 
 # Imperial Jedic
 empire_name_parts_list = {

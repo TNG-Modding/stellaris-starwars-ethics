@@ -13778,7 +13778,7 @@ greetings = {
 		}
 	}
 
-	PACIFIST_COLOSSUS_GREETING_01 = {
+	JEDIC_COLOSSUS_GREETING_01 = {
 		trigger = {
 			any_owned_ship = { is_ship_size = colossus }
 			NOR = {
