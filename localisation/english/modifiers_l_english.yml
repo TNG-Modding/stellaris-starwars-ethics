@@ -520,7 +520,7 @@
  # Dynamic Modifiers
  ####################################
  
- mod_pop_ethic_pacifist_attraction_mult:0 "Pacifist Ethics Attraction"
+ mod_pop_ethic_pacifist_attraction_mult:0 "Jedi Ethics Attraction"
  mod_pop_ethic_militarist_attraction_mult:0 "Militarist Ethics Attraction"
  mod_pop_ethic_materialist_attraction_mult:0 "Materialist Ethics Attraction"
  mod_pop_ethic_spiritualist_attraction_mult:0 "Spiritualist Ethics Attraction"
@@ -926,7 +926,7 @@
  opinion_of_spiritualist:0 "Spiritualist Fools"
  opinion_of_spiritualist_pos:0 "Wise Spiritualists"
  opinion_of_egalitarian_pos:0 "Free Egalitarianists"
- opinion_of_pacifist_pos:0 "Enlightened Pacifists"
+ opinion_of_pacifist_pos:0 "Enlightened Jedis"
  opinion_of_egalitarian:1 "Egalitarian Rabble"
  opinion_of_authoritarian:1 "Authoritarian Tyrants"
  opinion_from_personality:0 "[Root.GetPersonalityName] Personality"
@@ -938,7 +938,7 @@
  opinion_both_fanatic_purifiers:0 "Fellow Fanatic Purifiers"
  opinion_fanatic_purifiers:0 "Fanatic Purifiers"
  opinion_zealots_vs_materialists:0 "Infidel Unbelievers"
- opinion_hw_vs_pacifist:0 "Pacifist Cowards"
+ opinion_hw_vs_pacifist:0 "Jedi Cowards"
  opinion_dc_vs_democratic:0 "Is a Democracy"
  opinion_dc_vs_oligarchic:0 "Is an Oligarchy"
  opinion_dc_vs_autocracy:0 "Is an Autocracy"
