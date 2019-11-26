@@ -145,7 +145,7 @@ peace_festivals = {
 	length = @EdictDuration
 	
 	show_tech_unlock_if = {
-		is_pacifist = yes
+		is_jedic = yes
 	}
 	
 	modifier = {
@@ -157,7 +157,7 @@ peace_festivals = {
 	}
 	
 	potential = {
-		is_pacifist = yes
+		is_jedic = yes
 	}
 	
 	ai_weight = {

@@ -122,13 +122,13 @@ agenda_welfare = {
 		modifier = {
 			factor = 1.5
 			from = {
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_jedic
 			}
 		}
 		modifier = {
 			factor = 2
 			from = {
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_fanatic_jedic
 			}
 		}
 	}
@@ -230,7 +230,7 @@ agenda_import_export = {
 		modifier = {
 			factor = 1.5
 			from = {
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_fanatic_jedic
 			}
 		}
 		modifier = {
@@ -254,8 +254,8 @@ agenda_native_privilege = {
 			factor = 1.5
 			from = {
 				OR = {
-					has_ethic = ethic_fanatic_pacifist
-					has_ethic = ethic_pacifist
+					has_ethic = ethic_fanatic_jedic
+					has_ethic = ethic_jedic
 				}
 				OR = {
 					has_ethic = ethic_fanatic_xenophobe

@@ -90,7 +90,7 @@ greetings = {
 			}
 		}
 	}
-	# Hostile Pacifist
+	# Hostile Jedic
 	05_HOSTILE_GREETING = {
 		trigger = {
 			NOR = {
@@ -98,8 +98,8 @@ greetings = {
 				has_authority = auth_corporate
 			}
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 			NOT = { is_same_species = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -110,7 +110,7 @@ greetings = {
 			}
 		}
 	}
-	# Hostile Pacifist to Militarist
+	# Hostile Jedic to Militarist
 	06_HOSTILE_GREETING = {
 		trigger = {
 			NOR = {
@@ -118,8 +118,8 @@ greetings = {
 				has_authority = auth_corporate
 			}
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 			FROM = {
 				OR = {
@@ -156,7 +156,7 @@ greetings = {
 			}
 		}
 	}
-	# Hostile Militarist to Pacifist
+	# Hostile Militarist to Jedic
 	08_HOSTILE_GREETING = {
 		trigger = {
 			NOR = {
@@ -169,8 +169,8 @@ greetings = {
 			}
 			FROM = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 			NOT = { is_same_species = FROM }
@@ -671,7 +671,7 @@ greetings = {
 			}
 		}
 	}
-	# Neutral Pacifist
+	# Neutral Jedic
 	05_NEUTRAL_GREETING = {
 		trigger = {
 			NOR = {
@@ -679,8 +679,8 @@ greetings = {
 				has_authority = auth_corporate
 			}
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 			NOT = { is_same_species = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -690,7 +690,7 @@ greetings = {
 			}
 		}
 	}
-	# Neutral Pacifist to Militarist
+	# Neutral Jedic to Militarist
 	06_NEUTRAL_GREETING = {
 		trigger = {
 			NOR = {
@@ -698,8 +698,8 @@ greetings = {
 				has_authority = auth_corporate
 			}
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 			FROM = {
 				OR = {
@@ -734,7 +734,7 @@ greetings = {
 			}
 		}
 	}
-	# Neutral Militarist to Pacifist
+	# Neutral Militarist to Jedic
 	08_NEUTRAL_GREETING = {
 		trigger = {
 			NOR = {
@@ -747,8 +747,8 @@ greetings = {
 			}
 			FROM = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 			NOT = { is_same_species = FROM }
@@ -1178,13 +1178,13 @@ greetings = {
 			}
 		}
 	}
-	# Friendly Pacifist
+	# Friendly Jedic
 	05_FRIENDLY_GREETING = {
 		trigger = {
 			NOT = { has_ethic = ethic_gestalt_consciousness }
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 			NOT = { is_same_species = FROM }
 			NOT = { is_at_war_with = FROM }
@@ -1195,7 +1195,7 @@ greetings = {
 			}
 		}
 	}
-	# Friendly Pacifist to Militarist
+	# Friendly Jedic to Militarist
 	06_FRIENDLY_GREETING = {
 		trigger = {
 			NOR = {
@@ -1203,8 +1203,8 @@ greetings = {
 				has_authority = auth_corporate
 			}
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 			FROM = {
 				OR = {
@@ -1241,7 +1241,7 @@ greetings = {
 			}
 		}
 	}
-	# Friendly Militarist to Pacifist
+	# Friendly Militarist to Jedic
 	08_FRIENDLY_GREETING = {
 		trigger = {
 			NOR = {
@@ -1254,8 +1254,8 @@ greetings = {
 			}
 			FROM = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 			NOT = { is_same_species = FROM }
@@ -1690,7 +1690,7 @@ greetings = {
 			is_at_war_with = FROM
 		}
 	}
-	# War Pacifist
+	# War Jedic
 	05_WAR_GREETING = {
 		trigger = {
 			NOR = {
@@ -1700,8 +1700,8 @@ greetings = {
 			NOT = { is_country_type = fallen_empire }
 			NOT = { is_country_type = awakened_fallen_empire }
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 			NOT = { is_same_species = FROM }
 			is_at_war_with = FROM
@@ -1949,8 +1949,8 @@ greetings = {
 		trigger = {
 			is_overlord_to = FROM
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 				has_ethic = ethic_xenophile
 				has_ethic = ethic_fanatic_xenophile
 			}
@@ -2717,8 +2717,8 @@ greetings = {
 			has_ai_personality = honorbound_warriors
 			FROM = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 			NOT = { is_at_war_with = FROM }
@@ -2770,8 +2770,8 @@ greetings = {
 			has_ai_personality = honorbound_warriors
 			FROM = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 			NOT = { is_at_war_with = FROM }
@@ -2858,8 +2858,8 @@ greetings = {
 			has_ai_personality = honorbound_warriors
 			FROM = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 			NOT = { is_same_species = FROM }
@@ -3501,8 +3501,8 @@ greetings = {
 			has_ai_personality = hegemonic_imperialists
 			FROM = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 			NOT = { is_at_war_with = FROM }
@@ -3681,8 +3681,8 @@ greetings = {
 			NOT = { is_in_federation_with = FROM }
 			FROM = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 			NOT = { is_at_war_with = FROM }
@@ -7053,8 +7053,8 @@ greetings = {
 			has_ai_personality = harmonious_hierarchy
 			FROM = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 			NOT = { is_at_war_with = FROM }
@@ -11858,8 +11858,8 @@ greetings = {
 				is_species_class = ROBOT
 				has_ethic = ethic_spiritualist
 				has_ethic = ethic_fanatic_spiritualist
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 				is_at_war_with = FROM
 				AND = {
 					exists = event_target:ratling_country
@@ -12693,7 +12693,7 @@ greetings = {
 				has_ethic = ethic_spiritualist
 				has_ethic = ethic_fanatic_spiritualist
 				has_ethic = ethic_fanatic_egalitarian
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_fanatic_jedic
 			}
 			from = {
 				has_authority = auth_machine_intelligence
@@ -12712,7 +12712,7 @@ greetings = {
 				is_species_class = ROBOT
 				has_ethic = ethic_spiritualist
 				has_ethic = ethic_fanatic_spiritualist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_fanatic_jedic
 			}
 			from = {
 				has_authority = auth_machine_intelligence
@@ -13555,8 +13555,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_friendly_to = FROM
@@ -13573,8 +13573,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_friendly_to = FROM
@@ -13594,8 +13594,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_friendly_to = FROM
@@ -13615,8 +13615,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_friendly_to = FROM
@@ -13633,8 +13633,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_neutral_to = FROM
@@ -13650,8 +13650,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_neutral_to = FROM
@@ -13670,8 +13670,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_neutral_to = FROM
@@ -13690,8 +13690,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_neutral_to = FROM
@@ -13707,8 +13707,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_hostile_to = FROM
@@ -13725,8 +13725,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_hostile_to = FROM
@@ -13746,8 +13746,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_hostile_to = FROM
@@ -13767,8 +13767,8 @@ greetings = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
 				is_at_war_with = FROM
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 			OR = {
 				is_hostile_to = FROM
@@ -13787,8 +13787,8 @@ greetings = {
 				is_at_war_with = FROM
 			}
 			OR = {
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 		}
 	}
@@ -13851,8 +13851,8 @@ greetings = {
 			NOR = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 		}
 	}
@@ -13864,8 +13864,8 @@ greetings = {
 			NOR = {
 				has_ethic = ethic_gestalt_consciousness
 				has_valid_civic = civic_fanatic_purifiers
-				has_ethic = ethic_fanatic_pacifist
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_fanatic_jedic
+				has_ethic = ethic_jedic
 			}
 		}
 	}
@@ -14569,8 +14569,8 @@ action_declare_war = {
 		#		NOT = {
 		#			is_same_species = FROM
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#		OR = {
@@ -14588,8 +14588,8 @@ action_declare_war = {
 		#		NOT = {
 		#			is_same_species = FROM
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#		OR = {
@@ -14607,8 +14607,8 @@ action_declare_war = {
 		#		NOT = {
 		#			is_same_species = FROM
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#		OR = {
@@ -14626,8 +14626,8 @@ action_declare_war = {
 		#		NOT = {
 		#			is_same_species = FROM
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#		OR = {
@@ -14644,8 +14644,8 @@ action_declare_war = {
 		#		NOT = {
 		#			is_same_species = FROM
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#		OR = {
@@ -14662,8 +14662,8 @@ action_declare_war = {
 		#		NOT = {
 		#			is_same_species = FROM
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#		OR = {
@@ -14680,8 +14680,8 @@ action_declare_war = {
 		#		NOT = {
 		#			is_same_species = FROM
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#		OR = {
@@ -14699,8 +14699,8 @@ action_declare_war = {
 		#		NOT = {
 		#			is_same_species = FROM
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#		OR = {
@@ -14718,8 +14718,8 @@ action_declare_war = {
 		#		NOT = {
 		#			is_same_species = FROM
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#		OR = {
@@ -14729,14 +14729,14 @@ action_declare_war = {
 		#		}
 		#	}
 		#}
-		## Hostile Pacifist
+		## Hostile Jedic
 		#10_DOW_SELECT = {
 		#	trigger = {
 		#		NOT = { has_ethic = ethic_gestalt_consciousness }
 		#		NOT = { has_ai_personality = fanatic_purifiers }
 		#		OR = {
-		#			has_ethic = ethic_pacifist
-		#			has_ethic = ethic_fanatic_pacifist
+		#			has_ethic = ethic_jedic
+		#			has_ethic = ethic_fanatic_jedic
 		#		}
 		#		OR = {
 		#			is_hostile_to = FROM
@@ -14745,14 +14745,14 @@ action_declare_war = {
 		#		}
 		#	}
 		#}
-		## Neutral Pacifist
+		## Neutral Jedic
 		#11_DOW_SELECT = {
 		#	trigger = {
 		#		NOT = { has_ethic = ethic_gestalt_consciousness }
 		#		NOT = { has_ai_personality = fanatic_purifiers }
 		#		OR = {
-		#			has_ethic = ethic_pacifist
-		#			has_ethic = ethic_fanatic_pacifist
+		#			has_ethic = ethic_jedic
+		#			has_ethic = ethic_fanatic_jedic
 		#		}
 		#		OR = {
 		#			is_neutral_to = FROM
@@ -14760,14 +14760,14 @@ action_declare_war = {
 		#		}
 		#	}
 		#}
-		## Friendly Pacifist
+		## Friendly Jedic
 		#12_DOW_SELECT = {
 		#	trigger = {
 		#		NOT = { has_ethic = ethic_gestalt_consciousness }
 		#		NOT = { has_ai_personality = fanatic_purifiers }
 		#		OR = {
-		#			has_ethic = ethic_pacifist
-		#			has_ethic = ethic_fanatic_pacifist
+		#			has_ethic = ethic_jedic
+		#			has_ethic = ethic_fanatic_jedic
 		#		}
 		#		OR = {
 		#			is_friendly_to = FROM
@@ -15393,8 +15393,8 @@ action_declare_war = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 					has_authority = auth_corporate
 				}
@@ -15412,8 +15412,8 @@ action_declare_war = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 					has_authority = auth_corporate
 				}
@@ -15431,8 +15431,8 @@ action_declare_war = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 					has_authority = auth_corporate
 				}
@@ -15450,8 +15450,8 @@ action_declare_war = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 					has_authority = auth_corporate
 				}
@@ -15468,8 +15468,8 @@ action_declare_war = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 					has_authority = auth_corporate
 				}
@@ -15486,8 +15486,8 @@ action_declare_war = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 					has_authority = auth_corporate
 				}
@@ -15504,8 +15504,8 @@ action_declare_war = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 					has_authority = auth_corporate
 				}
@@ -15523,8 +15523,8 @@ action_declare_war = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 					has_authority = auth_corporate
 				}
@@ -15542,8 +15542,8 @@ action_declare_war = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 					has_authority = auth_corporate
 				}
@@ -15554,7 +15554,7 @@ action_declare_war = {
 				}
 			}
 		}
-		# Hostile Pacifist
+		# Hostile Jedic
 		10_DOW_ACCEPT = {
 			trigger = {
 				NOR = {
@@ -15563,8 +15563,8 @@ action_declare_war = {
 				}
 				NOT = { is_same_species = FROM }
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 				OR = {
 					is_hostile_to = FROM
@@ -15573,7 +15573,7 @@ action_declare_war = {
 				}
 			}
 		}
-		# Neutral Pacifist
+		# Neutral Jedic
 		11_DOW_ACCEPT = {
 			trigger = {
 				NOR = {
@@ -15582,8 +15582,8 @@ action_declare_war = {
 				}
 				NOT = { is_same_species = FROM }
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 				OR = {
 					is_neutral_to = FROM
@@ -15591,7 +15591,7 @@ action_declare_war = {
 				}
 			}
 		}
-		# Friendly Pacifist
+		# Friendly Jedic
 		12_DOW_ACCEPT = {
 			trigger = {
 				NOR = {
@@ -15600,8 +15600,8 @@ action_declare_war = {
 				}
 				NOT = { is_same_species = FROM }
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 				OR = {
 					is_friendly_to = FROM
@@ -15610,7 +15610,7 @@ action_declare_war = {
 				}
 			}
 		}
-		# Pacifist Same Species
+		# Jedic Same Species
 		13_DOW_ACCEPT = {
 			trigger = {
 				NOR = {
@@ -15619,8 +15619,8 @@ action_declare_war = {
 				}
 				is_same_species = FROM
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 		}
@@ -16128,8 +16128,8 @@ action_offer_peace = {
 		#		NOT = { is_same_species = FROM }
 		#		NOT = {
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#	}
@@ -16142,8 +16142,8 @@ action_offer_peace = {
 		#		NOT = { is_same_species = FROM }
 		#		NOT = {
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#	}
@@ -16156,20 +16156,20 @@ action_offer_peace = {
 		#		NOT = { is_same_species = FROM }
 		#		NOT = {
 		#			OR = {
-		#				has_ethic = ethic_pacifist
-		#				has_ethic = ethic_fanatic_pacifist
+		#				has_ethic = ethic_jedic
+		#				has_ethic = ethic_fanatic_jedic
 		#			}
 		#		}
 		#	}
 		#}
-		## Pacifist
+		## Jedic
 		#04_PEACE_SELECT = {
 		#	trigger = {
 		#		NOT = { has_ethic = ethic_gestalt_consciousness }
 		#		NOT = { has_ai_personality = fanatic_purifiers }
 		#		OR = {
-		#			has_ethic = ethic_pacifist
-		#			has_ethic = ethic_fanatic_pacifist
+		#			has_ethic = ethic_jedic
+		#			has_ethic = ethic_fanatic_jedic
 		#		}
 		#	}
 		#}
@@ -16456,8 +16456,8 @@ action_offer_peace = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 						has_authority = auth_corporate
 					}
 				}
@@ -16471,8 +16471,8 @@ action_offer_peace = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 						has_authority = auth_corporate
 					}
 				}
@@ -16486,8 +16486,8 @@ action_offer_peace = {
 				NOT = {
 					is_same_species = FROM
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 						has_authority = auth_corporate
 					}
 				}
@@ -16501,22 +16501,22 @@ action_offer_peace = {
 				is_same_species = FROM
 				NOT = {
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 						has_authority = auth_corporate
 					}
 				}
 			}
 		}
-		# Accepted Pacifist
+		# Accepted Jedic
 		05_PEACE_ACCEPT = {
 			trigger = {
 				NOT = { has_ethic = ethic_gestalt_consciousness }
 				NOT = { has_ai_personality = fanatic_purifiers }
 				NOT = {	has_authority = auth_corporate }
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 		}
@@ -29513,8 +29513,8 @@ action_insult = {
 				}
 				FROM = {
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 				}
 			}
@@ -29535,8 +29535,8 @@ action_insult = {
 				}
 				FROM = {
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 				}
 			}
@@ -29557,8 +29557,8 @@ action_insult = {
 				}
 				FROM = {
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 				}
 			}
@@ -29579,8 +29579,8 @@ action_insult = {
 				}
 				FROM = {
 					OR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 				}
 			}
@@ -29597,8 +29597,8 @@ action_insult = {
 					}
 				}
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 				FROM = {
 					OR = {
@@ -29619,8 +29619,8 @@ action_insult = {
 					}
 				}
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 				NOT = { is_species_class = ROBOT }
 				FROM = {
@@ -29642,8 +29642,8 @@ action_insult = {
 					}
 				}
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 				FROM = {
 					OR = {
@@ -29664,8 +29664,8 @@ action_insult = {
 					}
 				}
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 				FROM = {
 					OR = {

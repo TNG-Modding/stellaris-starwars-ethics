@@ -241,11 +241,11 @@ tech_eco_simulation = {
 		}
 		modifier = {
 			factor = 1.25
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 1.5
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.25
@@ -260,11 +260,11 @@ tech_eco_simulation = {
 		factor = 1.5 #farms are good
 		modifier = {
 			factor = 1.25
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 1.5
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.25
@@ -310,11 +310,11 @@ tech_gene_crops = {
 		}
 		modifier = {
 			factor = 1.25
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 1.5
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.25
@@ -329,11 +329,11 @@ tech_gene_crops = {
 		factor = 1.5 #farms are good
 		modifier = {
 			factor = 1.25
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 1.5
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.25
@@ -379,11 +379,11 @@ tech_nano_vitality_crops = {
 		}
 		modifier = {
 			factor = 1.25
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 1.5
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.25
@@ -398,11 +398,11 @@ tech_nano_vitality_crops = {
 		factor = 1.5 #farms are good
 		modifier = {
 			factor = 1.25
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 1.5
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.25
@@ -469,22 +469,22 @@ tech_nutrient_replication = {
 		}
 		modifier = {
 			factor = 1.25
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 1.5
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 	}
 
 	ai_weight = {
 		modifier = {
 			factor = 1.25
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 1.5
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.25
@@ -4282,8 +4282,8 @@ tech_planetary_unification = {
 			factor = 0.75
 			NOT = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 		}
@@ -4295,8 +4295,8 @@ tech_planetary_unification = {
 			factor = 0.75
 			NOT = {
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 		}

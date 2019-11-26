@@ -4,7 +4,7 @@
 
 prosperity = {
 	election_header = "GFX_faction_header_yellow"
-	guiding_ethic = ethic_pacifist
+	guiding_ethic = ethic_jedic
 	
 	unique = yes
 	support_multiplier = 1
@@ -40,7 +40,7 @@ prosperity = {
 		is_shackled_robot = no
 		has_culture_shock = no
 		NOT = { has_trait = trait_nerve_stapled }
-		has_ethic = ethic_pacifist
+		has_ethic = ethic_jedic
 	}
 	
 	attraction = {
@@ -67,8 +67,8 @@ prosperity = {
 			factor = 1.5
 			
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 		}
 		
@@ -267,15 +267,15 @@ prosperity = {
 	on_destroy = {
 		if = {
 			limit = {
-				has_modifier = promoted_pacifist
+				has_modifier = promoted_jedic
 			}
-			remove_modifier = promoted_pacifist
+			remove_modifier = promoted_jedic
 		}
 		if = {
 			limit = {
-				has_modifier = suppressed_pacifist
+				has_modifier = suppressed_jedic
 			}
-			remove_modifier = suppressed_pacifist
+			remove_modifier = suppressed_jedic
 		}
 	}
 
@@ -307,14 +307,14 @@ prosperity = {
 				}
 				support > 0.20
 				parameter:empire = {
-					NOT = { has_ethic = "ethic_fanatic_pacifist" }
+					NOT = { has_ethic = "ethic_fanatic_jedic" }
 				}
 			}
 
 			effect = {
 				add_modifier = { modifier = embraced_faction days = 3600 }
 				parameter:empire = {
-					shift_ethic = ethic_pacifist
+					shift_ethic = ethic_jedic
 					hidden_effect = {
 						add_modifier = { modifier = embraced_faction_timer days = 3600 }
 						every_pop_faction = {
@@ -344,7 +344,7 @@ prosperity = {
 					factor = 0
 					support < 0.50
 					owner = {
-						has_ethic = ethic_pacifist
+						has_ethic = ethic_jedic
 					}
 				}
 				modifier = {
@@ -380,15 +380,15 @@ prosperity = {
 				exists = owner
 				parameter:empire = {
 					NOR = {
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}
 				}
 			}
 
 			effect = {
 				parameter:empire = {
-					add_modifier = { modifier = promoted_pacifist days = -1 }
+					add_modifier = { modifier = promoted_jedic days = -1 }
 				}
 			}
 			
@@ -403,13 +403,13 @@ prosperity = {
 			potential = {
 				exists = owner
 				parameter:empire = {
-					has_modifier = promoted_pacifist
+					has_modifier = promoted_jedic
 				}
 			}
 
 			effect = {
 				parameter:empire = {
-					remove_modifier = promoted_pacifist
+					remove_modifier = promoted_jedic
 				}
 			}
 			
@@ -425,8 +425,8 @@ prosperity = {
 				exists = owner
 				parameter:empire = {
 					NOR = {
-						has_modifier = suppressed_pacifist
-						has_modifier = promoted_pacifist
+						has_modifier = suppressed_jedic
+						has_modifier = promoted_jedic
 					}
 				}
 			}
@@ -434,7 +434,7 @@ prosperity = {
 			effect = {
 				add_modifier = { modifier = suppressed_faction days = -1 }
 				parameter:empire = {
-					add_modifier = { modifier = suppressed_pacifist days = -1 }
+					add_modifier = { modifier = suppressed_jedic days = -1 }
 				}
 			}
 			
@@ -449,14 +449,14 @@ prosperity = {
 			potential = {
 				exists = owner
 				parameter:empire = {
-					has_modifier = suppressed_pacifist
+					has_modifier = suppressed_jedic
 				}
 			}
 
 			effect = {
 				remove_modifier = suppressed_faction
 				parameter:empire = {
-					remove_modifier = suppressed_pacifist
+					remove_modifier = suppressed_jedic
 				}
 			}
 			

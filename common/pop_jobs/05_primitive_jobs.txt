@@ -148,7 +148,7 @@ primitive_warrior = {
 		}
 		modifier = {
 			factor = 0
-			is_pacifist = yes
+			is_jedic = yes
 		}
 	}
 }
@@ -555,7 +555,7 @@ primitive_warrior_2 = {
 		}
 		modifier = {
 			factor = 0
-			is_pacifist = yes
+			is_jedic = yes
 		}
 	}
 }

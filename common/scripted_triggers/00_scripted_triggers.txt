@@ -476,7 +476,7 @@ has_militarist_government = {
 	}
 }
 
-has_pacifist_government = {
+has_jedic_government = {
 	OR = {
 		has_government = gov_irenic_monarchy
 		has_government = gov_irenic_dictatorship
@@ -829,10 +829,10 @@ is_ethics_aligned = {
 	}
 }
 
-is_pacifist = {
+is_jedic = {
 	OR = {
-		has_ethic = ethic_pacifist
-		has_ethic = ethic_fanatic_pacifist
+		has_ethic = ethic_jedic
+		has_ethic = ethic_fanatic_jedic
 	}
 }
 

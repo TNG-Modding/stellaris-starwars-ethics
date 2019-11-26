@@ -297,10 +297,10 @@ egalitarian_unrest = {
 	pop_ethic_egalitarian_attraction_mult = 1
 }
 
-pacifist_unrest = {
+jedic_unrest = {
 	icon = "gfx/interface/icons/planet_modifiers/pm_unknown.dds"
 	icon_frame = 2
-	pop_ethic_pacifist_attraction_mult = 1
+	pop_ethic_jedic_attraction_mult = 1
 }
 
 militarist_unrest = {

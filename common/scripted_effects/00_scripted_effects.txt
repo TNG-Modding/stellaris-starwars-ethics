@@ -232,7 +232,7 @@ create_pirate_country = {
 ### Changes a pops ethic one level to the opposite
 ##Checks for the following flags, make sure to set them before you run the effect:
 #ethic_diverge_from_militarist
-#ethic_diverge_from_pacifist
+#ethic_diverge_from_jedic
 #ethic_diverge_from_materialist
 #ethic_diverge_from_spiritualist
 #ethic_diverge_from_authoritarian
@@ -256,24 +256,24 @@ pop_diverge_ethic = {
 			has_pop_flag = ethic_diverge_from_militarist
 			NOT = { has_pop_flag = pop_changed_ethics }
 		}
-		pop_change_ethic = ethic_pacifist
+		pop_change_ethic = ethic_jedic
 		set_timed_pop_flag = { flag = pop_changed_ethics days = 7 }
 	}
 	if = {
 		limit = {
-			has_ethic = ethic_pacifist
-			has_pop_flag = ethic_diverge_from_pacifist
+			has_ethic = ethic_jedic
+			has_pop_flag = ethic_diverge_from_jedic
 			NOT = { has_pop_flag = pop_changed_ethics }
 		}
-		pop_remove_ethic = ethic_pacifist
+		pop_remove_ethic = ethic_jedic
 		set_timed_pop_flag = { flag = pop_changed_ethics days = 7 }
 	}
 	if = {
 		limit = {
 			NOT = {
-				has_ethic = ethic_pacifist
+				has_ethic = ethic_jedic
 			}
-			has_pop_flag = ethic_diverge_from_pacifist
+			has_pop_flag = ethic_diverge_from_jedic
 			NOT = { has_pop_flag = pop_changed_ethics }
 		}
 		pop_change_ethic = ethic_militarist
@@ -296,7 +296,7 @@ pop_diverge_ethic = {
 			has_pop_flag = ethic_diverge_from_materialist
 			NOT = { has_pop_flag = pop_changed_ethics }
 		}
-		pop_change_ethic = ethic_pacifist
+		pop_change_ethic = ethic_jedic
 		set_timed_pop_flag = { flag = pop_changed_ethics days = 7 }
 	}
 	if = {
@@ -1946,7 +1946,7 @@ make_resilient = {
 	}
 }
 
- ##create a subspecies with the Intelligent and Fanatically Pacifist traits, and remove Militarist or Fanatically Militarist
+ ##create a subspecies with the Intelligent and Fanatically Jedic traits, and remove Militarist or Fanatically Militarist
 make_unleashed_messenger = {
 	if = {
 		limit = { root = { is_species_class = ART } }
@@ -2075,8 +2075,8 @@ wipe_pop_ethos = {
 		pop_remove_ethic = ethic_fanatic_authoritarian
 	}
 	if = {
-		limit = { pop_has_ethic = ethic_fanatic_pacifist }
-		pop_remove_ethic = ethic_fanatic_pacifist
+		limit = { pop_has_ethic = ethic_fanatic_jedic }
+		pop_remove_ethic = ethic_fanatic_jedic
 	}
 	if = {
 		limit = { pop_has_ethic = ethic_fanatic_militarist }
@@ -2107,8 +2107,8 @@ wipe_pop_ethos = {
 		pop_remove_ethic = ethic_authoritarian
 	}
 	if = {
-		limit = { pop_has_ethic = ethic_pacifist }
-		pop_remove_ethic = ethic_pacifist
+		limit = { pop_has_ethic = ethic_jedic }
+		pop_remove_ethic = ethic_jedic
 	}
 	if = {
 		limit = { pop_has_ethic = ethic_militarist }

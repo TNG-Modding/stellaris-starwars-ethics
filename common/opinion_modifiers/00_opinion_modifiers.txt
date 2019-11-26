@@ -165,7 +165,7 @@ opinion_policy_orbital_bombardment = {
 		base = 0
 		modifier = {
 			add = -10
-			has_ethic = "ethic_pacifist"
+			has_ethic = "ethic_jedic"
 
 			from = {
 				OR = {	
@@ -178,7 +178,7 @@ opinion_policy_orbital_bombardment = {
 		modifier = {
 			add = -20
 
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_fanatic_jedic"
 
 			from = {
 				OR = {	
@@ -672,30 +672,30 @@ opinion_of_egalitarian_pos = {
 	}
 }
 
-# Good Opinion of Ethic: Pacifist
-opinion_of_pacifist_pos = {
+# Good Opinion of Ethic: Jedic
+opinion_of_jedic_pos = {
 	opinion = {
 		base = 0
 		
 		modifier = {
 			add = 25
-			has_ethic = "ethic_fanatic_pacifist"
-			FROM = { has_ethic = "ethic_fanatic_pacifist" }
+			has_ethic = "ethic_fanatic_jedic"
+			FROM = { has_ethic = "ethic_fanatic_jedic" }
 		}
 		modifier = {
 			add = 10
-			has_ethic = "ethic_fanatic_pacifist"
-			FROM = { has_ethic = "ethic_pacifist" }
+			has_ethic = "ethic_fanatic_jedic"
+			FROM = { has_ethic = "ethic_jedic" }
 		}
 		modifier = {
 			add = 10
-			has_ethic = "ethic_pacifist"
-			FROM = { has_ethic = "ethic_fanatic_pacifist" }
+			has_ethic = "ethic_jedic"
+			FROM = { has_ethic = "ethic_fanatic_jedic" }
 		}
 		modifier = {
 			add = 10
-			has_ethic = "ethic_pacifist"
-			FROM = { has_ethic = "ethic_pacifist" }
+			has_ethic = "ethic_jedic"
+			FROM = { has_ethic = "ethic_jedic" }
 		}
 	}
 }
@@ -933,12 +933,12 @@ opinion_nuker = {
 		}		
 		modifier = {
 			add = -5
-			has_ethic = "ethic_pacifist"
+			has_ethic = "ethic_jedic"
 			is_country_type = default 
 		}
 		modifier = {
 			add = -10
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_fanatic_jedic"
 			is_country_type = default
 		}		
 		modifier = {
@@ -1813,12 +1813,12 @@ assassination_forgiven = {
 
 		modifier = {
 			add = -2
-			has_ethic = "ethic_pacifist"
+			has_ethic = "ethic_jedic"
 		}
 
 		modifier = {
 			add = -4
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_fanatic_jedic"
 		}
 	}
 }
@@ -1839,12 +1839,12 @@ opinion_primitive_violation = {
 		
 		modifier = {
 			add = -5
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 
 		modifier = {
 			add = -10
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}		
 
 		modifier = {
@@ -3263,7 +3263,7 @@ triggered_opinion_barbaric_despoilers = {
 		is_country_type = default
 		NOR = {
 			is_militarist = yes
-			is_pacifist = yes	
+			is_jedic = yes	
 			is_authoritarian = yes
 			has_ethic = ethic_gestalt_consciousness
 			has_valid_civic = civic_fanatic_purifiers
@@ -3281,7 +3281,7 @@ triggered_authoritarian_opinion_barbaric_despoilers = {
 		is_country_type = default
 		is_authoritarian = yes
 		is_militarist = no
-		is_pacifist = no
+		is_jedic = no
 		NOT = { has_civic = civic_barbaric_despoilers }
 		FROM = { has_civic = civic_barbaric_despoilers }
 	}
@@ -3302,10 +3302,10 @@ triggered_militarist_opinion_barbaric_despoilers = {
 	}
 }
 
-triggered_pacifist_opinion_barbaric_despoilers = {
+triggered_jedic_opinion_barbaric_despoilers = {
 	trigger = {
 		is_country_type = default
-		is_pacifist = yes
+		is_jedic = yes
 		NOT = { has_civic = civic_barbaric_despoilers }
 		FROM = { has_civic = civic_barbaric_despoilers }
 	}

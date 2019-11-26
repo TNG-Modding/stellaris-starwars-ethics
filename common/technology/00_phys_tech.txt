@@ -1197,11 +1197,11 @@ tech_synchronized_defences = {
 		}
 		modifier = {
 			factor = 0.75
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 0.65
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.10

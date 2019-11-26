@@ -162,8 +162,8 @@ evangelising_zealots = {
 	allow = {
 		is_country_type = default
 		NOT = {
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 		}
 		OR = {
 			has_ethic = "ethic_authoritarian"
@@ -255,8 +255,8 @@ erudite_explorers = {
 		NOR = {
 			has_ethic = "ethic_xenophobe"
 			has_ethic = "ethic_fanatic_xenophobe"
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 			has_ethic =  "ethic_militarist"
 			has_ethic =  "ethic_fanatic_militarist"
 		}
@@ -359,8 +359,8 @@ spiritual_seekers = {
 		OR = {
 			has_ethic = "ethic_egalitarian"
 			has_ethic = "ethic_fanatic_egalitarian"
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 			has_ethic = "ethic_xenophile"
 			has_ethic = "ethic_fanatic_xenophile"
 		}
@@ -374,7 +374,7 @@ spiritual_seekers = {
 		weight = 10
 		modifier = {
 			factor = 2
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_fanatic_jedic"
 		}
 		modifier = {
 			factor = 2
@@ -449,8 +449,8 @@ ruthless_capitalists = {
 	allow = {
 		is_country_type = default
 		NOR = {
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 		}
 		OR = {
 			has_ethic = "ethic_militarist"
@@ -521,8 +521,8 @@ peaceful_traders = {
 	allow = {
 		is_country_type = default
 		OR = {
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 			AND = {
 				NOR = {
 					has_ethic = "ethic_militarist"
@@ -595,8 +595,8 @@ hegemonic_imperialists = {
 	allow = {
 		is_country_type = default
 		NOT = {
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 		}
 		OR = {
 			has_ethic = "ethic_militarist"
@@ -668,8 +668,8 @@ slaving_despots = {
 		is_country_type = default
 		has_valid_civic = civic_slaver_guilds
 		NOR = {
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 			has_ethic = "ethic_xenophile"
 			has_ethic = "ethic_fanatic_xenophile"			
 		}	
@@ -731,8 +731,8 @@ decadent_hierarchy = {
 		is_country_type = default
 		has_valid_civic = civic_slaver_guilds
 		OR = {
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 			has_ethic = "ethic_xenophile"
 			has_ethic = "ethic_fanatic_xenophile"				
 		}		
@@ -866,8 +866,8 @@ harmonious_hierarchy = {
 			has_ethic = "ethic_fanatic_militarist"	
 		}
 		OR = {
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 			has_ethic = "ethic_xenophile"
 			has_ethic = "ethic_fanatic_xenophile"
 		}
@@ -951,8 +951,8 @@ federation_builders = {
 			has_ethic = "ethic_fanatic_egalitarian"
 			AND = {
 				OR = {
-					has_ethic = "ethic_pacifist"
-					has_ethic = "ethic_fanatic_pacifist"
+					has_ethic = "ethic_jedic"
+					has_ethic = "ethic_fanatic_jedic"
 				}
 				OR = {
 					has_ethic = "ethic_egalitarian"
@@ -961,8 +961,8 @@ federation_builders = {
 			}
 			AND = {
 				OR = {
-					has_ethic = "ethic_pacifist"
-					has_ethic = "ethic_fanatic_pacifist"
+					has_ethic = "ethic_jedic"
+					has_ethic = "ethic_fanatic_jedic"
 				}
 				OR = {
 					has_ethic = "ethic_materialist"
@@ -971,8 +971,8 @@ federation_builders = {
 			}		
 			AND = {
 				OR = {
-					has_ethic = "ethic_pacifist"
-					has_ethic = "ethic_fanatic_pacifist"
+					has_ethic = "ethic_jedic"
+					has_ethic = "ethic_fanatic_jedic"
 				}
 				OR = {
 					has_ethic = "ethic_xenophile"
@@ -1048,8 +1048,8 @@ xenophobic_isolationists = {
 	allow = {
 		is_country_type = default
 		OR = {
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 		}
 		OR = {
 			has_ethic = "ethic_xenophobe"
@@ -1062,15 +1062,15 @@ xenophobic_isolationists = {
 		modifier = {
 			factor = -2
 			NOT = {
-				has_ethic = "ethic_pacifist"
-				has_ethic = "ethic_fanatic_pacifist"
+				has_ethic = "ethic_jedic"
+				has_ethic = "ethic_fanatic_jedic"
 			}
 		}
 		modifier = {
 			factor = 2
 			OR = {
-				has_ethic = "ethic_pacifist"
-				has_ethic = "ethic_fanatic_pacifist"
+				has_ethic = "ethic_jedic"
+				has_ethic = "ethic_fanatic_jedic"
 			}
 		}
 		modifier = {
@@ -1327,8 +1327,8 @@ migrating_flock = {
 			has_ethic = "ethic_fanatic_xenophile"
 		}
 		OR = {
-			has_ethic = "ethic_pacifist"
-			has_ethic = "ethic_fanatic_pacifist"
+			has_ethic = "ethic_jedic"
+			has_ethic = "ethic_fanatic_jedic"
 		}
 		OR = {
 			has_trait = "trait_rapid_breeders"

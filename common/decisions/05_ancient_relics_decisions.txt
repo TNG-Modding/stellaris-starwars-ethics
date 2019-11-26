@@ -127,7 +127,7 @@ decision_baol_life_seed = {
 				create_pop = {
 					species = event_target:nu_baol_species
 					ethos = {
-						ethic = "ethic_fanatic_pacifist"
+						ethic = "ethic_fanatic_jedic"
 					}
 				}
 			}

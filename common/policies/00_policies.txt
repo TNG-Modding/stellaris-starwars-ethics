@@ -34,8 +34,8 @@ war_philosophy = {
 
 		valid = {
 			NOR = {
-				has_ethic = "ethic_pacifist"
-				has_ethic = "ethic_fanatic_pacifist"
+				has_ethic = "ethic_jedic"
+				has_ethic = "ethic_fanatic_jedic"
 				has_valid_civic = "civic_inwards_perfection"
 			}
 		}
@@ -48,8 +48,8 @@ war_philosophy = {
 					is_ai = no
 				}
 				NOT = {
-					has_ethic = "ethic_pacifist"
-					has_ethic = "ethic_fanatic_pacifist"
+					has_ethic = "ethic_jedic"
+					has_ethic = "ethic_fanatic_jedic"
 				}
 			}
 			modifier = {
@@ -65,8 +65,8 @@ war_philosophy = {
 			modifier = {
 				factor = 0
 				OR = {
-					has_ethic = "ethic_pacifist"
-					has_ethic = "ethic_fanatic_pacifist"
+					has_ethic = "ethic_jedic"
+					has_ethic = "ethic_fanatic_jedic"
 				}
 			}
 		}
@@ -85,7 +85,7 @@ war_philosophy = {
 
 		valid = {
 			NOR = {
-				has_ethic = "ethic_fanatic_pacifist"
+				has_ethic = "ethic_fanatic_jedic"
 				has_valid_civic = "civic_fanatic_purifiers"
 			}
 		}
@@ -113,7 +113,7 @@ war_philosophy = {
 					has_valid_ai_personality = no
 					is_ai = no
 				}
-				has_ethic = "ethic_pacifist"
+				has_ethic = "ethic_jedic"
 			}
 			modifier = {
 				factor = 2
@@ -147,11 +147,11 @@ war_philosophy = {
 		AI_weight = {
 			modifier = {
 				factor = 5
-				has_ethic = "ethic_fanatic_pacifist"
+				has_ethic = "ethic_fanatic_jedic"
 			}
 			modifier = {
 				factor = 0
-				NOT = { has_ethic = "ethic_fanatic_pacifist" }
+				NOT = { has_ethic = "ethic_fanatic_jedic" }
 			}
 		}
 	}
@@ -190,8 +190,8 @@ war_doctrine = {
 			modifier = {
 				factor = 0
 				NOR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 		}
@@ -266,8 +266,8 @@ orbital_bombardment = {
 			modifier = {
 				factor = 0
 				NOR = {
-					has_ethic = "ethic_pacifist"
-					has_ethic = "ethic_fanatic_pacifist"
+					has_ethic = "ethic_jedic"
+					has_ethic = "ethic_fanatic_jedic"
 				}
 			}
 		}
@@ -282,8 +282,8 @@ orbital_bombardment = {
 
 		valid = {
 			NOR = {
-				has_ethic = "ethic_pacifist"
-				has_ethic = "ethic_fanatic_pacifist"
+				has_ethic = "ethic_jedic"
+				has_ethic = "ethic_fanatic_jedic"
 			}
 		}
 	}
@@ -386,8 +386,8 @@ interference = {
 		valid = {
 			NOT = { is_subject_type = signatory }
 			NOR = {
-				has_ethic = "ethic_pacifist"
-				has_ethic = "ethic_fanatic_pacifist"
+				has_ethic = "ethic_jedic"
+				has_ethic = "ethic_fanatic_jedic"
 			}
 		}
 		policy_flags = {
@@ -414,8 +414,8 @@ interference = {
 			modifier = {
 				factor = 0
 				OR = {
-					has_ethic = "ethic_pacifist"
-					has_ethic = "ethic_fanatic_pacifist"
+					has_ethic = "ethic_jedic"
+					has_ethic = "ethic_fanatic_jedic"
 				}
 			}
 		}
@@ -676,8 +676,8 @@ first_contact_protocol = {
 			}
 			NOR = {
 				has_ethic = ethic_fanatic_xenophile
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 		}
 
@@ -1475,8 +1475,8 @@ slavery = {
 					has_ethic = "ethic_fanatic_militarist"
 				}
 				OR = {
-					has_ethic = "ethic_pacifist"
-					has_ethic = "ethic_fanatic_pacifist"
+					has_ethic = "ethic_jedic"
+					has_ethic = "ethic_fanatic_jedic"
 					has_ethic = "ethic_xenophile"
 					has_ethic = "ethic_fanatic_xenophile"
 				}
@@ -1566,8 +1566,8 @@ purge = {
 			modifier = {
 				factor = 0
 				OR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}
 			}
 			modifier = {

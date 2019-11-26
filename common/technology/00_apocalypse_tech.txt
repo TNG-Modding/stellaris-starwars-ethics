@@ -110,7 +110,7 @@ tech_pk_cracker = {
 	potential = {
 		host_has_dlc = "Apocalypse"
 		has_country_flag = colossus_project
-		is_pacifist = no
+		is_jedic = no
 	}
 	
 	weight_modifier = {
@@ -193,7 +193,7 @@ tech_pk_shielder = {
 		}
 		modifier = {
 			factor = 2
-			is_pacifist = yes
+			is_jedic = yes
 		}
 	}
 	
@@ -201,11 +201,11 @@ tech_pk_shielder = {
 		factor = 0.25
 		modifier = {
 			factor = 1.25
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 1.5
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 	}
 }
@@ -226,7 +226,7 @@ tech_pk_neutron = {
 		host_has_dlc = "Apocalypse"
 		has_country_flag = colossus_project
 		is_spiritualist = no
-		is_pacifist = no
+		is_jedic = no
 	}
 	
 	weight_modifier = {

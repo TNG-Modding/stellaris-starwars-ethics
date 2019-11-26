@@ -46,8 +46,8 @@ supremacist = {
 		}
 		owner = {
 			NOR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 		}
 		is_same_species = owner_species

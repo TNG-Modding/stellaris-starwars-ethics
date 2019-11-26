@@ -89,17 +89,17 @@ opinion_zealots_vs_materialists = {
 	}
 }
 
-opinion_hw_vs_pacifist = {
+opinion_hw_vs_jedic = {
 	opinion = {
 		modifier = {
 			add = -100
 			has_ai_personality = honorbound_warriors
-			FROM = { has_ethic = "ethic_fanatic_pacifist" }
+			FROM = { has_ethic = "ethic_fanatic_jedic" }
 		}
 		modifier = {
 			add = -50
 			has_ai_personality = honorbound_warriors
-			FROM = { has_ethic = "ethic_pacifist" }
+			FROM = { has_ethic = "ethic_jedic" }
 		}			
 	}
 }

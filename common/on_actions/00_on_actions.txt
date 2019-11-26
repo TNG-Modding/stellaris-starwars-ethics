@@ -1717,7 +1717,7 @@ on_colony_1_year_old = {
 		#5 = colony.161 # Surviving Infrastructure
 		#5 = colony.162 # Space Station
 		#5 = colony.163 # Wasteland Radiation
-		#5 = colony.164 # Pacifist Movement
+		#5 = colony.164 # Jedic Movement
 		#5 = colony.170 # Orbital Debris
 	}
 }
@@ -1768,7 +1768,7 @@ on_colony_2_years_old = {
 		75 = colony.161 # Surviving Infrastructure
 		75 = colony.162 # Space Station
 		75 = colony.163 # Wasteland Radiation
-		75 = colony.164 # Pacifist Movement
+		75 = colony.164 # Jedic Movement
 		75 = colony.170 # Orbital Debris
 	}
 }
@@ -1819,7 +1819,7 @@ on_colony_3_years_old = {
 		50 = colony.161 # Surviving Infrastructure
 		50 = colony.162 # Space Station
 		50 = colony.163 # Wasteland Radiation
-		50 = colony.164 # Pacifist Movement
+		50 = colony.164 # Jedic Movement
 		50 = colony.170 # Orbital Debris
 	}
 }

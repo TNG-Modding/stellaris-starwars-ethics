@@ -891,7 +891,7 @@ empire_name_parts_list = {
 
 ### PACIFIST
 
-# Imperial Pacifist
+# Imperial Jedic
 empire_name_parts_list = {
 	key = "imperial_pac"
 	parts = {
@@ -905,7 +905,7 @@ empire_name_parts_list = {
 	}
 }
 
-# Dictatorial Pacifist
+# Dictatorial Jedic
 empire_name_parts_list = {
 	key = "dictatorial_pac"
 	parts = {
@@ -920,7 +920,7 @@ empire_name_parts_list = {
 	}
 }
 
-# Oligarchic Pacifist
+# Oligarchic Jedic
 empire_name_parts_list = {
 	key = "oligarchic_pac"
 	parts = {
@@ -946,7 +946,7 @@ empire_name_parts_list = {
 	}
 }
 
-# Democratic Pacifist
+# Democratic Jedic
 empire_name_parts_list = {
 	key = "democratic_pac"
 	parts = {
@@ -984,7 +984,7 @@ empire_name_parts_list = {
 
 ### Descriptives
 
-# Imperial Pacifist Descriptive
+# Imperial Jedic Descriptive
 empire_name_parts_list = {
 	key = "imperial_pac_desc"
 	parts = {
@@ -1001,7 +1001,7 @@ empire_name_parts_list = {
 	}
 }
 
-# Dictatorial Pacifist Descriptive
+# Dictatorial Jedic Descriptive
 empire_name_parts_list = {
 	key = "dictatorial_pac_desc"
 	parts = {
@@ -1018,7 +1018,7 @@ empire_name_parts_list = {
 	}
 }
 
-# Oligarchic Pacifist Descriptive
+# Oligarchic Jedic Descriptive
 empire_name_parts_list = {
 	key = "oligarchic_pac_desc"
 	parts = {
@@ -1035,7 +1035,7 @@ empire_name_parts_list = {
 	}
 }
 
-# Democratic Pacifist Descriptive
+# Democratic Jedic Descriptive
 empire_name_parts_list = {
 	key = "democratic_pac_desc"
 	parts = {
@@ -1054,7 +1054,7 @@ empire_name_parts_list = {
 
 ### Mid Descriptives
 
-# Imperial Pacifist Middle Descriptive
+# Imperial Jedic Middle Descriptive
 empire_name_parts_list = {
 	key = "imperial_pac_mid_desc"
 	parts = {
@@ -1070,7 +1070,7 @@ empire_name_parts_list = {
 	}
 }
 
-# Dictatorial Pacifist Middle Descriptive
+# Dictatorial Jedic Middle Descriptive
 empire_name_parts_list = {
 	key = "dictatorial_pac_mid_desc"
 	parts = {
@@ -1086,7 +1086,7 @@ empire_name_parts_list = {
 	}
 }
 
-# Oligarchic Pacifist Middle Descriptive
+# Oligarchic Jedic Middle Descriptive
 empire_name_parts_list = {
 	key = "oligarchic_pac_mid_desc"
 	parts = {
@@ -1102,7 +1102,7 @@ empire_name_parts_list = {
 	}
 }
 
-# Democratic Pacifist Middle Descriptive
+# Democratic Jedic Middle Descriptive
 empire_name_parts_list = {
 	key = "democratic_pac_mid_desc"
 	parts = {
@@ -1966,9 +1966,9 @@ empire_name_format = {
 }
 
 
-### Imperial Pacifist
+### Imperial Jedic
 
-# Imperial Pacifist 1
+# Imperial Jedic 1
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -1987,7 +1987,7 @@ empire_name_format = {
 	# Empire of Sol
 }
 
-# Imperial Pacifist 2
+# Imperial Jedic 2
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -2006,7 +2006,7 @@ empire_name_format = {
 	# Empire of Earth
 }
 
-# Imperial Pacifist 3
+# Imperial Jedic 3
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -2025,7 +2025,7 @@ empire_name_format = {
 	# Human Empire
 }
 
-# Imperial Pacifist 4
+# Imperial Jedic 4
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -2044,7 +2044,7 @@ empire_name_format = {
 	# Great Human Empire
 }
 
-# Imperial Pacifist 5
+# Imperial Jedic 5
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -2743,9 +2743,9 @@ empire_name_format = {
 	# Human Star Empire
 }
 
-### Dictatorial Pacifist
+### Dictatorial Jedic
 
-# Dictatorial Pacifist 1
+# Dictatorial Jedic 1
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -2764,7 +2764,7 @@ empire_name_format = {
 	# Empire of Sol
 }
 
-# Dictatorial Pacifist 2
+# Dictatorial Jedic 2
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -2783,7 +2783,7 @@ empire_name_format = {
 	# Empire of Earth
 }
 
-# Dictatorial Pacifist 3
+# Dictatorial Jedic 3
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -2802,7 +2802,7 @@ empire_name_format = {
 	# Human Empire
 }
 
-# Dictatorial Pacifist 4
+# Dictatorial Jedic 4
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -2821,7 +2821,7 @@ empire_name_format = {
 	# Great Human Empire
 }
 
-# Dictatorial Pacifist 5
+# Dictatorial Jedic 5
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -3496,9 +3496,9 @@ empire_name_format = {
 	# Human Star Empire
 }
 
-### Oligarchic Pacifist
+### Oligarchic Jedic
 
-# Oligarchic Pacifist 1
+# Oligarchic Jedic 1
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -3517,7 +3517,7 @@ empire_name_format = {
 	# Empire of Sol
 }
 
-# Oligarchic Pacifist 2
+# Oligarchic Jedic 2
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -3536,7 +3536,7 @@ empire_name_format = {
 	# Empire of Sol
 }
 
-# Oligarchic Pacifist 3
+# Oligarchic Jedic 3
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -3555,7 +3555,7 @@ empire_name_format = {
 	# Human Empire
 }
 
-# Oligarchic Pacifist 4
+# Oligarchic Jedic 4
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -3574,7 +3574,7 @@ empire_name_format = {
 	# Great Human Empire
 }
 
-# Oligarchic Pacifist 5
+# Oligarchic Jedic 5
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -4215,9 +4215,9 @@ empire_name_format = {
 	# Human Star Empire
 }
 
-### Democratic Pacifist
+### Democratic Jedic
 
-# Democratic Pacifist 1
+# Democratic Jedic 1
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -4236,7 +4236,7 @@ empire_name_format = {
 	# Empire of Sol
 }
 
-# Democratic Pacifist 2
+# Democratic Jedic 2
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -4255,7 +4255,7 @@ empire_name_format = {
 	# Empire of Earth
 }
 
-# Democratic Pacifist 3
+# Democratic Jedic 3
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -4274,7 +4274,7 @@ empire_name_format = {
 	# Human Empire
 }
 
-# Democratic Pacifist 4
+# Democratic Jedic 4
 empire_name_format = {
 	random_weight = {
 		factor = 0
@@ -4293,7 +4293,7 @@ empire_name_format = {
 	# Great Human Empire
 }
 
-# Democratic Pacifist 5
+# Democratic Jedic 5
 empire_name_format = {
 	random_weight = {
 		factor = 0

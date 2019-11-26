@@ -593,8 +593,8 @@ living_standard_good = {
 			factor = 0
 			from = {
 				NOR = {
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 					has_ethic = ethic_egalitarian
 					has_ethic = ethic_fanatic_egalitarian
 				}

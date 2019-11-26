@@ -633,7 +633,7 @@ gov_citizen_republic = {
 	}
 }
 
-### Pacifist Governments
+### Jedic Governments
 
 # Irenic Monarchy
 gov_irenic_monarchy = {
@@ -648,8 +648,8 @@ gov_irenic_monarchy = {
 	possible = {
 		has_authority = auth_imperial
 		OR = {
-			has_ethic = ethic_pacifist
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_jedic
+			has_ethic = ethic_fanatic_jedic
 		}
 	}
 
@@ -657,7 +657,7 @@ gov_irenic_monarchy = {
 		base = 5
 		modifier = {
 			factor = 2
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.5
@@ -693,8 +693,8 @@ gov_irenic_dictatorship = {
 	possible = {
 		has_authority = auth_dictatorial
 		OR = {
-			has_ethic = ethic_pacifist
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_jedic
+			has_ethic = ethic_fanatic_jedic
 		}
 	}
 
@@ -702,7 +702,7 @@ gov_irenic_dictatorship = {
 		base = 5
 		modifier = {
 			factor = 2
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.5
@@ -738,8 +738,8 @@ gov_irenic_bureaucracy = {
 	possible = {
 		has_authority = auth_oligarchic
 		OR = {
-			has_ethic = ethic_pacifist
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_jedic
+			has_ethic = ethic_fanatic_jedic
 		}
 	}
 
@@ -747,7 +747,7 @@ gov_irenic_bureaucracy = {
 		base = 5
 		modifier = {
 			factor = 2
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.5
@@ -783,8 +783,8 @@ gov_moral_democracy = {
 	possible = {
 		has_authority = auth_democratic
 		OR = {
-			has_ethic = ethic_pacifist
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_jedic
+			has_ethic = ethic_fanatic_jedic
 		}
 	}
 
@@ -792,7 +792,7 @@ gov_moral_democracy = {
 		base = 5
 		modifier = {
 			factor = 2
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.5
@@ -1174,8 +1174,8 @@ gov_megacorporation = {
 					NOR = {
 						has_ethic = ethic_egalitarian
 						has_ethic = ethic_fanatic_egalitarian
-						has_ethic = ethic_pacifist
-						has_ethic = ethic_fanatic_pacifist
+						has_ethic = ethic_jedic
+						has_ethic = ethic_fanatic_jedic
 					}			
 				}
 				has_valid_civic = civic_corporate_dominion
@@ -1218,8 +1218,8 @@ gov_trade_league = {
 				OR = {
 					has_ethic = ethic_egalitarian
 					has_ethic = ethic_fanatic_egalitarian
-					has_ethic = ethic_pacifist
-					has_ethic = ethic_fanatic_pacifist
+					has_ethic = ethic_jedic
+					has_ethic = ethic_fanatic_jedic
 				}		
 				has_valid_civic = civic_corporate_dominion
 			}

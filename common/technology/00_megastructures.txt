@@ -312,7 +312,7 @@ tech_strategic_coordination = {
 		factor = 0.25
 		modifier = {
 			factor = 0.5
-			is_pacifist = yes
+			is_jedic = yes
 		}
 		modifier = {
 			factor = 2
@@ -454,7 +454,7 @@ tech_mega_art = {
 		}	
 		modifier = {
 			factor = 2
-			is_pacifist = yes
+			is_jedic = yes
 		}
 		modifier = {
 			factor = 2

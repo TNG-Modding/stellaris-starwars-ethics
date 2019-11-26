@@ -366,7 +366,7 @@ artifact_find_military_applications = {
 		modifier = {
 			factor = 0
 			AND = {
-				is_pacifist = yes
+				is_jedic = yes
 				is_at_war = no
 			}
 		}
@@ -418,7 +418,7 @@ artifact_find_peaceful_applications = {
 		}
 		modifier = {
 			factor = 1.25
-			is_pacifist = yes
+			is_jedic = yes
 		}
 		modifier = {
 			factor = 0.10

@@ -630,7 +630,7 @@ guardians_curator_init_01 = {
 					}
 					ethos = {
 						ethic = ethic_fanatic_materialist
-						ethic = ethic_pacifist
+						ethic = ethic_jedic
 					}
 					ignore_initial_colony_error = yes
 				}
@@ -782,7 +782,7 @@ guardians_curator_init_02 = {
 					}
 					ethos = {
 						ethic = ethic_fanatic_materialist
-						ethic = ethic_pacifist
+						ethic = ethic_jedic
 					}
 					ignore_initial_colony_error = yes
 				}
@@ -924,7 +924,7 @@ guardians_curator_init_03 = {
 					}
 					ethos = {
 						ethic = ethic_fanatic_materialist
-						ethic = ethic_pacifist
+						ethic = ethic_jedic
 					}
 					ignore_initial_colony_error = yes
 				}

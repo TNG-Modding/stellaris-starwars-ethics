@@ -371,7 +371,7 @@
  anomaly.3015.name:0 "Alien Barracks"
  anomaly.3015.desc:0 "The silhouettes discernible from orbit are indeed buildings, and closer inspection reveal them to be of an obvious martial nature. While abandoned for some time - though very recently on a galactic timescale - Science Officer [Root.GetLeaderName] believes that secrets of alien tactics may yet be exhumed from beneath the dust that covers the decaying barracks and looted armories.\n\nA Special Project may be issued to study the remains."
  anomaly.3015.a:0 "Acknowledged."
- anomaly.3015.b.pacifist:0 "That this outpost is dead and buried speaks volumes."
+ anomaly.3015.b.jedic:0 "That this outpost is dead and buried speaks volumes."
  anomaly.3017.name:0 "Alien Barracks"
  anomaly.3017.desc:0 "Science Officer [Root.GetLeaderName]'s thorough xeno-historical analysis of the military installation on [From.From.GetName] has yielded few tangible results. The base was constructed before the planet turned completely barren, but it is unclear if its current inhospitality is the result of armed conflict or some more peaceful or even natural process.\n\nWhat can be deduced of their strategies and tactics in armed conflict does not seem to have been far in advance of our own.\n\nOn the upside, Science Officer [Root.GetLeaderName] claims to have drawn much inspiration from the alien remnants."
  anomaly.3017.a:0 "Always something."
@@ -672,7 +672,7 @@
  country.1040.desc:0 "Get lost! We found the rotten ghost-ship first.\n\nOnce we figure out how to see it proper-like, it's as good as boarded. And ours. Not yours. And its captain dead."
  country.1040.a:0 "You will rue the day you crossed us, alien scum." # fanatic xenophobe
  country.1040.a.response:0 "Big words from someone so ugly. This isn't our first rodeo, bucko."
- country.1040.b:0 "150 Energy Credits for the ship." # fanatic or regular pacifist, pay off
+ country.1040.b:0 "150 Energy Credits for the ship."
  country.1040.c:0 "Ready weapons." # beat them up
  country.1040.d:0 "Leave now and you may yet live." # empty threat?
  country.1040.d.response:0 "Empty threats! You are a long way from home, ugly.\nThe Sunblaster Pirates own these stars."
@@ -1106,7 +1106,7 @@
  uplift.7205.desc:0 "Some issues have arisen on [Root.GetName] as a result of the [From.From.From.GetName] populace's aversion to arms. A representative has made a formal request for clearly delineated demilitarized zones."
  uplift.7205.a:0 "Very well."
  uplift.7205.b:0 "The courage of their convictions should be celebrated."
- uplift.7205.b.tooltip:0 "The [From.From.From.GetName] gain the §YPacifist§! Ethic."
+ uplift.7205.b.tooltip:0 "The [From.From.From.GetName] gain the §YJedi§! Ethic."
  uplift.7205.c:0 "They must learn that the specter of war looms over us all."
  uplift.7205.c.tooltip:0 "The [From.From.From.GetName] gain the §YMilitarist§! Ethic."
  uplift.7210.name:0 "Stranger Danger"

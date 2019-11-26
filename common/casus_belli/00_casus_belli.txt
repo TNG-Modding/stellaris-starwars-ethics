@@ -109,8 +109,8 @@ cb_ideology = {
 				from = { is_militarist = no }
 			}		
 			AND = {
-				is_pacifist = yes
-				from = { is_pacifist = no }
+				is_jedic = yes
+				from = { is_jedic = no }
 			}					
 		}
 		NOT = { is_overlord_to = FROM }

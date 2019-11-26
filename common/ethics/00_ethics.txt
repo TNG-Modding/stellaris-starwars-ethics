@@ -1646,14 +1646,14 @@ ethic_militarist = {
 	}	
 }
 
-ethic_fanatic_pacifist = {
+ethic_fanatic_jedic = {
 	cost = 2
 	category = "mil"
 	category_value = 4
 	
 	category_opposite = yes
 	
-	regular_variant = ethic_pacifist
+	regular_variant = ethic_jedic
 	
 	use_for_pops = no
 	
@@ -1672,14 +1672,14 @@ ethic_fanatic_pacifist = {
 	}
 }
 
-ethic_pacifist = {
+ethic_jedic = {
 	cost = 1
 	category = "mil"
 	category_value = 3
 	
 	category_opposite = yes
 	
-	fanatic_variant = ethic_fanatic_pacifist
+	fanatic_variant = ethic_fanatic_jedic
 	
 	country_modifier = {
 		country_admin_cap_add = 10
@@ -1699,8 +1699,8 @@ ethic_pacifist = {
 		desc = POP_ATTRACTION_PACIFIST_POS
 		trigger = {
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 		}
 	}	
@@ -1709,8 +1709,8 @@ ethic_pacifist = {
 		desc = POP_ATTRACTION_FACTION_POS
 		trigger = {
 			NOR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 			has_faction = prosperity
 		}		
@@ -1767,8 +1767,8 @@ ethic_pacifist = {
 			factor = 0
 			NOR = {
 				is_country_type = default
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 				AND = {
 					is_country_type = primitive
 					capital_scope = {
@@ -1778,8 +1778,8 @@ ethic_pacifist = {
 						}
 						observation_outpost_owner = { 
 							OR = {
-								has_ethic = ethic_fanatic_pacifist
-								has_ethic = ethic_pacifist
+								has_ethic = ethic_fanatic_jedic
+								has_ethic = ethic_jedic
 							}							
 						}				
 					}
@@ -1789,8 +1789,8 @@ ethic_pacifist = {
 		modifier = {
 			factor = 2
 			NOR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 			has_faction = prosperity
 		}
@@ -1810,11 +1810,11 @@ ethic_pacifist = {
 		}			
 		modifier = {
 			factor = 2
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_jedic
 		}
 		modifier = {
 			factor = 3
-			has_ethic = ethic_fanatic_pacifist
+			has_ethic = ethic_fanatic_jedic
 		}
 		modifier = {
 			factor = 1.33
@@ -1865,7 +1865,7 @@ ethic_pacifist = {
 				observation_outpost = {
 					has_mission = native_indoctrination		
 				}
-				observation_outpost_owner = { has_ethic = ethic_fanatic_pacifist }
+				observation_outpost_owner = { has_ethic = ethic_fanatic_jedic }
 			}
 		}
 		modifier = {
@@ -1876,7 +1876,7 @@ ethic_pacifist = {
 				observation_outpost = {
 					has_mission = native_indoctrination		
 				}
-				observation_outpost_owner = { has_ethic = ethic_pacifist }
+				observation_outpost_owner = { has_ethic = ethic_jedic }
 			}
 		}		
 	}

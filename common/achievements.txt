@@ -621,8 +621,8 @@ achievement_peacekeeper = {
 
 	happened = {
 		OR = {
-			has_ethic = ethic_fanatic_pacifist
-			has_ethic = ethic_pacifist
+			has_ethic = ethic_fanatic_jedic
+			has_ethic = ethic_jedic
 		}	
 		years_of_peace = {
 			value > 199

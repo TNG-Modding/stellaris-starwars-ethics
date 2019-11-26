@@ -4,8 +4,8 @@ action_declare_war = {
 			trigger = {
 				FROM = {
 					OR = {
-						has_ethic = ethic_fanatic_pacifist
-						has_ethic = ethic_pacifist
+						has_ethic = ethic_fanatic_jedic
+						has_ethic = ethic_jedic
 					}
 				}
 			}
@@ -15,8 +15,8 @@ action_declare_war = {
 				FROM = {
 					NOT = {
 						OR = {
-							has_ethic = ethic_fanatic_pacifist
-							has_ethic = ethic_pacifist
+							has_ethic = ethic_fanatic_jedic
+							has_ethic = ethic_jedic
 						}
 					}
 				}

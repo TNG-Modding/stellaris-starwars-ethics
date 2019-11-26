@@ -135,7 +135,7 @@ megacorp_caravaneer_init = {
 				}
 				ethos = {
 					ethic = ethic_egalitarian
-					ethic = ethic_pacifist
+					ethic = ethic_jedic
 					ethic = ethic_xenophile
 				}
 				ignore_initial_colony_error = yes
@@ -275,7 +275,7 @@ megacorp_caravaneer_init = {
 				}
 				ethos = {
 					ethic = ethic_materialist
-					ethic = ethic_pacifist
+					ethic = ethic_jedic
 					ethic = ethic_xenophile
 				}
 				ignore_initial_colony_error = yes
@@ -366,7 +366,7 @@ megacorp_caravaneer_init = {
 				}
 				ethos = {
 					ethic = ethic_egalitarian
-					ethic = ethic_pacifist
+					ethic = ethic_jedic
 					ethic = ethic_xenophile
 				}
 				ignore_initial_colony_error = yes

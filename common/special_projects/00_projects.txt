@@ -2755,8 +2755,8 @@ special_project = {
 		modifier = {
 			factor = 0.85
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 		}
 		modifier = {
@@ -3225,8 +3225,8 @@ special_project = {
 		modifier = {
 			factor = 1.6
 			OR = {
-				has_ethic = ethic_pacifist
-				has_ethic = ethic_fanatic_pacifist
+				has_ethic = ethic_jedic
+				has_ethic = ethic_fanatic_jedic
 			}
 		}
 		modifier = {
