@@ -30,7 +30,7 @@
  military_theory_desc:0 "The art of war and its many important aspects."
  new_worlds:0 "New Worlds"
  new_worlds_desc:0 "Colonization protocols and pioneer training."
- psionics:0 "Psionics"
+ psionics:0 "Force Studies"
  psionics_desc:0 "Mind over matter."
 
  # ###################################
@@ -476,10 +476,10 @@
  tech_planetary_shield_generator_desc:0 "Generating a strong energy shield within a planetary atmosphere is a greater challenge than in the vacuum of space, but it offers a potent defense against orbital bombardment."
  tech_dark_matter_deflector:0 "Dark Matter Deflectors"
  tech_dark_matter_deflector_desc:0 "These deflectors utilize dark matter to deflect incoming projectiles in a way that seems to utterly defy the laws of nature."
- tech_psionic_shield:0 "Psionic Shields"
- tech_psionic_shield_desc:0 "These extremely powerful shields are generated out of pure psychic energy by a cadre of psionic specialists. Their powers are further augmented by large arrays of psi emitters."
- tech_psionic_barrier:0 "Psionic Barrier"
- tech_psionic_barrier_desc:0 "These barriers are generated out of pure psychic energy by a cadre of psionic specialists. They will be able to stop some incoming fire, like our Energy deflector systems, but without the prohibitive power consumption."
+ tech_psionic_shield:0 "Force Shields"
+ tech_psionic_shield_desc:0 "These extremely powerful shields are generated out of pure psychic energy by a cadre of Force specialists. Their powers are further augmented by large arrays of psi emitters."
+ tech_psionic_barrier:0 "Force Barrier"
+ tech_psionic_barrier_desc:0 "These barriers are generated out of pure psychic energy by a cadre of Force specialists. They will be able to stop some incoming fire, like our Energy deflector systems, but without the prohibitive power consumption."
 
  # Sensor Components
  tech_sensors_2:0 "Gravitic Sensors"
@@ -653,7 +653,7 @@
  tech_pitharan_dust:0 "Pitharan Dust Refining"
  tech_pitharan_dust_desc:3 "This fine dust is a naturally occurring stimulant found on some worlds. It has a calming effect on most beings, and can be used as a non-violent way of pacifying hostile individuals."
  tech_mine_zro:0 "Zro Distillation"
- tech_mine_zro_desc:3 "An extremely rare aerosol of exotic particles. It has been deposited on a number of worlds through meteor impacts, but its true origin is a mystery. If ingested by psionically-gifted individuals, Zro acts as a very potent (and addictive) drug that enhances Psi abilities."
+ tech_mine_zro_desc:3 "An extremely rare aerosol of exotic particles. It has been deposited on a number of worlds through meteor impacts, but its true origin is a mystery. If ingested by Force-sensitive individuals, Zro acts as a very potent (and addictive) drug that enhances Psi abilities."
  
  # Biolab and Colonization
  tech_society_1:0 "Biodiversity Studies"
@@ -835,15 +835,15 @@
  tech_global_defense_grid:0 "Global Defense Grid"
  tech_global_defense_grid_desc:0 "The strategic value of a good defense remains as relevant today as it was to our predecessors in the far distant past. Technology does not render fortifications obsolete - it merely changes their requirements."
 
- # Psionics
- tech_psionic_theory:0 "Psionic Theory"
+ # Force Theory
+ tech_psionic_theory:0 "Force Theory"
  tech_psionic_theory_desc:1 "The mind is in many ways a reflection of the universe itself, a microcosmos. All species may not reach this insight, but their minds are tools greater than any other."
  tech_telepathy:0 "Telepathy"
- tech_telepathy_desc:1 "Once fully adapted to the basics of Psionics, the mind is capable of connecting to other individuals, becoming something greater."
+ tech_telepathy_desc:1 "Once fully adapted to the basics of Force, the mind is capable of connecting to other individuals, becoming something greater."
  tech_transcendent_thought:0 "Transcendent Thought"
  #tech_transcendent_thought_desc:0 ""
  tech_precognition_interface:0 "Precognition Interface"
- tech_precognition_interface_desc:1 "Advances in the field of Psionics suggest the possibility of creating combat computers capable of reading and analysing the impulses of telepathic operatives before they are cognitively processed."
+ tech_precognition_interface_desc:1 "Advances in the field of Force suggest the possibility of creating combat computers capable of reading and analysing the impulses of telepathic operatives before they are cognitively processed."
  tech_psi_jump_drives:0 "Psi Jump Drives"
  tech_psi_jump_drives_desc:1 "The Psi Jump Drive harnesses the psi energies emitted by the crew to force the vessel through the very fabric of reality, instantly "jumping" vast distances."
 
@@ -1098,7 +1098,7 @@
  gateway_capital:0 "§HAdministrative Path§!\n§EThis technology will lead to further advancements in capital buildings and £influence£ §HInfluence§! gain. Upgraded planetary capitals are required for §Hhigh-level buildings§!.§!"
  gateway_biological:0 "§HBiological Path§!\n§EThis technology will lead to further advancements in biological enhancement and adaptation.§!"
  gateway_ship:0 "§HShip Path§!\n§EThis technology will lead to further advancements in the construction of larger Spaceports and more powerful warships.§!"
- gateway_psionics:0 "§HPsionic Path§!\n§EThis technology will lead to further advancements in the field of psionics.§!"
+ gateway_psionics:0 "§HForce Path§!\n§EThis technology will lead to further advancements in the field of Force studies.§!"
  gateway_robotics:0 "§HRobotic Path§!\n§EThis technology will lead to further advancements in the field of robotics.§!"
  gateway_kinetic_weapons:0 "§HKinetic Weapons Path§!\n§EThis technology will lead to further advancements in the field of kinetic weapons.§!"
  gateway_energy_weapons:0 "§HEnergy Weapons Path§!\n§EThis technology will lead to further advancements in the field of energy weapons.§!"

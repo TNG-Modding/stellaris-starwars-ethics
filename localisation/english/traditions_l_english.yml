@@ -675,7 +675,7 @@
  requires_technology_glandular_acclimation:0 "$TRIGGER_FAIL$Requires the £society£ §Y$tech_glandular_acclimation$§! technology."
  requires_mega_engineering:1 "$TRIGGER_FAIL$Requires the £engineering£ §Y$tech_mega_engineering$§! technology."
  requires_built_or_repaired_megastructure:0 "$TRIGGER_FAIL$Requires having repaired or fully upgraded any Megastructure."
- hive_mind_biological_ascension_only1:0 "$TRIGGER_FAIL$A Hive Mind is incapable of starting down the path to Psionic Ascension."
+ hive_mind_biological_ascension_only1:0 "$TRIGGER_FAIL$A Hive Mind is incapable of starting down the path to Force Ascension."
  hive_mind_biological_ascension_only2:0 "$TRIGGER_FAIL$A Hive Mind is incapable of starting down the path to Synthetic Ascension."
  requires_zero_point_power:1 "$TRIGGER_FAIL$Requires the £physics£ §Y$tech_zero_point_power$§! technology."
  requires_ap_voidborn:1 "$TRIGGER_FAIL$Requires the §Y$ap_voidborn$§! Ascension Perk."
@@ -684,11 +684,11 @@
  requires_technology_synthetic_leaders:1 "$TRIGGER_FAIL$Requires the £engineering£ §Y$tech_synthetic_leaders$§! technology."
  requires_technology_psionic_theory:1 "$TRIGGER_FAIL$Requires the £society£ §Y$tech_psionic_theory$§! technology."
  requires_technology_terrestrial_sculpting:1 "$TRIGGER_FAIL$Requires the £society£ §Y$tech_terrestrial_sculpting$§! technology."
- gestalt_consciousness_biological_ascension_only1:1 "$TRIGGER_FAIL$A Hive Mind is incapable of starting down the path to Psionic Ascension."
+ gestalt_consciousness_biological_ascension_only1:1 "$TRIGGER_FAIL$A Hive Mind is incapable of starting down the path to Force Ascension."
  gestalt_consciousness_biological_ascension_only2:1 "$TRIGGER_FAIL$A Hive Mind is incapable of starting down the path to Synthetic Ascension."
  synthetic_empire_synthetic_ascension:0 "$TRIGGER_FAIL$Synthetic empires are incapable of starting down the path to Synthetic Ascension."
  synthetic_empire_biological_ascension:0 "$TRIGGER_FAIL$Synthetic empires are incapable of starting down the path to Biological Ascension."
- synthetic_empire_psionic_ascension:0 "$TRIGGER_FAIL$Synthetic empires are incapable of starting down the path to Psionic Ascension."
+ synthetic_empire_psionic_ascension:0 "$TRIGGER_FAIL$Synthetic empires are incapable of starting down the path to Force Ascension."
 
  allow_gaia:0 "Allows us to terraform worlds into §YGaia Planets§!."
  no_rev_engineering:0 "Our technology and engineering is too arcane for others to reverse-engineer."
@@ -734,8 +734,8 @@
  ap_the_flesh_is_weak_desc:0 "The limits and constraints imposed on us by our feeble organic bodies are simply unacceptable. To reach our full potential, we must turn to cybernetic implants."
  ap_synthetic_evolution_desc:0 "It is time to abandon the flawed organic vessels that imprison our minds. By transferring our neural patterns into synthetic bodies, we will achieve a higher state of being."
 
- ap_mind_over_matter_desc:0 "Only a fraction of the potential contained within our minds has been unlocked. The latent psionic abilities of our species are only now beginning to manifest in certain individuals."
- ap_transcendence_desc:0 "We stand on the threshold of awakening the true psionic might of our species. Our minds are ready, and we have heard whispers of a psychic realm beyond our own..."
+ ap_mind_over_matter_desc:0 "Only a fraction of the potential contained within our minds has been unlocked. The latent Force abilities of our species are only now beginning to manifest in certain individuals."
+ ap_transcendence_desc:0 "We stand on the threshold of awakening the true might of our species. Our minds are ready, and we have heard whispers of a psychic realm beyond our own..."
 
  ap_synthetic_age:0 "Synthetic Age"
  ap_synthetic_age_desc:0 "The age of organics has come and gone, the future of the galaxy belongs to the machines. This is the dawn of a synthetic age."
