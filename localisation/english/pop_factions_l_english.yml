@@ -17,7 +17,7 @@
  pft_progressive:0 "Progressive Faction"
  pft_progressive_desc:1 "Progressive Factions desire non-discrimination within existing social structures and dislike non-representative forms of government.\n\n§LEgalitarian Ethos§!"
  pft_imperialist:0 "Imperialist Faction"
- pft_imperialist_desc:1 "Imperialist Factions desire dominance over other Empires. They like Rivalries and conquering other Empires, and dislike relying on others.\n\n§LMilitarist Ethos§!"
+ pft_imperialist_desc:1 "Imperialist Factions desire dominance over other Empires. They like Rivalries and conquering other Empires, and dislike relying on others.\n\n§LSith Ethos§!"
  pft_isolationist:0 "Isolationist Faction"
  pft_isolationist_desc:2 "Isolationist Factions desire isolation, seeking to have as few dealings with other Empires as possible. They dislike wars of aggression as well as being seen as an easy target.\n\n§LXenophobe Ethos§!"
  pft_technologist:0 "Technologist Faction"
@@ -682,7 +682,7 @@
  
  factions.2000.title:0 "Governing Ethics Shift in the [TargetFaction.Owner.GetName]"
  factions.2000.desc.start:0 "Following a long period of growing support for the §Y[TargetFaction.GetName]§!, the §Y[TargetFaction.Owner.GetName]§! has finally embraced the faction, adopting their core values and policies."
- factions.2000.desc.imperialist:0 "As a result of bringing this faction into their government, they have become more outwardly §HMilitaristic§!.\n\n"
+ factions.2000.desc.imperialist:0 "As a result of bringing this faction into their government, they have become more outwardly §HSith§!.\n\n"
  factions.2000.desc.isolationist:0 "As a result of bringing this faction into their government, they have become more outwardly §HXenophobic§!.\n\n"
  factions.2000.desc.progressive:0 "As a result of bringing this faction into their government, they have become more outwardly §HEgalitarian§!.\n\n"
  factions.2000.desc.prosperity:0 "As a result of bringing this faction into their government, they have become more outwardly §HJedi-like§!.\n\n"

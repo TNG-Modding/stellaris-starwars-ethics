@@ -521,7 +521,7 @@
  ####################################
  
  mod_pop_ethic_pacifist_attraction_mult:0 "Jedi Ethics Attraction"
- mod_pop_ethic_militarist_attraction_mult:0 "Militarist Ethics Attraction"
+ mod_pop_ethic_militarist_attraction_mult:0 "Sith Ethics Attraction"
  mod_pop_ethic_materialist_attraction_mult:0 "Materialist Ethics Attraction"
  mod_pop_ethic_spiritualist_attraction_mult:0 "Spiritualist Ethics Attraction"
  mod_pop_ethic_xenophile_attraction_mult:0 "Xenophile Ethics Attraction"

@@ -1318,7 +1318,7 @@
  01_INSULT_PROPOSE_PAC_MIL:0 "The ridiculous focus of the [Root.GetName] on all things military has us wondering if you're perhaps compensating for something."
  02_INSULT_PROPOSE_PAC_MIL:0 "How is it that your contemptible and warlike nation hasn't destroyed itself yet?"
  03_INSULT_PROPOSE_PAC_MIL:0 "Jingoist fools! Dismantle your military machine before you hurt someone with it!"
- 04_INSULT_PROPOSE_PAC_MIL:0 "The belligerence of the [Root.GetName] is matched only by its stupidity. Can't you see that you are slaves to militarism?"
+ 04_INSULT_PROPOSE_PAC_MIL:0 "The belligerence of the [Root.GetName] is matched only by its stupidity. Can't you see that you are slaves to the Dark Side?"
  01_INSULT_PROPOSE_MIL_PAC:0 "The cowardice of the [Root.GetName] is widely discussed in the [From.GetName]. How is it that you became such a spineless nation?"
  02_INSULT_PROPOSE_MIL_PAC:0 "What makes a being turn Jedi? Lust for peace? Serenity? Or were you just born with a heart full of pacifism? It's enough to make you sick."
  03_INSULT_PROPOSE_MIL_PAC:0 "Those unwilling to defend themselves have no right to exist. We do not expect the [Root.GetName] to survive the decade."
