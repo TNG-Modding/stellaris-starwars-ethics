@@ -8,8 +8,8 @@
  major_terrorist_action_desc:0 "$minor_terrorist_action_desc$"
  riots_averted:0 "Valiant Citizens"
  riots_averted_desc:0 "Despite high §HUnrest§!, Pops on this colony banded together to prevent further violence."
- spiritualist_unrest:0 "Unrest (Spiritualist Attraction)"
- spiritualist_unrest_desc:0 "§HUnrest§! on this colony has caused local Pops to become more attracted to §YSpiritualism§!."
+ spiritualist_unrest:0 "Unrest (Force Conscious Attraction)"
+ spiritualist_unrest_desc:0 "§HUnrest§! on this colony has caused local Pops to become more attracted to §YForce Conciousness§!."
  materialist_unrest:0 "Unrest (Materialist Attraction)"
  materialist_unrest_desc:0 "§HUnrest§! on this colony has caused local Pops to become more attracted to §YMaterialism§!."
  xenophobe_unrest:0 "Unrest (Xenophobe Attraction)"
@@ -37,7 +37,7 @@
  unrest.110.desc:0 "Thanks to the quick and decisive action of [Root.Owner.GetAdj] forces working with civilians on §Y[Root.GetName]§!, the threat of imminent and violent riots has been quelled."
 
  unrest.115.name:0 "$unrest_title$ Hallowed"
- unrest.115.desc:0 "Following a time of social unrest on §Y[Root.GetName]§!, we are receiving reports of increased Spiritualist activity among the populace, seemingly as a reaction to the uncertainties of their circumstances. Makeshift shrines are being erected and people are forming new social bonds over shared faith."
+ unrest.115.desc:0 "Following a time of social unrest on §Y[Root.GetName]§!, we are receiving reports of increased Force discipleship activity among the populace, seemingly as a reaction to the uncertainties of their circumstances. Makeshift shrines are being erected and people are forming new social bonds over shared discipleship."
 
  unrest.120.name:0 "$unrest_title$ On Good Authority"
  unrest.120.desc:0 "The disturbances on §Y[Root.GetName]§! have propelled a new narrative to the forefront of the planet's political stage; one of populist strongmen and order at the expense of freedom."

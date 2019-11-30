@@ -89,7 +89,7 @@
  09_NEUTRAL_GREETING:0 "May the spirits grant you peace, [From.GetSpeciesName]. What can we do for you?"
  10_NEUTRAL_GREETING:0 "The materialistic path you are on concerns us, [From.GetSpeciesName]. You must not forget your spiritual needs."
  11_NEUTRAL_GREETING:0 "Translation software activated. You may speak now, [From.GetSpeciesName]."
- 12_NEUTRAL_GREETING:0 "Religious dogma has been the source of much evil, [From.GetSpeciesName]. We wish you would reconsider your irrational spiritualism."
+ 12_NEUTRAL_GREETING:0 "Misguided belief has been the source of much evil, [From.GetSpeciesName]. We wish you would reconsider your irrational belief in the Force."
  13_NEUTRAL_GREETING:0 "I greet you on behalf of the citizens of the [Root.GetName], [From.GetSpeciesName]."
  14_NEUTRAL_GREETING:0 "We are deeply concerned about the lack of freedom among your citizens, [From.GetSpeciesName]."
  15_NEUTRAL_GREETING:0 "We are the [Root.GetName]."
@@ -891,7 +891,7 @@
  ORG_MECH_VASSAL_GREETING_01:0 "As always, we welcome our mechanical overlords. How may the [Root.GetName] be of assistance?"
  ORG_MECH_VASSAL_GREETING_01_DISLOYAL:0 "We have heard the conspiratorial beeping of the [From.GetName]. The [Root.GetName] will not suffer these abuses to continue indefinitely."
 
-  # Spiritualist to Machine Greetings
+  # Force Conscious to Machine Greetings
  SPIR_MECH_HOSTILE_GREETING_01:0 "[From.GetSpeciesNamePlural] are but soulless husks. Empty of spirit, devoid of meaning. An abominable facsimile of life."
  SPIR_MECH_HOSTILE_GREETING_02:0 "Clanking piles of junk! You defile the galaxy with your godless existence!"
  SPIR_MECH_HOSTILE_GREETING_03:0 "What now, you infernal collection of clattering cogs?"
@@ -1324,8 +1324,8 @@
  03_INSULT_PROPOSE_MIL_PAC:0 "Those unwilling to defend themselves have no right to exist. We do not expect the [Root.GetName] to survive the decade."
  04_INSULT_PROPOSE_MIL_PAC:0 "What a meek and deplorable little nation the [Root.GetName] is. The [From.GetName] would have crushed you long ago if we thought you worth the effort."
  01_INSULT_PROPOSE_MAT_SPI:0 "Can you tell us more about that silly religion you're so fond of in the [Root.GetName]? We could use a good laugh!"
- 02_INSULT_PROPOSE_MAT_SPI:0 "How any rational, thinking being could embrace spiritualism is beyond us. Why is it that you cling to such primitive beliefs?"
- 03_INSULT_PROPOSE_MAT_SPI:0 "We have seen through your charade. The so-called "spiritualism" your government has embraced is nothing more than a devious attempt to control the minds and hearts of your people."
+ 02_INSULT_PROPOSE_MAT_SPI:0 "How any rational, thinking being could embrace a belief in the Force is beyond us. Why is it that you cling to such primitive beliefs?"
+ 03_INSULT_PROPOSE_MAT_SPI:0 "We have seen through your charade. The so-called "Force" your government has embraced is nothing more than a devious attempt to control the minds and hearts of your people."
  04_INSULT_PROPOSE_MAT_SPI:0 "Everyone else is laughing at your absurd spiritual beliefs. Are you really so blind in the [Root.GetName] that you can't see this?"
  01_INSULT_PROPOSE_SPI_MAT:0 "What a dull and soulless place your materialistic nation must be. Tell me, have you invented a sense of humor yet? No? A pity."
  02_INSULT_PROPOSE_SPI_MAT:0 "For a nation that has embraced science and materialism, the [Root.GetName] is remarkably primitive. Is it due to bad luck or are you just stupid?"

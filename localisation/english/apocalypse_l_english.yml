@@ -384,7 +384,7 @@
 
  planet_destruction.401.name:0 "Faith Enforced"
  planet_destruction.401.desc:0 "The empyral hum of the [From.From.GetName]'s Force coils fades, and for a moment all is quiet. Down on [From.GetName] the people stand slack-jawed (or local physiognomic equivalent), enraptured by the powerful and personal truths the Force ray unfetters from the tangled web of their minds.\n\nIf they did not understand before, they know now viscerally; we are all part of something greater."
- planet_destruction.401.tooltip:0 "Any §Y$trait_mechanical$§!, §Y$trait_machine_unit$§! or §Y$trait_hive_mind$§! Pops are §Rdestroyed§! by the Force resonance.\n\nAll remaining §Ybiological§! Pops become §Y$ethic_spiritualist$§!.\n\nAdds the §Y$god_rayed$§! modifier to [This.GetName] for §Y10 years§!:\nSpiritualist Ethics Attraction: §Y+999%§!."
+ planet_destruction.401.tooltip:0 "Any §Y$trait_mechanical$§!, §Y$trait_machine_unit$§! or §Y$trait_hive_mind$§! Pops are §Rdestroyed§! by the Force resonance.\n\nAll remaining §Ybiological§! Pops become §Y$ethic_spiritualist$§!.\n\nAdds the §Y$god_rayed$§! modifier to [This.GetName] for §Y10 years§!:\nForce Conscious Ethics Attraction: §Y+999%§!."
 
  planet_destruction.501.name:0 "Nanobots Dispersed"
  planet_destruction.501.desc:0 "The [From.From.GetName] has completed deployment of the assimilation nanobot payload, calculated to be sufficient to cybernetically dominate all sapient organics on [From.GetName].\n\nWe did not build the [From.From.GetName] with any sensors or instruments to measure our success, but we know. We open our eyes for the first time down on [From.GetName]. We see ourselves and are seen by ourselves.\n\nOn [From.GetName]'s surface, there is only us."
