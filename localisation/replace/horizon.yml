@@ -330,14 +330,14 @@
  ######################################
  ##THE COILS OF GOD: Worm-related event
  akx.9400.name:0 "The Coils of God"
- akx.9400.desc:0 "Our observation station on [coils_planet.GetName] reports the rise of an unusual minority religious-artistic movement, the Coils of God. Primitive mechanical clocks are considered holy, but ritually destroyed after a year's operation. The worm- and serpent-analogues of the planets are protected from harm. Time, the Coils-priests say, is a labyrinth. "What was, will be; what will be, was" they intone in their prayers."
+ akx.9400.desc:0 "Our observation station on [coils_planet.GetName] reports the rise of an unusual minority religious-artistic movement, the Coils of God. Primitive mechanical clocks are considered holy, but ritually destroyed after a year's operation. The worm- and serpent-analogues of the planets are protected from harm. Time, the Coils-disciples say, is a labyrinth. "What was, will be; what will be, was" they intone in their prayers."
  akx.9400.a:0 "This sounds familiar. Suppress it as best we can."
  akx.9400.b:0 "This sounds familiar. Observe it as closely as we can."
  
  akx.9410.name:0 "The Coils of God: a Subtle Persecution"
- akx.9410.desc:0 "We've convinced native rulers that the Coils of God cult on [coils_planet.GetName] is a threat. The Coils-priests have been discouraged, imprisoned, or, regrettably, incinerated. Pre-FTL species have access to a deep well of hatred and suspicion: there are times when that's very useful."
+ akx.9410.desc:0 "We've convinced native rulers that the Coils of God cult on [coils_planet.GetName] is a threat. The Coils-disciples have been discouraged, imprisoned, or, regrettably, incinerated. Pre-FTL species have access to a deep well of hatred and suspicion: there are times when that's very useful."
  akx.9420.name:0 "The Coils of God: Deep Roots"
- akx.9420.desc:0 "We've convinced native rulers that the Coils of God cult on [coils_planet.GetName] is a threat. The Coils-priests have been discouraged, imprisoned, or, regrettably, incinerated. But the cult is tenacious, and our observers express concerns that it may just have gone underground."
+ akx.9420.desc:0 "We've convinced native rulers that the Coils of God cult on [coils_planet.GetName] is a threat. The Coils-disciples have been discouraged, imprisoned, or, regrettably, incinerated. But the cult is tenacious, and our observers express concerns that it may just have gone underground."
 
  akx.9450.name:0 "The Coils of God: the Labyrinth Ceremonies"
  akx.9450.desc:0 "The Coils of God cult on [coils_planet.GetName] has grown with unusual speed. It can be found in every city on the planet, and it's fostering a series of lengthy ceremonies conducted by citizens in every walk of life. The whole species has taken to them with unlikely enthusiasm. The rich adopt elaborate circular dances for their celebrations. The poor daub complex looping sigils on their doors. Even playground games are chants about the circular nature of time."
@@ -350,17 +350,17 @@
  akx.9450.d:0 "Primitives do primitive things. Continue to observe."
 
  akx.9460.name:0 "The Coils of God: Ceremony's End"
- akx.9460.desc:0 "Our campaign of subversion has disrupted the Coils of God ceremonies on [coils_planet.GetName]. The nobility abandon their cult. The looping graffiti on walls fades. The young return to playground games about flirtation, murder and other healthy childhood pastimes. There is a rash of suicides among Coils-priests. If there was a crisis, perhaps it is past."
+ akx.9460.desc:0 "Our campaign of subversion has disrupted the Coils of God ceremonies on [coils_planet.GetName]. The nobility abandon their cult. The looping graffiti on walls fades. The young return to playground games about flirtation, murder and other healthy childhood pastimes. There is a rash of suicides among Coils-disciples. If there was a crisis, perhaps it is past."
  akx.9460.a:0 ""The Loop never ends, but it is not always completed.""
  akx.9460.b:0 "Well done, everyone. Stand down."
 
  akx.9465.name:0 "The Coils of God: News from Underground"
- akx.9465.desc:0 "Our campaign of subversion has disrupted the Coils of God ceremonies on [coils_planet.GetName] - but it only fires the Coils-priests' fervor. They meet in secret, now, in subterranean temples. The nobility no longer dance the labyrinth dances, but they still bear hidden tattoos of the Sign of the Worm. And chants of "what was, shall be" still echo in playgrounds."
+ akx.9465.desc:0 "Our campaign of subversion has disrupted the Coils of God ceremonies on [coils_planet.GetName] - but it only fires the Coils-disciples' fervor. They meet in secret, now, in subterranean temples. The nobility no longer dance the labyrinth dances, but they still bear hidden tattoos of the Sign of the Worm. And chants of "what was, shall be" still echo in playgrounds."
  akx.9465.a:0 ""The Loop never ends.""
  akx.9465.b:0 "Continue to observe."
 
- akx.9470.name:0 "The Coils of God: the Blood of Priests"
- akx.9470.desc:0 "Our operatives are merciless. They abduct or assassinate every Coils-priest they can find. They set demolition charges on houses bearing the mark of the Loop. [coils_planet.GetName] is alive with rumors that the Coils' blasphemy has aroused the wrath of a greater god. Before long, the natives are beating the Coils-priests to death without any assistance from our operatives. The observation team is horrified; but if there was a crisis, it has been averted."
+ akx.9470.name:0 "The Coils of God: the Blood of Disciples"
+ akx.9470.desc:0 "Our operatives are merciless. They abduct or assassinate every Coils-priest they can find. They set demolition charges on houses bearing the mark of the Loop. [coils_planet.GetName] is alive with rumors that the Coils' blasphemy has aroused the wrath of a greater god. Before long, the natives are beating the Coils-disciples to death without any assistance from our operatives. The observation team is horrified; but if there was a crisis, it has been averted."
  akx.9470.a:0 ""The Loop never ends, but it is not always completed.""
  akx.9470.b:0 "Well done, everyone. Stand down."
 

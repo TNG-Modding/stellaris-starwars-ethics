@@ -5,6 +5,9 @@
  ####################################
 
  #Country
+ spiritualist_attraction:0 "Force Conscious Attraction"
+ materialist_attraction:0 "Materialist Attraction"
+
  MOD_BLANK_MODIFIER:0 "Blank Modifier"
  MOD_COUNTRY_OCCUPATION_ARMIES_ADD:0 "Max Occupation Garrisons"
  MOD_COUNTRY_WAR_EXHAUSTION_MULT:0 "War Exhaustion Gain"

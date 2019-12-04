@@ -1,0 +1,89 @@
+﻿l_english:
+ 
+ building_temple_of_prosperity:0 "Temple of Prosperity"
+ building_temple_of_prosperity_desc:0 "A high-security temple that spreads the gospel of the Megachurch that built it."
+
+ # Working Class Jobs
+
+ job_preacher:0 "Prosperity Preacher"
+ job_preacher_plural:0 "Prosperity Preachers"
+ job_preacher_desc:0 "Prosperity Preachers selly phony experiences and ."
+ job_preacher_effect_desc:0 "£job_preacher£ $job_preacher_plural$ produce £unity£ §Y$unity$§!, £mod_trade_value_add£ §Y$TRADE_VALUE$§! and £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+ mod_job_preacher_add:0 "$job_preacher$ Jobs"
+ mod_job_preacher_per_pop:0 "§G+1§! $job_preacher$ Job per $VALUE$ Pops"
+ mod_job_preacher_per_pop_short:0 "\n§G+1§! £mod_job_preacher_add£ per $VALUE$ £pop£"
+
+ # Specialist Jobs
+ job_telepath:0 "Inquisitor"
+ job_telepath_plural:0 "Inquisitor"
+ job_telepath_desc:0 "Members of the Inquisition, a unit of Force sensitive enforcers."
+ job_telepath_effect_desc:0 "£job_telepath£ $job_telepath_plural$ produce £unity£ §Y$unity$§! and decrease £crime£ §Y$PLANET_CRIME_TITLE$§!"
+ mod_job_telepath_add:0 "$job_telepath$ Jobs"
+ mod_job_telepath_per_pop:0 "§G+1§! $job_telepath$ Job per $VALUE$ Pops"
+ mod_job_telepath_per_pop_short:0 "\n§G+1§! £mod_job_telepath_add£ per $VALUE$ £pop"
+
+ job_duelist:0 "Duelist"
+ job_duelist_plural:0 "Duelists"
+ job_duelist_desc:0 "Martial experts who display their deadly art for the entertainment of the masses."
+ job_duelist_effect_desc:0 "£job_duelist£ $job_duelist_plural$ turn £alloys£ §Y$alloys$§! into £unity£ §Y$unity$§!, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§! and £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!"
+ mod_job_duelist_add:0 "$job_duelist$ Jobs"
+ mod_job_duelist_per_pop:0 "§G+1§! $job_duelist$ Job per $VALUE$ Pops"
+ mod_job_duelist_per_pop_short:0 "\n§G+1§! £mod_job_duelist_add£ per $VALUE$ £pop£"
+
+ job_high_priest:0 "Force Master"
+ job_high_priest_plural:0 "Force Masters"
+ job_high_priest_desc:1 "To whom do guides turn when they themselves seek guidance? Another, more experienced guide."
+ job_high_priest_effect_desc:0 "£job_high_priest£ $job_high_priest_plural$ produce £unity£ §Y$unity$§! and £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+ mod_job_high_priest_add:0 "$job_high_priest$ Jobs"
+ mod_job_high_priest_per_pop:0 "§G+1§! $job_high_priest$ Job per $VALUE$ Pops"
+ mod_job_high_priest_per_pop_short:0 "\n§G+1§! £mod_job_high_priest_add£ per $VALUE$ £pop£"
+
+ job_priest:0 "Force Discple"
+ job_priest_plural:0 "Force Discples"
+ job_priest_desc:1 "The guidance of the masses within the Force is performed by the most dedicated and wise."
+ job_priest_effect_desc:0 "£job_priest£ $job_priest_plural$ turn £consumer_goods£ §Y$consumer_goods$§! into £unity£ §Y$unity$§!, £society£ §Y$society_research$§! and £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+ mod_job_priest_add:0 "$job_priest$ Jobs"
+ mod_job_priest_per_pop:0 "§G+1§! $job_priest$ Job per $VALUE$ Pops"
+ mod_job_priest_per_pop_short:0 "\n§G+1§! £mod_job_priest_add£ per $VALUE$ £pop£"
+
+ # Primitive Jobs
+ job_primitive_priest:0 "Force Adept"
+ job_primitive_priest_plural:0 "Force Adept"
+ job_primitive_priest_desc:1 "Practitioners who conduct ceremonies pertaining to what can only be a primitive understanding of the Force."
+ mod_job_primitive_priest_add:0 "$job_primitive_priest$ Jobs"
+
+ job_primitive_priest_2:0 "Force Disciple"
+ job_primitive_priest_2_plural:0 "Force Disciples"
+ job_primitive_priest_2_desc:1 "Spiritual leaders who occupy various temple offices."
+ mod_job_primitive_priest_2_add:0 "$job_primitive_priest_2$ Jobs"
+
+ decision_consecrated_worlds:1 "Consecrate World"
+ decision_consecrated_worlds_desc:2 "Declare this to be a sacred place, consecrated in the traditions of our faith. Pilgrims will travel from afar to rejoice in its holy aura."
+ decision_consecrated_worlds_effects_short:1 "Adds this world to our canon of Consecrated Worlds, boosting §YForce Conscious Ethics Attraction§! and §YEmpire-Wide Amenities§! as well as £unity£ §YUnity Generation§!."
+ decision_consecrated_worlds_effects_custom:1 "Adds this world to our canon of Consecrated Worlds (up to §Y3§!), increasing §YForce Conscious Ethics Attraction§!, §YEmpire-Wide Amenities§! and boosting £unity£ §YUnity Generation§!, scaling to the spiritual significance of the planet."
+ 
+ decision_unconsecrated_worlds:1 "Unconsecrate World"
+ decision_unconsecrated_worlds_desc:1 "This revokes the object's sacred status."
+ decision_unconsecrated_worlds_effects_short:0 "Revoke this planet's consecrated status."
+ decision_unconsecrated_worlds_effects_custom:0 ""
+ consecrated_worlds_too_many:0 "$TRIGGER_FAIL$§RWe have already consecrated §Y3§! worlds§! §H(Unconsecrate another world to consecrate this one)§!"
+ consecrated_worlds_planet_owned:0 "$TRIGGER_FAIL$§RColonized planets cannot be consecrated§!"
+ consecrated_worlds_unsuitable:0 "\n§YThis object may be relatively ill-suited for consecration§!"
+ consecrated_worlds_suitable:0 "\n§YThis object may be fairly suitable for consecration§!"
+ consecrated_worlds_perfect:0 "\n§YThis object possesses an inherent sanctity, and ought to be consecrated§!"
+
+ planet_priests:0 "Force Disciple Jobs"
+ planet_telepaths:0 "Telepath Jobs"
+ 
+ gov_subversive_cult:0 "Subversive Cult"
+ gov_subversive_cult_desc:0 "This government is structured like a religious cult that relies on a variety of criminal and corporate enterprises to sustain itself."
+
+ consecrated_quality_1:0 "Consecrated (Profane World)"
+ consecrated_quality_1_desc:0 "This is deemed a poor object of worship."
+ consecrated_quality_2:0 "Consecrated (Respected World)"
+ consecrated_quality_2_desc:0 "This is deemed a suitable object of worship."
+ consecrated_quality_3:0 "Consecrated (Venerated World) "
+ consecrated_quality_3_desc:0 "This is deemed a most blessed planet."
+ consecrated_quality_4:0 "Consecrated (Holy World)"
+ consecrated_quality_4_desc:0 "This planet is deemed an immaculate and sacrosanct place."
+
