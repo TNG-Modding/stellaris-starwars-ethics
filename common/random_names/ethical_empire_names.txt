@@ -1,0 +1,770 @@
+##############
+# NAME PARTS #
+##############
+
+### MILITARIST
+
+# Imperial Militarist
+empire_name_parts_list = {
+	key = "imperial_mil"
+	parts = {
+		"Empire" = 3
+		"Imperium" = 2
+		"Hegemony" = 1
+	}
+}
+
+# Dictatorial Militarist
+empire_name_parts_list = {
+	key = "dictatorial_mil"
+	parts = {
+		"Autocracy" = 1
+		"Combine" = 1
+		"Hierarchy" = 1
+		"Regime" = 2
+		"Authority" = 1
+		"Hegemony" = 1
+	}
+}
+
+# Oligarchic Militarist
+empire_name_parts_list = {
+	key = "oligarchic_mil"
+	parts = {
+		"Commonwealth" = 5
+		"Confederation" = 2
+		"Alliance" = 2
+		"Confederacy" = 2
+		"Union" = 5
+		"League" = 5
+		"Coalition" = 7
+		"Compact" = 5
+		"Pact" = 7
+		"Bloc" = 7
+		"Polity" = 3
+		"Regime" = 7
+	}
+}
+
+# Democratic Militarist
+empire_name_parts_list = {
+	key = "democratic_mil"
+	parts = {
+		"Republic" = 3
+		"Commonwealth" = 3
+		"Confederation" = 3
+		"Alliance" = 3
+		"Confederacy" = 3
+		"Commissariat" = 3
+		"Union" = 3
+		"League" = 3
+		"Mandate" = 2
+		"Coalition" = 2
+		"State" = 2
+		"Nation" = 2
+		"Sovereignty" = 1
+	}
+}
+
+# Democratic Warrior Culture
+empire_name_parts_list = {
+	key = "democratic_war_cul"
+	parts = {
+		"State" = 1
+		"Nation" = 1
+		"Sovereignty" = 1
+		"Warrior Clans" = 4
+		"Battle Clans" = 4
+		"Tribes" = 4
+		"Fire Tribes" = 4
+		"Clans" = 4
+		"Mandate" = 1
+		"Coalition" = 1
+		"Alliance" = 2
+	}
+}
+
+# Oligarchic Service Guarantees Citizenship
+empire_name_parts_list = {
+	key = "oligarchic_service"
+	parts = {
+		"Citizen Union" = 1
+		"Citizen Coalition" = 1
+		"Citizen Compact" = 1
+		"Citizen Regime" = 1
+		"Citizen League" = 1
+	}
+}
+
+# Democratic Service Guarantees Citizenship
+empire_name_parts_list = {
+	key = "democratic_service"
+	parts = {
+		"Citizen Republic" = 1
+		"Citizen Union" = 1
+		"Citizen Alliance" = 1
+		"Citizen Commonwealth" = 1
+		"Citizen State" = 1
+		"Citizen Confederation" = 1
+	}
+}
+
+### Descriptives
+
+# Imperial Militarist Descriptive
+empire_name_parts_list = {
+	key = "imperial_mil_desc"
+	parts = {
+		"Interstellar" = 1
+		"Galactic" = 2
+		"United" = 3
+		"Great" = 3
+		"Glorious" = 3
+	}
+}
+
+# Dictatorial Militarist Descriptive
+empire_name_parts_list = {
+	key = "dictatorial_mil_desc"
+	parts = {
+		"Interstellar" = 1
+		"Galactic" = 2
+		"United" = 3
+		"Great" = 3
+	}
+}
+
+# Oligarchic Militarist Descriptive
+empire_name_parts_list = {
+	key = "oligarchic_mil_desc"
+	parts = {
+		"Interstellar" = 1
+		"Galactic" = 2
+		"United" = 3
+		"Great" = 3
+	}
+}
+
+# Democratic Militarist Descriptive
+empire_name_parts_list = {
+	key = "democratic_mil_desc"
+	parts = {
+		"Free" = 3
+		"Independent" = 3
+		"Interstellar" = 1
+		"Galactic" = 1
+		"United" = 3
+		"Democratic" = 1
+	}
+}
+
+### Mid Descriptives
+
+# Imperial Militarist Middle Descriptive
+empire_name_parts_list = {
+	key = "imperial_mil_mid_desc"
+	parts = {
+		"Sith" = 4
+		"Interstellar" = 1
+		"Interplanetary" = 1
+		"Galactic" = 1
+		"Star" = 3
+		"Stellar" = 1
+	}
+}
+
+# Dictatorial Militarist Middle Descriptive
+empire_name_parts_list = {
+	key = "dictatorial_mil_mid_desc"
+	parts = {
+		"Sith" = 4
+		"Interstellar" = 1
+		"Interplanetary" = 1
+		"Galactic" = 1
+		"Star" = 3
+		"Stellar" = 1
+	}
+}
+
+# Oligarchic Militarist Middle Descriptive
+empire_name_parts_list = {
+	key = "oligarchic_mil_mid_desc"
+	parts = {
+		"Sith" = 4
+		"Interstellar" = 1
+		"Interplanetary" = 1
+		"Galactic" = 1
+		"Star" = 3
+		"Stellar" = 1
+	}
+}
+
+# Democratic Militarist Middle Descriptive
+empire_name_parts_list = {
+	key = "democratic_mil_mid_desc"
+	parts = {
+		"Sith" = 4
+		"Free" = 3
+		"Independent" = 3
+		"Interstellar" = 1
+		"Interplanetary" = 1
+		"Galactic" = 1
+		"Star" = 3
+		"Stellar" = 1
+		"Democratic" = 1
+	}
+}
+
+
+
+### SPIRITUALIST
+
+# Imperial Spiritualist
+empire_name_parts_list = {
+	key = "imperial_spi"
+	parts = {
+		"Empire" = 3	
+		"Kingdom" = 3
+		"Principality" = 2
+		"Grand Duchy" = 1
+		"Order" = 3
+		"Foundation" = 3
+	}
+}
+
+# Dictatorial Spiritualist
+empire_name_parts_list = {
+	key = "dictatorial_spi"
+	parts = {
+		"Order" = 4
+		"Foundation" = 4
+		"Mandate" = 4
+		"Commonality" = 1
+		"State" = 1
+		"Nation" = 1
+		"Sovereignty" = 1
+		"Council" = 1
+		"Polity" = 1
+	}
+}
+
+# Oligarchic Spiritualist
+empire_name_parts_list = {
+	key = "oligarchic_spi"
+	parts = {
+		"Republic" = 1
+		"Alliance" = 2
+		"Commonwealth" = 2
+		"Confederation" = 2
+		"Confederacy" = 2
+		"Union" = 3
+		"League" = 3
+		"Theocracy" = 4
+		"Foundation" = 4
+		"Mandate" = 4
+		"Assembly" = 3
+		"Commonality" = 3
+		"State" = 3
+		"Nation" = 3
+		"Sovereignty" = 2
+		"Council" = 3
+		"Conclave" = 4
+		"Polity" = 2
+	}
+}
+
+# Democratic Spiritualist
+empire_name_parts_list = {
+	key = "democratic_spi"
+	parts = {
+		"Republic" = 3
+		"Alliance" = 3
+		"Commonwealth" = 3
+		"Confederation" = 3
+		"Confederacy" = 3
+		"Union" = 3
+		"League" = 3
+		"Mandate" = 2
+		"Assembly" = 2
+		"Council" = 2
+		"Cooperative" = 2
+		"State" = 2
+		"Nation" = 2
+		"Sovereignty" = 1
+		"Commonality" = 1
+		"Concordat" = 1
+		"Polity" = 1
+		"Accord" = 1
+		"Administration" = 1
+	}
+}
+
+# Imperial Imperial Cult
+empire_name_parts_list = {
+	key = "imperial_imperial_cult"
+	parts = {
+		"Empire" = 1
+		"Imperium" = 1
+	}
+}
+
+# Oligarchic Holy Tribunal
+empire_name_parts_list = {
+	key = "oligarchic_holy_tribunal"
+	parts = {
+		"Tribunal" = 5
+		"Mandate" = 2
+		"Assembly" = 2
+		"Council" = 3
+		"Foundation" = 2
+		"Conclave" = 5
+	}
+}
+
+
+### Descriptives
+
+# Imperial Spiritualist Descriptive
+empire_name_parts_list = {
+	key = "imperial_spi_desc"
+	parts = {
+		"Sacred" = 4
+		"Sacrosanct" = 4
+		"Pious" = 4
+	}
+}
+
+# Dictatorial Spiritualist Descriptive
+empire_name_parts_list = {
+	key = "dictatorial_spi_desc"
+	parts = {
+		"Sacred" = 4
+		"Sacrosanct" = 4
+		"Pious" = 4
+	}
+}
+
+# Oligarchic Spiritualist Descriptive
+empire_name_parts_list = {
+	key = "oligarchic_spi_desc"
+	parts = {
+		"Sacred" = 4
+		"Sacrosanct" = 4
+		"Pious" = 4
+	}
+}
+
+# Democratic Spiritualist Descriptive
+empire_name_parts_list = {
+	key = "democratic_spi_desc"
+	parts = {
+		"Sacred" = 4
+		"Sacrosanct" = 4
+		"Pious" = 4
+	}
+}
+
+### Mid Descriptives
+
+# Imperial Spiritualist Middle Descriptive
+empire_name_parts_list = {
+	key = "imperial_spi_mid_desc"
+	parts = {
+		"Temple" = 4
+		"Sacred" = 4
+		"Sacrosanct" = 4
+		"Pious" = 4
+	}
+}
+
+# Dictatorial Spiritualist Middle Descriptive
+empire_name_parts_list = {
+	key = "dictatorial_spi_mid_desc"
+	parts = {
+		"Temple" = 4
+		"Sacred" = 4
+		"Sacrosanct" = 4
+		"Pious" = 4
+	}
+}
+
+# Oligarchic Spiritualist Middle Descriptive
+empire_name_parts_list = {
+	key = "oligarchic_spi_mid_desc"
+	parts = {
+		"Temple" = 4
+		"Sacred" = 4
+		"Sacrosanct" = 4
+		"Pious" = 4
+	}
+}
+
+# Democratic Spiritualist Middle Descriptive
+empire_name_parts_list = {
+	key = "democratic_spi_mid_desc"
+	parts = {
+		"Temple" = 4
+		"Sacred" = 4
+		"Sacrosanct" = 4
+		"Pious" = 4
+	}
+}
+		
+### PACIFIST
+
+# Imperial Pacifist
+empire_name_parts_list = {
+	key = "imperial_pac"
+	parts = {
+		"Kingdom" = 4
+		"Principality" = 1
+		"Grand Duchy" = 1
+		"State" = 1
+		"Nation" = 2
+		"Sovereignty" = 1
+		"Foundation" = 1
+	}
+}
+
+# Dictatorial Pacifist
+empire_name_parts_list = {
+	key = "dictatorial_pac"
+	parts = {
+		"State" = 1
+		"Nation" = 2
+		"Sovereignty" = 1
+		"Foundation" = 1
+		"Mandate" = 3
+		"Compact" = 3
+		"Commonality" = 2
+		"Administration" = 2
+	}
+}
+
+# Oligarchic Pacifist
+empire_name_parts_list = {
+	key = "oligarchic_pac"
+	parts = {
+		"Republic" = 2
+		"Alliance" = 2
+		"Commonwealth" = 3
+		"Syndicate" = 2
+		"Confederation" = 3
+		"Confederacy" = 3
+		"Union" = 3
+		"League" = 3
+		"Foundation" = 4
+		"Mandate" = 3
+		"Compact" = 3
+		"Commonality" = 2
+		"Cooperative" = 2
+		"State" = 1
+		"Nation" = 1
+		"Sovereignty" = 1
+		"Administration" = 1
+		"Council" = 1
+		"Polity" = 1
+	}
+}
+
+# Democratic Pacifist
+empire_name_parts_list = {
+	key = "democratic_pac"
+	parts = {
+		"Republic" = 3
+		"Alliance" = 3
+		"Commonwealth" = 3
+		"Confederation" = 3
+		"Confederacy" = 3
+		"Union" = 3
+		"League" = 3
+		"Mandate" = 2
+		"Coalition" = 2
+		"Assembly" = 2
+		"Council" = 2
+		"Cooperative" = 2
+		"State" = 1
+		"Nation" = 2
+		"Sovereignty" = 1
+		"Commonality" = 1
+		"Concordat" = 1
+		"Accord" = 1
+		"Polity" = 1
+		"Administration" = 1
+	}
+}
+
+# Imperial Celestial Empire
+empire_name_parts_list = {
+	key = "imperial_celestial"
+	parts = {
+		"Empire" = 4
+		"Imperium" = 2
+	}
+}
+
+### Descriptives
+
+# Imperial Pacifist Descriptive
+empire_name_parts_list = {
+	key = "imperial_pac_desc"
+	parts = {
+		"Serene" = 3
+		"Irenic" = 3
+		"Tranquil" = 2
+		"Harmonious" = 2
+		"Protective" = 2
+		"Custodial" = 2
+		"Interstellar" = 1
+		"Galactic" = 1
+		"United" = 1
+		"Great" = 1
+	}
+}
+
+# Dictatorial Pacifist Descriptive
+empire_name_parts_list = {
+	key = "dictatorial_pac_desc"
+	parts = {
+		"Serene" = 3
+		"Irenic" = 3
+		"Tranquil" = 2
+		"Harmonious" = 2
+		"Protective" = 2
+		"Custodial" = 2
+		"Interstellar" = 1
+		"Galactic" = 1
+		"United" = 1
+		"Great" = 1
+	}
+}
+
+# Oligarchic Pacifist Descriptive
+empire_name_parts_list = {
+	key = "oligarchic_pac_desc"
+	parts = {
+		"Serene" = 3
+		"Irenic" = 3
+		"Tranquil" = 2
+		"Harmonious" = 2
+		"Protective" = 2
+		"Custodial" = 2
+		"Interstellar" = 1
+		"Galactic" = 1
+		"United" = 1
+		"Great" = 1
+	}
+}
+
+# Democratic Pacifist Descriptive
+empire_name_parts_list = {
+	key = "democratic_pac_desc"
+	parts = {
+		"Serene" = 3
+		"Irenic" = 3
+		"Tranquil" = 2
+		"Harmonious" = 2
+		"Protective" = 2
+		"Custodial" = 2
+		"Interstellar" = 1
+		"Galactic" = 1
+		"United" = 1
+		"Great" = 1
+	}
+}
+
+### Mid Descriptives
+
+# Imperial Pacifist Middle Descriptive
+empire_name_parts_list = {
+	key = "imperial_pac_mid_desc"
+	parts = {
+		"Jedi" = 4
+		"Serene" = 3
+		"Irenic" = 3
+		"Tranquil" = 3
+		"Harmonious" = 3
+		"Interstellar" = 1
+		"Interplanetary" = 1
+		"Galactic" = 1
+		"Star" = 2
+		"Stellar" = 1
+	}
+}
+
+# Dictatorial Pacifist Middle Descriptive
+empire_name_parts_list = {
+	key = "dictatorial_pac_mid_desc"
+	parts = {
+		"Jedi" = 4
+		"Serene" = 3
+		"Irenic" = 3
+		"Tranquil" = 3
+		"Harmonious" = 3
+		"Interstellar" = 1
+		"Interplanetary" = 1
+		"Galactic" = 1
+		"Star" = 2
+		"Stellar" = 1
+	}
+}
+
+# Oligarchic Pacifist Middle Descriptive
+empire_name_parts_list = {
+	key = "oligarchic_pac_mid_desc"
+	parts = {
+		"Jedi" = 4
+		"Serene" = 3
+		"Irenic" = 3
+		"Tranquil" = 3
+		"Harmonious" = 3
+		"Interstellar" = 1
+		"Interplanetary" = 1
+		"Galactic" = 1
+		"Star" = 2
+		"Stellar" = 1
+	}
+}
+
+# Democratic Pacifist Middle Descriptive
+empire_name_parts_list = {
+	key = "democratic_pac_mid_desc"
+	parts = {
+		"Jedi" = 4
+		"Serene" = 3
+		"Irenic" = 3
+		"Tranquil" = 3
+		"Harmonious" = 3
+		"Interstellar" = 1
+		"Interplanetary" = 1
+		"Galactic" = 1
+		"Star" = 2
+		"Stellar" = 1
+	}
+}
+# Megachurch
+empire_name_parts_list = {
+	key = "oligarchic_megachurch"
+	parts = {
+		Communion = 1
+		"Star Church" = 1
+		"Church of Tomorrow" = 1
+		"First Church" = 1
+		"Church of Prosperity" = 1
+		"Messianic Union" = 1
+		"Sacred Conglomerate" = 1
+		"Holy Enterprise" = 1
+		"New Ascensionists" = 1
+		"Denomination" = 1
+		"Fellowship Temple" = 1
+		"Temple of Renewal" = 1
+		"Golden Foundation" = 1
+	}
+}
+
+# Subversive Cult 1
+empire_name_parts_list = {
+	key = "subversive_cult_1"
+	parts = {
+		"Cult" = 1
+		"Chosen" = 1
+		"Sect" = 1
+		"Fellowship" = 1
+	}
+}
+
+# Subversive Cult 2
+empire_name_parts_list = {
+	key = "subversive_cult_2"
+	parts = {
+		"Chosen" = 1
+		"Fellowship" = 1
+		"Prophets" = 1
+		"Trueborn" = 1
+		"Messengers" = 1
+		"Pilgrims" = 1
+	}
+}
+
+# Bandit Kingdom
+empire_name_parts_list = {
+	key = "bandit_kingdom"
+	parts = {
+		"Despoilers" = 1
+		"Triad" = 1
+		"Cabal" = 1
+		"Clique" = 1
+		"Coterie" = 1
+	}
+}
+
+
+# Enlightened
+empire_name_parts_list = {
+	key = "imperial_enlightened"
+	parts = {
+		"High Kingdom" = 4
+		"Kingdom" = 2
+		"Enlightened Kingdom" = 3
+		"Star Realm" = 2
+		"Star Dynasty" = 2
+		"Dynastic Union" = 2
+	}
+}
+
+
+### GENERIC DESCRIPTIVES
+
+# Generic Imperial Descriptive
+empire_name_parts_list = {
+	key = "generic_aut_desc"
+	parts = {
+		"Imperial" = 3
+		"Royal" = 3
+		"United" = 3
+		"Unified" = 1
+		"Sovereign" = 1
+		"Consolidated" = 3
+		"Centralized" = 3
+		"Combined" = 3
+	}
+}
+
+# Generic oligarchic Descriptive
+empire_name_parts_list = {
+	key = "generic_oli_desc"
+	parts = {
+		"Confederated" = 3
+		"Republican" = 3
+		"Allied" = 3
+		"Associated" = 2
+		"Assembly of" = 1
+		"League of" = 1
+		"Alliance of" = 1
+		"Confederation of" = 1
+		"Union of" = 1
+		"United" = 3
+		"Unified" = 1
+		"Sovereign" = 2
+	}
+}
+
+# Generic Democratic Descriptive
+empire_name_parts_list = {
+	key = "generic_dem_desc"
+	parts = {
+		"Democratic" = 3
+		"Confederated" = 3
+		"Republican" = 2
+		"Allied" = 4
+		"Associated" = 1
+		"Assembly of" = 1
+		"League of" = 1
+		"Alliance of" = 1
+		"Confederation of" = 1
+		"Union of" = 1
+		"United" = 4
+		"Unified" = 1
+		"Sovereign" = 3
+	}
+}
