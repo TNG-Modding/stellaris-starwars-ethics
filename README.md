@@ -10,6 +10,15 @@ M-ilitarist -> Sithic
 
 Spiritualist -> Force Conscious
 Force Wielder
-No priests
-No religious
-No theocracy
+Banned Words:
+-Priest(s)
+-Religion
+-Religious
+-Church
+-Minister
+-Theo
+-Cultist(s)
+-Cult
+-True Path
+-Divine
+discples
