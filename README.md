@@ -21,4 +21,5 @@ Banned Words:
 -Cult
 -True Path
 -Divine
+-Worship
 discples
