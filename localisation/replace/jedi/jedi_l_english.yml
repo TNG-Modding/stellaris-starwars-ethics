@@ -1,0 +1,17 @@
+l_english:
+
+ ethic_pacifist:0 "Jedi"
+ ethic_pacifist_desc:0 "§LConflict as a means to an end is a ridiculous concept. It is by nature destructive, destroying what was to be obtained or giving room to grow that which was to be destroyed.§!\n"
+ ethic_fanatic_pacifist:0 "Fanatic Jedi"
+ ethic_fanatic_pacifist_desc:0 "§LAs civilized beings, the end of all armed conflict should be our primary concern. War is an evolutionary dead end, as futile as it is wasteful.§!\n"
+ 
+ pacifist_unrest:0 "Unrest (Jedi Attraction)"
+ pacifist_unrest_desc:0 "§HUnrest§! on this colony has caused local Pops to become more attracted to §YJedi§!."
+
+ POP_ATTRACTION_PACIFIST_POS:0 "§G+ Jedi Governing Ethics§!"
+ POP_ATTRACTION_PACIFIST_NEG:0 "§R- Jedi Governing Ethics§!"
+ POP_ATTRACTION_INWARDS_PERFECTION_POS:0 "§G+ Jedi Devotion Civic§!"
+ POP_ATTRACTION_INWARDS_PERFECTION_NEG:0 "§R- Jedi Devotion Civic§!"
+
+ personality_peaceful_traders:0 "Jedi Traders"
+ personality_peaceful_traders_desc:0 "Jedi Traders are chiefly concerned with the peace and stability, and prefer diplomacy to fighting."

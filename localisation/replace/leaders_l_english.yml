@@ -1,7 +1,7 @@
 ﻿l_english:
 
  ### Utopia
-leader_trait_admiral_psionic:0 "Force Wielder"
+ leader_trait_admiral_psionic:0 "Force Wielder"
  leader_trait_admiral_psionic_desc:0 "This leader is a powerful Force wielder, with an uncanny ability to sense where incoming fire will appear."
  leader_trait_general_psionic:0 "$leader_trait_admiral_psionic$"
  leader_trait_general_psionic_desc:0 "This leader is a powerful Force wielder, capable of bolstering the resolve of the troops."

@@ -14,12 +14,12 @@ Banned Words:
 -Priest(s)
 -Religion
 -Religious
--Church
--Minister
+-Church -> Foundation
+-Minister -> Temple Official
 -Theo
--Cultist(s)
--Cult
+-Cultist(s) -> Sectarians
+-Cult -> Sect
 -True Path
--Divine
--Worship
-discples
+-Divine -> Sacred
+-Worship -> Revere
+-Clergy -> Disciples

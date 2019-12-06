@@ -1,0 +1,34 @@
+l_english:
+ theocratic_oligarchy:0 "Temple Oligarchy"
+ theocratic_oligarchy_desc:0 "§LThis government is a Force conscious form of oligarchy, where a council made up of Force masters controls the state. No division exists between the state and the temple bureaucracy.§!"
+ 
+ transcendent_oligarchy:0 "Temple Oligarchy"
+ transcendent_oligarchy_desc:0 "§LThis government is an advanced form of Force conscious oligarchy, ruled by a council of Force masters who are considered absolute authorities on all matters of state and religion.§!"
+ 
+ divine_mandate:0 "Force Master Dictatorship"
+ divine_mandate_desc:0 "§LThis government is a Force conscious form of autocracy, where the ruler is treated as the conduit to the Force. Widespead Force discipleship is widely employed in support of the state apparatus.§!"
+ divine_mandate_special:0 "Each Ruler can build a Tomb Monument Building"
+ 
+ transcendent_empire:0 "Force Master Autocracy"
+ transcendent_empire_desc:0 "§LThis government is an advanced form of Force conscious autocracy. Everything is shaped by the official stance on the Force, and the ruler is revered as an the singular conduit to the Force.§!"
+ transcendent_empire_special:0 "Each Ruler can build a Tomb Monument Building"
+
+ theocratic_republic:0 "Temple Republic"
+ theocratic_republic_desc:0 "§LThis government is a Force conscious form of democracy, where a council of Force masters supervises the democratic process and serves in an advisory role.§!"
+ transcendent_republic:0 "Transcendent Republic"
+ transcendent_republic_desc:0 "§LThis government is an advanced form of Force conscious democracy, where candidates for leadership are drawn exclusively from the ranks of the Force discipleship, which permeates all layers of society.§!"
+
+ gov_theocratic_monarchy:0 "Force Master Dictatorship"
+ gov_theocratic_monarchy_desc:0 "This government is a Force conscious form of autocracy, where the ruler is treated as the singular conduit to the Force. Widespread Force discipleship is employed in support of the state apparatus."
+ gov_theocratic_dictatorship:0 "Force Master Dictatorship"
+ gov_theocratic_dictatorship_desc:0 "This government is a Force conscious dictatorship, ruled by a single Force Master in a hierarchical power structure supported by the temple bureaucracy."
+ gov_theocratic_oligarchy:0 "Temple Bueaucracy"
+ gov_theocratic_oligarchy_desc:0 "This government is a Force conscious form of oligarchy, where the political leadership lies in the hands of the leaders of the nation's most powerful temple bureaucrats."
+ gov_theocratic_republic:0 "Force Master Republic"
+ gov_theocratic_republic_desc:0 "This government is a Force conscious form of democracy, where a council of Force masters supervises the democratic process and serves in an advisory role."
+ gov_divine_empire:0 "Force Master Empire"
+ gov_divine_empire_desc:0 "This government is a form of Force conscious autocracy. Everything is shaped by the official stance on the Force, where the sovereign leads the nation from within and without the Force."
+ gov_holy_tribunal:0 "Force Master Tribunal"
+ gov_holy_tribunal_desc:0 "This government is a Force conscious form of oligarchy, where a council of Force masters controls the state. No division exists between the state and the temple bureaucracy."
+
+ 

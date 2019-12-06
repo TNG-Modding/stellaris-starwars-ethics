@@ -527,7 +527,7 @@
  covenant_end_of_the_cycle_desc:0 "We have formed a Covenant with the End of the Cycle.\n\n§RThere will be a reckoning.§!"
 
  utopia.3400.name:0 "A Divine Sovereign"
- utopia.3400.desc:0 "The immortal entity known as §H[chosen_one.GetName]§!, previously [chosen_one_species.GetName] but now something far more, has attracted a large and devout following in the [Root.GetName]. Worshipped by many as a supreme deity, a call has gone out to officially crown the [chosen_one.GetTitle] as the permanent ruler of our great empire, now and into perpetuity."
+ utopia.3400.desc:0 "The immortal entity known as §H[chosen_one.GetName]§!, previously [chosen_one_species.GetName] but now something far more, has attracted a large and devout following in the [Root.GetName]. Reverred by many as a supreme deity, a call has gone out to officially crown the [chosen_one.GetTitle] as the permanent ruler of our great empire, now and into perpetuity."
  utopia.3400.a:0 "A powerful psychic, but a God? Hardly."
  utopia.3400.b:0 "May [chosen_one.GetHerHis] reign stretch into infinity... and beyond!"
  reject_god_emperor:0 "[chosen_one.GetName] will remain as [chosen_one.GetTitle]."

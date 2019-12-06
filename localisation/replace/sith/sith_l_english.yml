@@ -1,0 +1,17 @@
+l_english:
+
+ ethic_militarist:0 "Sith"
+ ethic_militarist_desc:1 "§LThe only true virtues are power and passion, and channeled properly they can overcome any obstacle. Therein lies true strength; force withheld, a promise made.§!\n"
+ ethic_fanatic_militarist:0 "Fanatic Sith"
+ ethic_fanatic_militarist_desc:1 "§LThere exists only the strength of the individual. Reality must bend to our awe and might, or be broken all to pieces...§!\n"
+ 
+ militarist_unrest:0 "Unrest (Sith Attraction)"
+ militarist_unrest_desc:0 "§HUnrest§! on this colony has caused local Pops to become more attracted to §YSith§!."
+
+
+ POP_ATTRACTION_MILITARIST_POS:0 "§G+ Sith Governing Ethics§!"
+ POP_ATTRACTION_MILITARIST_NEG:0 "§R- Sith Governing Ethics§!"
+
+ personality_honorbound_warriors:0 "Sith Warriors"
+ personality_honorbound_warriors_desc:0 "Sith Warriors value power above all other things. They will seek out worthy foes to fight and have little respect for Jedi weaklings."
+ 

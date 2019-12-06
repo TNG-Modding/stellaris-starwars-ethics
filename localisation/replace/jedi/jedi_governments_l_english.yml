@@ -1,0 +1,31 @@
+l_english:
+ enlightened_monarchy:0 "Jedi Monarchy"
+ enlightened_monarchy_desc:0 "§LThis government is a Jedi form of autocracy, where the Jedi Lord is viewed as an enlightened protector that always acts in the best interests of the citizenry.§!"
+ enlightened_monarchy_special:0 "Each Ruler can build a special Park Building"
+
+ irenic_monarchy:0 "Jedi Monarchy"
+ irenic_monarchy_desc:0 "§LThis government is an advanced form of Jedi autocracy, where the Jedi Lord is regarded as a benevolent guardian that is striving to protect the citizens from a violent galaxy.§!"
+ irenic_monarchy_special:0 "Each Ruler can build a special Park Building"
+
+ peaceful_bureaucracy:0 "Jedi Bureaucracy"
+ peaceful_bureaucracy_desc:0 "§LThis government is a Jedi form of oligarchy, where a complicated system of bureaucracy governs all aspects of society to ensure the safety of the citizenry.§!"
+ 
+ irenic_protectorate:0 "Jedi Protectorate"
+ irenic_protectorate_desc:0 "§LThis government is an advanced form of Jedi oligarchy, where a safety committee oversees the administration of the state. Violent tendencies among citizens are curbed at an early stage.§!"
+
+ moral_democracy:0 "Jedi Democracy"
+ moral_democracy_desc:0 "§LThis government is a Jedi form of democracy, firmly guided by moralist principles and non-violence.§!"
+ 
+ irenic_democracy:0 "Jedi Democracy"
+ irenic_democracy_desc:0 "§LThis government is an advanced form of Jedi democracy, where peaceful solutions are sought to all conflicts, both internal and external.§!"
+ 
+ gov_irenic_monarchy:0 "Jedi Lordship"
+ gov_irenic_monarchy_desc:0 "This government is a Jedi form of hereditary autocracy, where the ruler is regarded as a benevolent guardian that is striving to protect the citizens from a violent galaxy."
+ gov_irenic_dictatorship:0 "Jedi Dictatorship"
+ gov_irenic_dictatorship_desc:0 "This government is a Jedi form of autocracy, where the state is charged with protecting the citizenry from their own violent tendencies as well as any external threats."
+ gov_irenic_bureaucracy:0 "Jedi Bureaucracy"
+ gov_irenic_bureaucracy_desc:0 "This government is a Jedi form of oligarchy, where a complicated system of Jedi bureaucrats govern all aspects of society to ensure the safety of the citizenry."
+ gov_celestial_empire:0 "Irenic Jedi Empire"
+ gov_celestial_empire_desc:0 "This government is a Jedi form hereditary monarchy, where the ruler is seen as a supreme guide to Force in a largely isolationist society permeated by Jedi discipleship."
+ gov_moral_democracy:0 "Jedi Democracy"
+ gov_moral_democracy_desc:0 "This government is a Jedi form of democracy, firmly guided by Jedi principles of non-violence."

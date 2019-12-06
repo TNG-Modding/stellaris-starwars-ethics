@@ -1,0 +1,14 @@
+l_english:
+ building_temple_of_prosperity:0 "Force Cult Temple" 
+ building_temple_of_prosperity_desc:0 "A high-security temple that spreads the sells illusory Force experiences for cash."
+
+ job_preacher:0 "Force Peddler"
+ job_preacher_plural:0 "Force Peddlers"
+ job_preacher_desc:0 "Force Peddlers selly phony illusions of Force participation, only to leave the buyer out in the cold at the moment of transcendence."
+ job_preacher_effect_desc:0 "£job_preacher£ $job_preacher_plural$ produce £unity£ §Y$unity$§!, £mod_trade_value_add£ §Y$TRADE_VALUE$§! and £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+
+ gov_megachurch:0 "Force Cult"
+ gov_megachurch_desc:0 "This government is an oligarchy based on a curious blend of commercial and Force conscious values, in which the positions of Force master and corporate officer have merged into a single role."
+ 
+ civic_gospel_of_the_masses:0 "Force Peddlers"
+ civic_gospel_of_the_masses_desc:0 "This Megacorporation embraces a curious blend of commercial and Force conscious values, in which the positions of Force master and corporate officer have merged into a single role."

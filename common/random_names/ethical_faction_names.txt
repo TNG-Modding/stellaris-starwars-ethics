@@ -1,0 +1,97 @@
+
+
+## Sith
+pop_faction_name_parts_list = {
+	key = "imperialist_names"
+	parts = {
+		"Self-Determination Association" = 1
+		"Black Temple Patriots" = 1
+		"Warriors of the Sith Star" = 1
+		"Strength Through Passion Coalition" = 1
+		"Knights of the Sith" = 1
+		"Sith Vanguard" = 1
+		"Order of the Sith Star" = 1
+		"Sith Warrior Lodge" = 1
+		"Sons of the Sith Sun" = 1
+		"Sith Legion" = 1
+		"Sith Brethren" = 1
+		"Black Sun Guard" = 1
+		"Sith Initiative" = 1
+		"Path of Passion Committee" = 1
+		"Vanguard of the Sith Academy" = 1
+		"Black Sunset Party" = 1
+		"Martial Order of the Sith" = 1
+		"Sith Supremacy Initiative" = 1
+		"March of the Sith Warrior" = 1
+	}
+}
+
+## Prosperity Faction
+pop_faction_name_parts_list = {
+	key = "prosperity_names_1"
+	parts = {
+		"Contemplation" = 1
+		"End of War" = 1
+		"Coming Peace" = 1
+		"Selflessness" = 1
+		"Jedi Practionioners" = 1
+		"Jedi Warrior" = 1
+		"Peacekeepers" = 1
+		"Jedi" = 1
+		"Non-Violence" = 1
+		"Harmony" = 1
+		"Peace and Prosperity" = 1
+		"Serenity" = 1
+		"Peace" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "prosperity_names_2"
+	parts = {
+		"Foundation" = 1
+		"Initiative" = 1
+		"Association" = 1
+		"Board" = 1
+		"Committee" = 1
+		"Party" = 1
+		"Coalition" = 1
+		"League" = 1
+		"Initiative" = 1
+		"Group" = 1
+		"Lobby" = 1
+		"Network" = 1
+		"Council" = 1
+	}
+}
+
+## Traditionalists
+pop_faction_name_parts_list = {
+	key = "traditionalist_names_1"
+	parts = {
+		"Union" = 1
+		"Alliance" = 1
+		"Council" = 1
+		"Committee" = 1
+		"Conclave" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "traditionalist_names_2"
+	parts = {
+		"of Sacred Traditions" = 1
+		"of the Force Unleashed" = 1
+		"of the Force Unchained" = 1
+		"of the Force Spark" = 1
+		"of Force Philosophy" = 1
+		"of Disciple Foundations" = 1
+		"of Temple Foundations" = 1
+		"of Temples" = 1
+		"of Force Awakening" = 1
+		"of the Force" = 1
+		"of Force-Sensitives" = 1
+		"of Force Practitioners" = 1
+		"of Discipleship" = 1
+	}
+}

@@ -1,0 +1,15 @@
+l_english:
+ civic_citizen_service:0 "Sith Citizenship"
+ civic_citizen_service_desc:0 "Full citizenship is limited to those who have adopted Sith principles and served a tour of duty in the military."
+ 
+ civic_warrior_culture:0 "Life of the Sith"
+ civic_warrior_culture_desc:0 "This society has adopted Sith warrior culture. Power is valued above all else, and self-actualization can only be found by feeding the passions."
+ 
+ civic_distinguished_admiralty:0 "Distinguished Admiralty"
+ civic_distinguished_admiralty_desc:0 "The Fleet and the Admiralty have unusually prominent roles in this society, wielding a great deal of influence in political circles. They have the pick of the litter when it comes to new military recruits."
+ 
+ civic_nationalistic_zeal:0 "Sith Domination"
+ civic_nationalistic_zeal_desc:0 "It is the way of the Sith to take what they can from those who cannot defend themselves."
+ 
+ civic_military_order:0 "Sith Order"
+ civic_military_order_desc:0 ""

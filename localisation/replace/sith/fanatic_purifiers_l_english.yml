@@ -1,0 +1,18 @@
+l_english:
+ civic_fanatic_purifiers:0 "Fanatic Purifiers"
+ civic_fanatic_purifiers_desc:0 "This society appears hellbent on scouring the galaxy of all other sapient life. Come what may, they will suffer no xenos to live."
+
+ personality_fanatic_purifiers:0 "Fanatical Purifiers"
+ personality_fanatic_purifiers_desc:1 "Fanatical Purifiers view all alien life as a cosmic mistake and seek to purify the galaxy of its taint. They will never engage in diplomacy with other species."
+
+ POP_ATTRACTION_FANATIC_PURIFIERS_POS:0 "§G+ Fanatical Purifiers Civic§!"
+ POP_ATTRACTION_FANATIC_PURIFIERS_NEG:0 "§R- Fanatical Purifiers Civic§!"
+
+ gov_blood_court:0 "Blood Court"
+ gov_blood_court_desc:0 "This government is a hereditary form of rabidly xenophobic autocracy, where the ultimate responsibility of the monarch is to oversee the extermination of all lesser species in the galaxy."
+ gov_purity_order:0 "Purity Order"
+ gov_purity_order_desc:0 "This government is a form of rabidly xenophobic autocracy, where a single ruler has sworn to oversee the extermination of all lesser species in the galaxy."
+ gov_purification_committee:0 "Purification Committee"
+ gov_purification_committee_desc:0 "This government is a form of rabidly xenophobic oligarchy, where a political committee has been set up to oversee the extermination of all lesser species in the galaxy."
+ gov_purity_assembly:0 "Purity Assembly"
+ gov_purity_assembly_desc:0 "This government is a form of rabidly xenophobic democracy, where an elected assembly has been charged with overseeing the extermination of all lesser species in the galaxy."

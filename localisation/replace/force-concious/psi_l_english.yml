@@ -1,0 +1,49 @@
+l_english:
+ psionic_army:0 "Force Wielder Army"
+ psionic_army_plural:0 "Force Wielder Armies"
+ psionic_army_desc:0 "Soldiers gifted with sensitivity to the Force. Precognition and destructive power make them terrifying foes."
+
+ army_attachment_psi_warriors:0 "Force Wielder Warriors"
+ army_attachment_psi_warriors_desc:0 "§LThese elite warriors are shrouded in mystery, relying on their powerful Force abilities and extensive physical training to move about the battlefield. They prefer to engage their opponents in close combat, and many are extremely proficient with melee weapons.§!"
+ army_attachment_psi_shield_specialists:0 "Force-Shield Specialists"
+ army_attachment_psi_shield_specialists_desc:0 "§LOperatives that have been specifically trained to project powerful Force shields over friendly positions on the battlefield. These shields can be every bit as potent as conventional energy force fields, but maintaining them requires a lot of concentration.§!"
+ army_attachment_telekinetic_specialists:0 "Telekinetic Specialists"
+ army_attachment_telekinetic_specialists_desc:0 "§LForce specialists who have shown a particular talent for manipulating their environment. In the right conditions, they are capable of hurling enemy soldiers and vehicles into the air, or plucking aircraft from the sky and slamming them into the ground.§!"
+ army_attachment_class_a_psi_operative:0 "Class-A Force Operative"
+ army_attachment_class_a_psi_operative_desc:0 "§LRare individuals wielding tremendous Force energies, usually with the unfortunate side-effect of fraying their minds. They are extremely dangerous both to themselves and their environment, but can be a formidable weapon when their destructive energies are directed towards the enemy.§!"
+ 
+ building_psi_corps:0 "Force Discple Corps"
+ building_psi_corps_desc:0 "Force sensitive individuals are brought from all across to our empire to a place where they are able to hone their abilities."
+
+ PSIONIC_BLAST_1:0 "Force Blast"
+ PSIONIC_BLAST_1_DESC:0 ""
+ PSI_JUMP_DRIVE_1:0 "Force Jump Drive"
+ PSI_JUMP_DRIVE_1_DESC:1 "The Force Jump Drive harnesses the potential of the ship's Force sensitive crew to warp the local space-time continuum, eliminating the distance between the point of origin and the destination. Supposedly."
+ PSI_SHIELD:0 "Force Shields"
+ PSI_SHIELD_DESC:0 "$tech_psionic_shield_desc$"
+ PSI_BARRIER:0 "Force Barrier"
+ PSI_BARRIER_DESC:0 "$tech_psionic_barrier_desc$"
+ 
+ SMALL_PSI_SHIELD:0 "Small Force Shield"
+ MEDIUM_PSI_SHIELD:0 "Medium Force Shield"
+ LARGE_PSI_SHIELD:0 "Large Force Shield"
+ SMALL_PSI_BARRIER:0 "Small Force Barrier"
+ MEDIUM_PSI_BARRIER:0 "Medium Force Barrier"
+ LARGE_PSI_BARRIER:0 "Large Force Barrier"
+ 
+ PLANET_KILLER_GODRAY:1 "Force Awakener"
+ PLANET_KILLER_GODRAY_ACTION:0 "Awaken"
+ PLANET_KILLER_GODRAY_DESC:1 "A Force projector powered by leagues of force sensitives awakens in all the reality of the Force."
+ 
+ TRANSCENDING_SPECIES_MUST_BE_ORGANIC:0 "Only organic species can emit Force energies."
+ TRANSCENDING_SPECIES_IS_ALREADY_PSIONIC:0 "This species already emits Force energies."
+ TRANSCENDING_SPECIES_CANT_BE_HIVE:0 "Hive minds cannot develop Force energies."
+ SPECIES_CAN_TRANSCEND:0 "Assimilating this species will set them upon the path to Force Ascension."
+ 
+ psionic_avatar:0 "Shrouded Avatar"
+ psionic_avatar_plural:0 "Shrouded Avatars"
+
+
+ living_standard_psi_assimilation:0 "Force Awakening"
+ living_standard_psi_assimilation_tooltip:0 "This species is awakening to its Force potential."
+ living_standard_psi_assimilation_tooltip_delayed:0 "§LThe veil is lifted, but the Force remains.§!"

@@ -1,18 +1,6 @@
 ﻿l_english:
  
- building_temple_of_prosperity:0 "Temple of Prosperity"
- building_temple_of_prosperity_desc:0 "A high-security temple that spreads the gospel of the Megachurch that built it."
-
- # Working Class Jobs
-
- job_preacher:0 "Prosperity Preacher"
- job_preacher_plural:0 "Prosperity Preachers"
- job_preacher_desc:0 "Prosperity Preachers selly phony experiences and ."
- job_preacher_effect_desc:0 "£job_preacher£ $job_preacher_plural$ produce £unity£ §Y$unity$§!, £mod_trade_value_add£ §Y$TRADE_VALUE$§! and £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
- mod_job_preacher_add:0 "$job_preacher$ Jobs"
- mod_job_preacher_per_pop:0 "§G+1§! $job_preacher$ Job per $VALUE$ Pops"
- mod_job_preacher_per_pop_short:0 "\n§G+1§! £mod_job_preacher_add£ per $VALUE$ £pop£"
-
+ 
  # Specialist Jobs
  job_telepath:0 "Inquisitor"
  job_telepath_plural:0 "Inquisitor"
@@ -78,12 +66,12 @@
  gov_subversive_cult:0 "Subversive Cult"
  gov_subversive_cult_desc:0 "This government is structured like a religious cult that relies on a variety of criminal and corporate enterprises to sustain itself."
 
- consecrated_quality_1:0 "Consecrated (Profane World)"
- consecrated_quality_1_desc:0 "This is deemed a poor object of worship."
- consecrated_quality_2:0 "Consecrated (Respected World)"
- consecrated_quality_2_desc:0 "This is deemed a suitable object of worship."
- consecrated_quality_3:0 "Consecrated (Venerated World) "
- consecrated_quality_3_desc:0 "This is deemed a most blessed planet."
- consecrated_quality_4:0 "Consecrated (Holy World)"
+ consecrated_quality_1:0 "Temple Planet (Profane World)"
+ consecrated_quality_1_desc:0 "This is deemed a poor object of reverence."
+ consecrated_quality_2:0 "Temple Planet (Respected World)"
+ consecrated_quality_2_desc:0 "This is deemed a suitable object of reverence."
+ consecrated_quality_3:0 "Temple Planet (Venerated World) "
+ consecrated_quality_3_desc:0 "This is deemed a most sacred planet."
+ consecrated_quality_4:0 "Temple Planet (Sacrosanct World)"
  consecrated_quality_4_desc:0 "This planet is deemed an immaculate and sacrosanct place."
 

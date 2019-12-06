@@ -7,20 +7,7 @@
  clone_army_plural:0 "Clone Armies"
  clone_army_desc:1 "Specialized clones that reach adulthood in a matter of months. With a natural lifespan of less than a decade, their lack of personal initiative is deemed an acceptable trade-off for their total obedience to officers."
  
- psionic_army:0 "Force Wielder Army"
- psionic_army_plural:0 "Force Wielder Armies"
- psionic_army_desc:0 "Soldiers gifted with sensitivity to the Force. Precognition and destructive power make them terrifying foes."
-
- army_attachment_psi_warriors:0 "Force Wielder Warriors"
- army_attachment_psi_warriors_desc:0 "§LThese elite warriors are shrouded in mystery, relying on their powerful Force abilities and extensive physical training to move about the battlefield. They prefer to engage their opponents in close combat, and many are extremely proficient with melee weapons.§!"
- army_attachment_psi_shield_specialists:0 "Force-Shield Specialists"
- army_attachment_psi_shield_specialists_desc:0 "§LOperatives that have been specifically trained to project powerful Force shields over friendly positions on the battlefield. These shields can be every bit as potent as conventional energy force fields, but maintaining them requires a lot of concentration.§!"
- army_attachment_telekinetic_specialists:0 "Telekinetic Specialists"
- army_attachment_telekinetic_specialists_desc:0 "§LForce specialists who have shown a particular talent for manipulating their environment. In the right conditions, they are capable of hurling enemy soldiers and vehicles into the air, or plucking aircraft from the sky and slamming them into the ground.§!"
- army_attachment_class_a_psi_operative:0 "Class-A Force Operative"
- army_attachment_class_a_psi_operative_desc:0 "§LRare individuals wielding tremendous Force energies, usually with the unfortunate side-effect of fraying their minds. They are extremely dangerous both to themselves and their environment, but can be a formidable weapon when their destructive energies are directed towards the enemy.§!"
  
-
  ####################################
  # Leader Traits
  ####################################
@@ -31,433 +18,74 @@
  leader_trait_butcher_desc:1 "This leader is often exhibits Sith-like tendencies, offering no quarter and expecting none in return."
 
  ####################################
- # Ethics
- ####################################
-
- POP_ATTRACTION_FANATIC_PURIFIERS_POS:0 "§G+ Fanatical Purifiers Civic§!"
- POP_ATTRACTION_FANATIC_PURIFIERS_NEG:0 "§R- Fanatical Purifiers Civic§!"
- POP_ATTRACTION_INWARDS_PERFECTION_POS:0 "§G+ Jedi Devotion Civic§!"
- POP_ATTRACTION_INWARDS_PERFECTION_NEG:0 "§R- Jedi Devotion Civic§!"
- POP_ATTRACTION_SPIRITUALIST_POS:0 "§G+ Force Conscious Governing Ethics§!"
- POP_ATTRACTION_SPIRITUALIST_NEG:0 "§R- Force Conscious Governing Ethics§!"
- POP_ATTRACTION_MATERIALIST_POS:0 "§G+ Materialist Governing Ethics§!"
- POP_ATTRACTION_MATERIALIST_NEG:0 "§R- Materialist Governing Ethics§!"
- POP_ATTRACTION_PACIFIST_POS:0 "§G+ Jedi Governing Ethics§!"
- POP_ATTRACTION_PACIFIST_NEG:0 "§R- Jedi Governing Ethics§!"
- POP_ATTRACTION_MILITARIST_POS:0 "§G+ Sith Governing Ethics§!"
- POP_ATTRACTION_MILITARIST_NEG:0 "§R- Sith Governing Ethics§!"
- POP_ATTRACTION_MATERIALIST_RESEARCH_POS:0 "§G+ Research Agreements with Materialist Empires§!"
- POP_ATTRACTION_MATERIALIST_RESEARCH_NEG:0 "§R- Research Agreements with Materialist Empires§!"
- POP_ATTRACTION_SPIRITUALIST_DIPLOMACY_POS:0 "§G+ Diplomacy with Force Conscious Empires§!"
- POP_ATTRACTION_SPIRITUALIST_DIPLOMACY_NEG:0 "§R- Diplomacy with Force Conscious Empires§!"
- POP_ATTRACTION_SPIRITUALIST_OVERLORD_POS:0 "§G+ Force Conscious Overlords§!"
- POP_ATTRACTION_SPIRITUALIST_OVERLORD_NEG:0 "§R- Force Conscious Overlords§!"
-
- ethic_militarist:0 "Sith"
- ethic_militarist_desc:1 "§LThe only true virtues are power and passion, and channeled properly they can overcome any obstacle. Therein lies true strength; force withheld, a promise made.§!\n"
- ethic_fanatic_militarist:0 "Fanatic Sith"
- ethic_fanatic_militarist_desc:1 "§LThere exists only the strength of the individual. Reality must bend to our awe and might, or be broken all to pieces...§!\n"
- 
- ethic_pacifist:0 "Jedi"
- ethic_pacifist_desc:0 "§LConflict as a means to an end is a ridiculous concept. It is by nature destructive, destroying what was to be obtained or giving room to grow that which was to be destroyed.§!\n"
- ethic_fanatic_pacifist:0 "Fanatic Jedi"
- ethic_fanatic_pacifist_desc:0 "§LAs civilized beings, the end of all armed conflict should be our primary concern. War is an evolutionary dead end, as futile as it is wasteful.§!\n"
- 
- ethic_spiritualist:0 "Force Conscious"
- ethic_spiritualist_desc:1 "§LThere is a Force, a field that emates from all life. Our government must remember our place within it, and guide our people to a greater awareness of it.§!\n"
- ethic_fanatic_spiritualist:0 "Fanatic Force Conscious"
- ethic_fanatic_spiritualist_desc:0 "§LOur science has proven that it is the Force that begets knowable reality. We regard with patience the childlike efforts of those who seek Sight where none can be found.§!\n"
- 
- ethic_materialist:0 "Materialist"
- ethic_materialist_desc:0 "§LAs we reach for the stars, we must put away childish things; gods, spirits and other phantasms of the brain. Reality is cruel and unforgiving, yet we must steel ourselves and secure the survival of our race through the unflinching pursuit of science and technology.§!\n"
- ethic_fanatic_materialist:0 "Fanatic Materialist"
- ethic_fanatic_materialist_desc:0 "§LAlthough it hurts, we must grow up and put aside our outdated notions of morality. There is no "force" granting special value to a living creatures. No object has any intrinsic value apart from what we choose to grant it. Let us embrace the freedom of certitude, and achieve maximum efficiency in all things!§!\n"
- 
-
- ####################################
  # Advanced Resources
  ####################################
  sr_zro:0 "Zro"
  sr_zro_desc:0 "An extremely rare aerosol of exotic particles. It has been deposited on a number of worlds through meteor impacts, but its true origin is a mystery. If ingested by Force sensitive individuals, zro acts as a very potent (and addictive) drug that enhances Force abilities."
- 
- ####################################
- # Planetary Buildings
- ####################################
-
- building_temple:0 "Temple"
- building_temple_desc:0 "Simple constructs erected since time immemorial, temples are places of quiet contemplation and communion with the Force."
- building_holotemple:0 "Holotemple"
- building_holotemple_desc:0 "An enhanced form of its rough-hewn predecessors, the latest in Force communion technology creates a mutable reality inside the Holotemple - all for deeper meditation and more intense devotion."
- building_sacred_nexus:0 "Sacred Nexus"
- building_sacred_nexus_desc:0 "The latest developments in technology allow disciples to directly experience the Force within thier surroundings."
- building_citadel_of_faith:0 "Citadel of Faith"
- building_citadel_of_faith_desc:0 "A massive complex offering refuge and seclusion from the material world, for all comers."
-
- ####################################
- # Wonders
- ####################################
- building_psi_corps:0 "Force Discple Corps"
- building_psi_corps_desc:0 "Force sensitive individuals are brought from all across to our empire to a place where they are able to hone their abilities."
-
-
- ####################################
- # Government Authorities
- ####################################
-
- military_dictatorship:0 "Sith Dictatorship"
- military_dictatorship_desc:0 "§LThis government is a Sith form of autocracy, with the ruler serving as the undisputed head of the military which is firmly in control of the state apparatus.§!"
- military_dictatorship_special:0 "Each Ruler can build an oversized Ship"
- 
- martial_empire:0 "Sith Empire"
- martial_empire_desc:0 "§LThis government is an advanced form of Sith autocracy, where the state exists largely to support the military. Martial ability is highly valued, and all citizens are regularly drilled in matters of war.§!"
- martial_empire_special:0 "Each Ruler can build an oversized Ship"
-
- divine_mandate:0 "Divine Mandate"
- divine_mandate_desc:0 "§LThis government is a Force conscious form of autocracy, where the ruler is treated as the conduit to the Force. Widespead Force discipleship is widely employed in support of the state apparatus.§!"
- divine_mandate_special:0 "Each Ruler can build a Tomb Monument Building"
- 
- transcendent_empire:0 "Transcendent Empire"
- transcendent_empire_desc:0 "§LThis government is an advanced form of Force conscious autocracy. Everything is shaped by the official stance on the Force, and the ruler is worshiped as an the singular conduit to the Force.§!"
- transcendent_empire_special:0 "Each Ruler can build a Tomb Monument Building"
- 
- enlightened_monarchy:0 "Jedi Monarchy"
- enlightened_monarchy_desc:0 "§LThis government is a Jedi form of autocracy, where the ruler is viewed as an enlightened protector that always acts in the best interests of the citizenry.§!"
- enlightened_monarchy_special:0 "Each Ruler can build a special Park Building"
- irenic_monarchy:0 "Jedi Monarchy"
- irenic_monarchy_desc:0 "§LThis government is an advanced form of Jedi autocracy, where the ruler is regarded as a benevolent guardian that is striving to protect the citizens from a violent galaxy.§!"
- irenic_monarchy_special:0 "Each Ruler can build a special Park Building"
- 
- military_junta:0 "Sith Junta"
- military_junta_desc:0 "§LThis government is a Sith form of oligarchy, where power rests with a council of high-ranking military officers who oversee all matters of state.§!"
- ordered_stratocracy:0 "Sith Stratocracy"
- ordered_stratocracy_desc:0 "§LThis government is an advanced form of Sith oligarchy, where the military has subsumed all aspects of civilian administration. All government offices are held by military officers.§!"
- 
- theocratic_oligarchy:0 "Force Master Oligarchy"
- theocratic_oligarchy_desc:0 "§LThis government is a Force conscious form of oligarchy, where a council made up of Force masters controls the state. No division exists between the state and the temple bureaucracy.§!"
- 
- transcendent_oligarchy:0 "Transcendent Oligarchy"
- transcendent_oligarchy_desc:0 "§LThis government is an advanced form of Force conscious oligarchy, ruled by a council of Force masters who are considered absolute authorities on all matters of state and religion.§!"
-
- peaceful_bureaucracy:0 "Jedi Bureaucracy"
- peaceful_bureaucracy_desc:0 "§LThis government is a Jedi form of oligarchy, where a complicated system of bureaucracy governs all aspects of society to ensure the safety of the citizenry.§!"
- 
- irenic_protectorate:0 "Jedi Protectorate"
- irenic_protectorate_desc:0 "§LThis government is an advanced form of Jedi oligarchy, where a safety committee oversees the administration of the state. Violent tendencies among citizens are curbed at an early stage.§!"
-
- 
- mega_corporation:0 "Mega Corporation"
- mega_corporation_desc:0 "§LThis government is an advanced form of plutocratic oligarchy, where the entire state has been organized as a massive commercial enterprise overseen by a board of directors.§!"
- 
- military_republic:0 "Sith Republic"
- military_republic_desc:0 "§LThis government is a Sith form of democracy, where full citizenship can only be gained through military service. The voting franchise is limited to full citizens, and they are the only ones allowed to hold public offices.§!"
- martial_demarchy:0 "Sith Democracy"
- martial_demarchy_desc:0 "§LThis government is an advanced form of Sith democracy, where rulers are randomly selected from a pool of qualified candidates. Qualifications are based almost purely on military achievement.§!"
- 
- theocratic_republic:0 "Temple Republic"
- theocratic_republic_desc:0 "§LThis government is a Force conscious form of democracy, where a council of Force masters supervises the democratic process and serves in an advisory role.§!"
- transcendent_republic:0 "Transcendent Republic"
- transcendent_republic_desc:0 "§LThis government is an advanced form of Force conscious democracy, where candidates for leadership are drawn exclusively from the ranks of the Force discipleship, which permeates all layers of society.§!"
- 
- moral_democracy:0 "Jedi Democracy"
- moral_democracy_desc:0 "§LThis government is a Jedi form of democracy, firmly guided by moralist principles and non-violence.§!"
- irenic_democracy:0 "Jedi Democracy"
- irenic_democracy_desc:0 "§LThis government is an advanced form of Jedi democracy, where peaceful solutions are sought to all conflicts, both internal and external.§!"
- 
- gov_theocratic_monarchy:0 "Force Master Monarchy"
- gov_theocratic_monarchy_desc:0 "This government is a Force conscious form of autocracy, where the ruler is treated as the singular conduit to the Force. Widespread Force discipleship is widely employed in support of the state apparatus."
- gov_theocratic_dictatorship:0 "Force Master Dictatorship"
- gov_theocratic_dictatorship_desc:0 "This government is a Force conscious dictatorship, ruled by a single individual in a hierarchical power structure supported by the temple bureaucracy."
- gov_theocratic_oligarchy:0 "Force Disciple Oligarchy"
- gov_theocratic_oligarchy_desc:0 "This government is a Force conscious form of oligarchy, where the political leadership lies in the hands of the leaders of the nation's most powerful temple bureaucrats."
- gov_theocratic_republic:0 "Temple Republic"
- gov_theocratic_republic_desc:0 "This government is a Force conscious form of democracy, where a council of Force masters supervises the democratic process and serves in an advisory role."
- gov_divine_empire:0 "Force Master Empire"
- gov_divine_empire_desc:0 "This government is a form of Force conscious autocracy. Everything is shaped by the official stance on the Force, and the leads the nation within and without the Force."
- gov_holy_tribunal:0 "Force Master Tribunal"
- gov_holy_tribunal_desc:0 "This government is a Force conscious form of oligarchy, where a council of Force masters controls the state. No division exists between the state and the temple bureaucracy."
-
- gov_star_empire:0 "Sith Empire"
- gov_star_empire_desc:0 "This government is a hereditary and Sith form of autocracy, with a single sovereign controlling both the government and the military."
- gov_military_dictatorship:0 "Sith Dictatorship"
- gov_military_dictatorship_desc:0 "This government is a Sith form of autocracy, with the ruler serving as the undisputed head of the military which is firmly in control of the state apparatus."
- gov_military_junta:0 "Sith Junta"
- gov_military_junta_desc:0 "This government is a Sith form of oligarchy, where power rests with a council of high-ranking military officers who oversee all matters of state."
- gov_military_commissariat:0 "Sith Commissariat"
- gov_military_commissariat_desc:0 "This government is nominally democratic, with the dividing line between the civil administration and the military having blurred to the point where they have largely become one and the same."
- gov_martial_empire:0 "Sith Empire"
- gov_martial_empire_desc:0 "This government is a Sith form of hereditary autocracy, where the state exists largely to support the military. Martial ability is highly valued, and all citizens are regularly drilled in matters of war."
- gov_martial_dictatorship:0 "Sith Dictatorship"
- gov_martial_dictatorship_desc:0 "This government is a Sith form of autocracy, where the warrior who is considered the strongest leader rules with absolute power. "
- gov_war_council:0 "Sith War Council"
- gov_war_council_desc:0 "This government is a Sith form of oligarchy, where all decisions concerning the state are taken by a council of the nation's strongest warlords."
- gov_assembly_of_clans:0 "Sith Clan Assembly"
- gov_assembly_of_clans_desc:0 "This government is a Sith form of democracy, where all free clan warriors can make their voices heard."
- gov_citizen_stratocracy:0 "Sith Citizen Stratocracy"
- gov_citizen_stratocracy_desc:0 "This government is an advanced form of Sith oligarchy, where the military has subsumed all aspects of civilian administration. All government offices are held by military officers."
- gov_citizen_republic:0 "Sith Citizen Republic"
- gov_citizen_republic_desc:0 "This government is a Sith form of democracy, where full citizenship can only be gained through military service. The voting franchise is limited to full citizens, and they are the only ones allowed to hold public offices."
- 
- gov_irenic_monarchy:0 "Jedi Monarchy"
- gov_irenic_monarchy_desc:0 "This government is a Jedi form of hereditary autocracy, where the ruler is regarded as a benevolent guardian that is striving to protect the citizens from a violent galaxy."
- gov_irenic_dictatorship:0 "Jedi Dictatorship"
- gov_irenic_dictatorship_desc:0 "This government is a Jedi form of autocracy, where the state is charged with protecting the citizenry from their own violent tendencies as well as any external threats."
- gov_irenic_bureaucracy:0 "Jedi Bureaucracy"
- gov_irenic_bureaucracy_desc:0 "This government is a Jedi form of oligarchy, where a complicated system of bureaucracy governs all aspects of society to ensure the safety of the citizenry."
- gov_celestial_empire:0 "Celestial Empire"
- gov_celestial_empire_desc:0 "This government is a Jedi form hereditary monarchy, where the ruler is seen as a child of the Force in a largely isolationist society permeated by Jedi discipleship."
- gov_moral_democracy:0 "Jedi Democracy"
- gov_moral_democracy_desc:0 "This government is a Jedi form of democracy, firmly guided by moralist principles and non-violence."
-
- gov_military_order:0 "Sith Order"
- gov_military_order_desc:0 "A weird but apparently highly effective Sith government type."
-
- gov_blood_court:0 "Blood Court"
- gov_blood_court_desc:0 "This government is a hereditary form of rabidly xenophobic autocracy, where the ultimate responsibility of the monarch is to oversee the extermination of all lesser species in the galaxy."
- gov_purity_order:0 "Purity Order"
- gov_purity_order_desc:0 "This government is a form of rabidly xenophobic autocracy, where a single ruler has sworn to oversee the extermination of all lesser species in the galaxy."
- gov_purification_committee:0 "Purification Committee"
- gov_purification_committee_desc:0 "This government is a form of rabidly xenophobic oligarchy, where a political committee has been set up to oversee the extermination of all lesser species in the galaxy."
- gov_purity_assembly:0 "Purity Assembly"
- gov_purity_assembly_desc:0 "This government is a form of rabidly xenophobic democracy, where an elected assembly has been charged with overseeing the extermination of all lesser species in the galaxy."
-
- gov_megachurch:0 "MegaChurch"
- gov_megachurch_desc:0 "This government is an oligarchy based on a curious blend of commercial and Force conscious values, in which the positions of ordained minister and corporate officer have merged into a single role."
- gov_bandit_kingdom:0 "Sith Warrior Kingdom"
- gov_bandit_kingdom_desc:0 "This government is organized around systemic inter tribe warfare, where the strong prey on the weak and any neighboring states are seen as little more than raiding targets."
- gov_bandit_commune:0 "Sith Warrior Commune"
- gov_bandit_commune_desc:0 "$gov_bandit_kingdom_desc$"
-
- gov_fallback:0 "Generic Empire"
- gov_fallback_desc:0 "Generic fallback! Don't look!"
 
 
  ####################################
  # Rulers / Heirs
  ####################################
 
- RT_GRAND_MARSHAL:0 "Grand Marshal"
+ RT_GRAND_MARSHAL:0 "Sith Lord"
  RT_GRAND_MARSHAL_FEMALE:0 "$RT_GRAND_MARSHAL$"
- RT_IMPERATOR:0 "Imperator"
- RT_IMPERATRIX:0 "Imperatrix"
  RT_ARCHPROPHET:0 "Archprophet"
  RT_ARCHPROPHETESS:0 "Archprophetess"
- RT_GOD_EMPEROR:0 "God-Emperor"
- RT_GOD_EMPRESS:0 "God-Empress"
- RT_OVERLORD:0 "Overlord"
- RT_OVERLORD_FEMALE:0 "$RT_OVERLORD$"
- RT_HIGH_TECHNICIAN:0 "High Technician"
- RT_KING:0 "King"
- RT_QUEEN:0 "Queen"
- RT_HIGH_KING:0 "High King"
- RT_HIGH_QUEEN:0 "High Queen"
- RT_EMPEROR:0 "Emperor"
- RT_EMPRESS:0 "Empress"
- RT_ARCHON:0 "Archon"
- RT_ARCHON_FEMALE:0 "$RT_ARCHON$"
- RT_STRATEGOS:0 "Strategos"
- RT_STRATEGOS_FEMALE:0 "$RT_STRATEGOS$"
- RT_INQUISITOR:0 "Inquisitor"
- RT_PATRIARCH:0 "Patriarch"
- RT_MATRIARCH:0 "Matriarch"
- RT_DIRECTOR:0 "Director"
- RT_OVERSEER:0 "Overseer"
- RT_OVERSEER_FEMALE:0 "$RT_OVERSEER$"
- RT_COORDINATOR:0 "Coordinator"
- RT_COORDINATOR_FEMALE:0 "$RT_COORDINATOR$"
- RT_PROTECTOR:0 "Protector"
- RT_CHIEF_EXECUTIVE:0 "Executive"
- RT_CEO:0 "Chief Executive Officer"
- RT_CEO_FEMALE:0 "$RT_CEO$"
- RT_CENSOR:0 "Censor"
- RT_CONSUL:0 "Consul"
- RT_CONSUL_FEMALE:0 "$RT_CONSUL$"
- RT_LORD_PROTECTOR:0 "Lord Protector"
- RT_LADY_PROTECTOR:0 "Lady Protector"
+ RT_GOD_EMPEROR:0 "Emperor"
+ RT_GOD_EMPRESS:0 "Empress"
+ RT_PROTECTOR:0 "Jedi Knight"
+ RT_LORD_PROTECTOR:0 "Jedi Lord"
+ RT_LADY_PROTECTOR:0 "Jedi Lord"
  RT_REVERED_ELDER:0 "Revered Elder"
  RT_REVERED_ELDER_FEMALE:0 "$RT_REVERED_ELDER$"
  RT_HIGH_PRIEST:0 "Force Master"
  RT_HIGH_PRIESTESS:0 "Force Master"
- RT_CHANCELLOR:0 "Chancellor"
- RT_CHANCELLOR_FEMALE:0 "$RT_CHANCELLOR$"
- RT_FIRST_SPEAKER:0 "First Speaker"
- RT_FIRST_SPEAKER_FEMALE:0 "$RT_FIRST_SPEAKER$"
- RT_PRIME_MINISTER:0 "Prime Minister"
- RT_PRIME_MINISTER_FEMALE:0 "$RT_PRIME_MINISTER$"
- RT_PRESIDENT:0 "President"
- RT_PRESIDENT_FEMALE:0 "$RT_PRESIDENT$"
- RT_SECRETARY:0 "Secretary"
- RT_SECRETARY_FEMALE:0 "$RT_SECRETARY$"
- RT_HIVEMIND:0 "Hive Mind"
- HT_CROWN_PRINCE:0 "Crown Prince"
- HT_CROWN_PRINCESS:0 "Crown Princess"
  HT_PRIEST:0 "Force Master"
  HT_PRIESTESS:0 "Force Master"
- HT_SAINT:0 "Saint"
- HT_SAINT_FEMALE:0 "$HT_SAINT$"
- HT_DEPUTY_OVERLORD:0 "Deputy Overlord"
- HT_DEPUTY_OVERLORD_FEMALE:0 "$HT_DEPUTY_OVERLORD$"
- HT_SENIOR_TECHNICIAN:0 "Senior Technician"
- RT_GRAND_MASTER:0 "Grand Master"
 
- RT_CELESTIAL_EMPEROR:0 "Celestial Emperor"
- RT_CELESTIAL_EMPRESS:0 "Celestial Empress"
- RT_WARLORD:0 "Warlord"
+ RT_CELESTIAL_EMPEROR:0 "Emperor"
+ RT_CELESTIAL_EMPRESS:0 "Empress"
+ RT_WARLORD:0 "Sith Warlord"
  RT_WARLORD_FEMALE:0 "$RT_WARLORD$"
- RT_CLAN_SPEAKER:0 "Clan Speaker"
- RT_CLAN_SPEAKER_FEMALE:0 "$RT_CLAN_SPEAKER$"
- RT_CHAIRMAN:0 "Chairman"
- RT_CHAIRWOMAN:0 "Chairwoman"
  RT_HIGH_INQUISITOR:0 "High Inquisitor"
  RT_HIGH_INQUISITOR_FEMALE:0 "$RT_HIGH_INQUISITOR$"
- RT_SERENE_PROTECTOR:0 "Serene Protector"
+ RT_SERENE_PROTECTOR:0 "Jedi Lord"
  RT_SERENE_PROTECTOR_FEMALE:0 "$RT_SERENE_PROTECTOR$"
- RT_DIRECTOR_GENERAL:0 "Director-General"
- RT_DIRECTOR_GENERAL_FEMALE:0 "$RT_DIRECTOR_GENERAL$"
- RT_HIGH_COMMISSIONER:0 "High Commissioner"
- RT_HIGH_COMMISSIONER_FEMALE:0 "$RT_HIGH_COMMISSIONER$"
- RT_HIVE_MIND:0 "Hive Mind"
- RT_HIVE_MIND_FEMALE:0 "$RT_HIVE_MIND$"
- RT_CORE_DIRECTIVE:0 "Core Directive"
- RT_HIGH_EXECUTIONER:0 "High Executioner"
- RT_HIGH_EXECUTIONER_FEMALE:0 "$RT_HIGH_EXECUTIONER$"
- HT_SENIOR_EXECUTIONER:0 "Senior Executioner"
- HT_SENIOR_EXECUTIONER_FEMALE:0 "$HT_SENIOR_EXECUTIONER$"
- RT_LORD_PURIFIER:0 "Lord-Purifier"
- RT_LADY_PURIFIER:0 "Lady-Purifier"
- RT_GRAND_ARBITER:0 "Grand Arbiter"
- RT_GRAND_ARBITER_FEMALE:0 "$RT_GRAND_ARBITER$"
- RT_PRIME_JUSTICIAR:0 "Prime Justiciar"
- RT_PRIME_JUSTICIAR_FEMALE:0 "$RT_PRIME_JUSTICIAR$"
- RT_EXECUTOR:0 "Executor"
- RT_EXECUTOR_FEMALE:0 "$RT_EXECUTOR$"
- RT_CHIEF_PRECENTOR:0 "Chief Precentor"
- RT_CHIEF_PRECENTOR_FEMALE:0 "$RT_CHIEF_PRECENTOR$"
- RT_COMMISSARY_GENERAL:0 "Commissary-General"
+ RT_COMMISSARY_GENERAL:0 "Sith Lord"
  RT_COMMISSARY_GENERAL_FEMALE:0 "$RT_COMMISSARY_GENERAL$"
- RT_PRIMUS:0 "Primus"
- RT_PRIMUS_FEMALE:0 "$RT_PRIMUS$"
- HT_SECUNDUS:0 "Secundus"
- HT_SECUNDUS_FEMALE:0 "$HT_SECUNDUS$"
- RT_PRIMARCH:0 "Primarch"
- RT_PRIMARCH_FEMALE:0 "$RT_PRIMARCH$"
  RT_HALLOWED_COMPTROLLER:0 "Hallowed Comptroller"
  RT_HALLOWED_COMPTROLLER_FEMALE:0 "$RT_HALLOWED_COMPTROLLER$"
 
  ####################################
  # Civics
  ####################################
-
- civic_imperial_cult:0 "Force Conduit"
- civic_imperial_cult_desc:0 "This society has a dominant temple bureaucracy where the ruler is viewed as the singular conduit to the Force."
- civic_exalted_priesthood:0 "Council of Masters"
- civic_exalted_priesthood_desc:0 "This society is ruled by a council consisting of the wisest and most dedicated Force disciples."
- civic_citizen_service:0 "Sith Citizenship"
- civic_citizen_service_desc:0 "Full citizenship is limited to those who have adopted Sith principles and served a tour of duty in the military."
- civic_inwards_perfection:0 "Jedi Devotion"
- civic_inwards_perfection_desc:1 "This calm and pacifist society has little use for strangers who do not understand the Jedi way of life. More than anything, they would prefer to be left to their contemplation."
- civic_warrior_culture:0 "Life of the Sith"
- civic_warrior_culture_desc:0 "This society has adopted Sith warrior culture. Power is valued above all else, and self-actualization can only be found by feeding the passions."
- civic_distinguished_admiralty:0 "Distinguished Admiralty"
- civic_distinguished_admiralty_desc:0 "The Fleet and the Admiralty have unusually prominent roles in this society, wielding a great deal of influence in political circles. They have the pick of the litter when it comes to new military recruits."
- civic_agrarian_idyll:0 "Life of the Jedi"
- civic_agrarian_idyll_desc:0 "The Jedi way is peaceful and simple. This agrarian society has, to a large extent, managed to avoid large-scale urbanization."
- civic_nationalistic_zeal:0 "Sith Domination"
- civic_nationalistic_zeal_desc:0 "It is the way of the Sith to take what they can from those who cannot defend themselves."
- civic_fanatic_purifiers:0 "Fanatic Purifiers"
- civic_fanatic_purifiers_desc:0 "This society appears hellbent on scouring the galaxy of all other sapient life. Come what may, they will suffer no xenos to live."
- civic_military_order:0 "Sith Order"
- civic_military_order_desc:0 ""
-
- civic_barbaric_despoilers:0 "Sith Despoilers"
- civic_barbaric_despoilers_desc:0 "This society holds few things sacred. To fight is to live, and the strongest may seize whatever they covet."
-
- civic_gospel_of_the_masses:0 "Force for Sale"
- civic_gospel_of_the_masses_desc:0 "This Megacorporation embraces a curious blend of commercial and Force conscious values, in which the positions of ordained temple bureaucrat and corporate officer have merged into a single role."
-
+ 
  civic_tooltip_spiritualist:0 "Is some degree of §YForce Conscious§!"
- civic_tooltip_materialist:0 "Is some degree of §YMaterialist§!"
- civic_tooltip_militarist:0 "Is some degree of §YSith§!"
- civic_tooltip_pacifist:0 "Is some degree of §YJedi§!"
  civic_tooltip_not_spiritualist:0 "Is not §YForce Conscious§!"
- civic_tooltip_not_materialist:0 "Is not §YMaterialist§!"
+
+ civic_tooltip_militarist:0 "Is some degree of §YSith§!"
  civic_tooltip_not_militarist:0 "Is not §YSith§!"
+ 
+ civic_tooltip_pacifist:0 "Is some degree of §YJedi§!"
  civic_tooltip_not_pacifist:0 "Is not §YJedi§!"
+ 
+ 
+ 
 
  ####################################
  # Ship Components
  ####################################
 
- PSIONIC_BLAST_1:0 "Force Blast"
- PSIONIC_BLAST_1_DESC:0 ""
- PSI_JUMP_DRIVE_1:0 "Force Jump Drive"
- PSI_JUMP_DRIVE_1_DESC:1 "The Force Jump Drive harnesses the potential of the ship's Force sensitive crew to warp the local space-time continuum, eliminating the distance between the point of origin and the destination. Supposedly."
- PSI_SHIELD:0 "Force Shields"
- PSI_SHIELD_DESC:0 "$tech_psionic_shield_desc$"
- PSI_BARRIER:0 "Force Barrier"
- PSI_BARRIER_DESC:0 "$tech_psionic_barrier_desc$"
- 
- SMALL_PSI_SHIELD:0 "Small Force Shield"
- MEDIUM_PSI_SHIELD:0 "Medium Force Shield"
- LARGE_PSI_SHIELD:0 "Large Force Shield"
- SMALL_PSI_BARRIER:0 "Small Force Barrier"
- MEDIUM_PSI_BARRIER:0 "Medium Force Barrier"
- LARGE_PSI_BARRIER:0 "Large Force Barrier"
- 
- PLANET_KILLER_GODRAY:1 "Force Awakener"
- PLANET_KILLER_GODRAY_ACTION:0 "Awaken"
- PLANET_KILLER_GODRAY_DESC:1 "A Force projector powered by leagues of force sensitives that awakens in all the reality of the Force."
- 
- TRANSCENDING_SPECIES_MUST_BE_ORGANIC:0 "Only organic species can develop Force energies."
- TRANSCENDING_SPECIES_IS_ALREADY_PSIONIC:0 "This species already has Force energies."
- TRANSCENDING_SPECIES_CANT_BE_HIVE:0 "Hive minds cannot develop Force energies."
- SPECIES_CAN_TRANSCEND:0 "Assimilating this species will set them upon the path to Force Ascension."
- 
- psionic_avatar:0 "Shrouded Avatar"
- psionic_avatar_plural:0 "Shrouded Avatars"
-
- TECH_UNLOCK_PSI_JUMPDRIVE_1_TITLE:1 "§HUnlocks Component:§! Force Jump Drive"
- TECH_UNLOCK_PSI_JUMPDRIVE_1_DESC:1 "§HForce Jump Drive§!\n$tech_psi_jump_drive_1$"
- living_standard_psi_assimilation:0 "Transcendent Awakening"
- living_standard_psi_assimilation_tooltip:0 "This species is awakening to its Force potential."
- living_standard_psi_assimilation_tooltip_delayed:0 "§LThe veil is lifted, but the Shroud remains.§!"
- ETHIC_ALLOWS_PSIONICS:0 "§ECan research §HForce§! technologies§!"
-
- leader_trait_expertise_psionics:0 "Expertise: Force Studies"
- leader_trait_expertise_psionics_desc:1 "This leader is, following years of study, considered an expert within the field of Force Studies."
-
  edict_peace_festivals:0 "Jedi Festivals"
  edict_peace_festivals_desc:1 "This Jedi Edict fosters a spirit of unity and good cheer through whole seasons filled with special events and festivals."
 
  edict_declare_saint:0 "Declare Force Subsumption"
- edict_declare_saint_desc:0 "This Edict will decale that a deceased individual who led a particularly devoted life has been subsumed into the Force, creating a new unifying symbol."
+ edict_declare_saint_desc:0 "This Edict will decale that a deceased individual who led a particularly devoted life has been subsumed by the Force, creating a new unifying symbol."
 
 
  ###################################
  # Personalities
  ####################################
 
- personality_honorbound_warriors:0 "Sith Warriors"
- personality_peaceful_traders:0 "Jedi Traders"
- personality_evangelising_zealots:0 "Force Awakeners"
- personality_fanatic_purifiers:0 "Fanatical Purifiers"
- personality_spiritual_seekers:0 "Force Seekers"
-
- personality_fallen_empire_spiritualist:0 "Guardians of the Force"
- personality_fallen_empire_materialist:0 "Keepers of Knowledge"
- personality_awakened_fallen_empire_spiritualist:0 "Doctrinal Enforcers"
- personality_awakened_fallen_empire_materialist:0 "Watchful Regulators"
-
- personality_fallen_empire_machine_desc:0 "This Fallen Empire is an ancient artifical intelligence that appears to be operating on some sort of caretaker protocol. It behaves erratically but seems to pose no direct threat to us."
- personality_awakened_fallen_empire_machine_desc:0 "This Awakened Empire is an ancient artificial intelligence acting as a galactic custodian. It will focus all its efforts on defending sapient life against the ongoing crisis."
- personality_berserk_fallen_empire_machine_desc:0 "This Awakened Empire is an ancient artificial intelligence that appears to be malfunctioning, going berserk and attacking everything around it."
-
- personality_fallen_empire_spiritualist_desc:0 "This Fallen Empire dedicates itself to the preservation and defense of its holy sites. Colonizing systems that they consider sacred is likely to incur their ire."
- personality_fallen_empire_materialist_desc:3 "This Fallen Empire dedicates itself to the hoarding of knowledge and technology. They may offer tasks or demand tribute from lesser empires to achieve this end."
- personality_awakened_fallen_empire_spiritualist_desc:0 "This Awakened Empire seeks to impose its religious doctrines on the galaxy. They are likely to attack any empire that will not willingly convert."
- personality_awakened_fallen_empire_materialist_desc:1 "This Awakened Empire seeks to control the technological level of all other civilizations in the galaxy. They are likely to attack any empire that will not surrender its technological independence."
-
- personality_honorbound_warriors_desc:0 "Sith Warriors value honor and martial prowess above all other things. They will seek out worthy foes to fight and have little respect for Jedi weaklings."
- personality_peaceful_traders_desc:0 "Jedi Traders are chiefly concerned with the peace and stability, and prefer trading to fighting."
- personality_evangelising_zealots_desc:0 "Force Awakeners seek to spread the observance of the Force, and are not above using military might to force others to accept their beliefs."
- personality_fanatic_purifiers_desc:1 "Fanatical Purifiers view all alien life as a cosmic mistake and seek to purify the galaxy of its taint. They will never engage in diplomacy with other species."
- personality_spiritual_seekers_desc:0 "Force Seekers believe that all life is connected through the Force that can be understood through meditation. They will seek peaceful cooperation with other Empires in the hopes of studying their connection to the Force."
+ 

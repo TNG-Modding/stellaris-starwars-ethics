@@ -1,0 +1,39 @@
+l_english:
+
+ ethic_spiritualist:0 "Force Conscious"
+ ethic_spiritualist_desc:1 "§LThere is a Force, a field that emates from all life. Our government must remember our place within it, and guide our people to a greater awareness of it.§!\n"
+ ethic_fanatic_spiritualist:0 "Fanatic Force Conscious"
+ ethic_fanatic_spiritualist_desc:0 "§LOur science has proven that it is the Force that begets knowable reality. We regard with patience the childlike efforts of those who seek Sight where none can be found.§!\n"
+
+ spiritualist_unrest:0 "Unrest (Force Conscious Attraction)"
+ spiritualist_unrest_desc:0 "§HUnrest§! on this colony has caused local Pops to become more attracted to §YForce Conciousness§!."
+
+ POP_ATTRACTION_SPIRITUALIST_POS:0 "§G+ Force Conscious Governing Ethics§!"
+ POP_ATTRACTION_SPIRITUALIST_NEG:0 "§R- Force Conscious Governing Ethics§!"
+ POP_ATTRACTION_SPIRITUALIST_DIPLOMACY_POS:0 "§G+ Diplomacy with Force Conscious Empires§!"
+ POP_ATTRACTION_SPIRITUALIST_DIPLOMACY_NEG:0 "§R- Diplomacy with Force Conscious Empires§!"
+ POP_ATTRACTION_SPIRITUALIST_OVERLORD_POS:0 "§G+ Force Conscious Overlords§!"
+ POP_ATTRACTION_SPIRITUALIST_OVERLORD_NEG:0 "§R- Force Conscious Overlords§!"
+
+ building_temple:0 "Temple"
+ building_temple_desc:0 "Simple constructs erected since time immemorial, temples are places of quiet contemplation and communion with the Force."
+ building_holotemple:0 "Holotemple"
+ building_holotemple_desc:0 "An enhanced form of its rough-hewn predecessors, the latest in Force communion technology creates a mutable reality inside the Holotemple - all for deeper meditation and more intense devotion."
+ building_sacred_nexus:0 "Sacred Nexus"
+ building_sacred_nexus_desc:0 "The latest developments in technology allow disciples to directly experience the Force within thier surroundings."
+ building_citadel_of_faith:0 "Citadel of Faith"
+ building_citadel_of_faith_desc:0 "A massive complex offering refuge and seclusion from the material world, for all comers."
+
+ personality_evangelising_zealots:0 "Force Awakeners"
+ personality_evangelising_zealots_desc:0 "Force Awakeners seek to spread the cultivation of the Force, and are not above using military might to force others to accept their beliefs."
+
+ personality_spiritual_seekers:0 "Force Seekers"
+ personality_spiritual_seekers_desc:0 "Force Seekers believe that all life is connected. They will seek peaceful cooperation with other Empires in the hopes of studying their connection to the Force."
+
+ personality_fallen_empire_spiritualist:0 "Guardians of the Force"
+ personality_fallen_empire_spiritualist_desc:0 "This Fallen Empire dedicates itself to the preservation and defense of its temple sites. Colonizing systems that they consider sacred is likely to incur their ire."
+
+ personality_awakened_fallen_empire_spiritualist:0 "Force Regulators"
+ personality_awakened_fallen_empire_spiritualist_desc:0 "This Awakened Empire seeks to regulate the flow of the Force within the galaxy. They are likely to attack any empire that will not willingly practice Force cultivation."
+
+ 

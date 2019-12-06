@@ -1,0 +1,49 @@
+l_english:
+ 
+ military_dictatorship:0 "Sith Dictatorship"
+ military_dictatorship_desc:0 "§LThis government is a Sith form of autocracy, with the Sith Lord serving as the undisputed head of the military which is firmly in control of the state apparatus.§!"
+ military_dictatorship_special:0 "Each Ruler can build an oversized Ship"
+ 
+ martial_empire:0 "Sith Empire"
+ martial_empire_desc:0 "§LThis government is an advanced form of Sith autocracy, where the state exists largely to support the military. Martial ability is highly valued, and all citizens are regularly drilled in matters of war.§!"
+ martial_empire_special:0 "Each Ruler can build an oversized Ship"
+ 
+ military_republic:0 "Sith Republic"
+ military_republic_desc:0 "§LThis government is a Sith form of democracy, where full citizenship can only be gained through military service. The voting franchise is limited to full citizens, and they are the only ones allowed to hold public offices.§!"
+ martial_demarchy:0 "Sith Democracy"
+ martial_demarchy_desc:0 "§LThis government is an advanced form of Sith democracy, where rulers are randomly selected from a pool of qualified candidates. Qualifications are based almost purely on military achievement.§!"
+ 
+ military_junta:0 "Sith Junta"
+ military_junta_desc:0 "§LThis government is a Sith form of oligarchy, where power rests with a council of high-ranking Sith practitioners who oversee all matters of state.§!"
+ ordered_stratocracy:0 "Sith Stratocracy"
+ ordered_stratocracy_desc:0 "§LThis government is an advanced form of Sith oligarchy, where the military has subsumed all aspects of civilian administration. All government offices are held by Sith practitioners.§!"
+
+ gov_star_empire:0 "Sith Empire"
+ gov_star_empire_desc:0 "This government is a hereditary and Sith form of autocracy, with a single Sith Lord controlling both the government and the military."
+ gov_military_dictatorship:0 "Sith Dictatorship"
+ gov_military_dictatorship_desc:0 "This government is a Sith form of autocracy, with the Sith Lord serving as the undisputed head of the military which is firmly in control of the state apparatus."
+ gov_military_junta:0 "Sith Junta"
+ gov_military_junta_desc:0 "This government is a Sith form of oligarchy, where power rests with a council of high-ranking Sith pracitioners who oversee all matters of state."
+ gov_military_commissariat:0 "Sith Commissariat"
+ gov_military_commissariat_desc:0 "This government is nominally democratic, with the dividing line between the civil administration and the military having blurred to the point where they have largely become one and the same."
+ gov_martial_empire:0 "Sith Empire"
+ gov_martial_empire_desc:0 "This government is a Sith form of hereditary autocracy, where the state exists largely to support the military. Martial ability is highly valued, and all citizens are regularly drilled in matters of war."
+ gov_martial_dictatorship:0 "Sith Dictatorship"
+ gov_martial_dictatorship_desc:0 "This government is a Sith form of autocracy, where the warrior who is considered the strongest leader rules with absolute power. "
+ gov_war_council:0 "Sith War Council"
+ gov_war_council_desc:0 "This government is a Sith form of oligarchy, where all decisions concerning the state are taken by a council of the nation's strongest Sith practitioners."
+ gov_assembly_of_clans:0 "Sith Clan Assembly"
+ gov_assembly_of_clans_desc:0 "This government is a Sith form of democracy, where all free Sith warriors can make their voices heard."
+ 
+ gov_citizen_stratocracy:0 "Sith Citizen Stratocracy"
+ gov_citizen_stratocracy_desc:0 "This government is an advanced form of Sith oligarchy, where the military has subsumed all aspects of civilian administration. All government offices are held by Sith practitioners."
+ gov_citizen_republic:0 "Sith Citizen Republic"
+ gov_citizen_republic_desc:0 "This government is a Sith form of democracy, where full citizenship can only be gained through exemplifying Sith principles in combat. The voting franchise is limited to full citizens, and they are the only ones allowed to hold public offices."
+ 
+ gov_military_order:0 "Sith Order"
+ gov_military_order_desc:0 "A weird but apparently highly effective Sith government type."
+
+ gov_bandit_kingdom:0 "Sith Warrior Kingdom"
+ gov_bandit_kingdom_desc:0 "This government is organized around systemic inter tribe warfare, where the strong prey on the weak and any neighboring states are seen as little more than raiding targets."
+ gov_bandit_commune:0 "Sith Warrior Commune"
+ gov_bandit_commune_desc:0 "$gov_bandit_kingdom_desc$"

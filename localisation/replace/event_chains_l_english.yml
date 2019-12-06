@@ -77,7 +77,7 @@
  ####################################
  
  hijacked_cult_fleet_poi:0 "Cultist Fleet"
- hijacked_cult_fleet_poi_desc:0 "The cultists have managed to build a small fleet of starships at a secret facility on [Root.Capital.GetName]. Upon discovery, the cultists fled in their ships to [hijacked_fleet_planet.GetName]. They must be destroyed before they can cause any more damage!"
+ hijacked_cult_fleet_poi_desc:0 "The witches have managed to build a small fleet of starships at a secret facility on [Root.Capital.GetName]. Upon discovery, the witches fled in their ships to [hijacked_fleet_planet.GetName]. They must be destroyed before they can cause any more damage!"
  cultist_search_1_poi:1 "Search [cultists_1.GetName]"
  cultist_search_1_poi_desc:0 "We have detected ion trails from fleeing cultist ships in the vicinity of this star system. It should be reconnoitered in force."
  cultist_search_2_poi:1 "Search [cultists_2.GetName]"
