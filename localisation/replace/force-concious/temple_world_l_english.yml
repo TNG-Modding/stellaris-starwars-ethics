@@ -1,0 +1,47 @@
+l_english:
+ decision_consecrated_worlds:1 "Found Temple World"
+ decision_consecrated_worlds_desc:2 "Declare this to be a sacred place, consecrated in the traditions of our faith. Pilgrims will travel from afar to bask in its aura."
+ decision_consecrated_worlds_effects_short:1 "Adds this world to our collection of Temple Worlds, boosting §YForce Conscious Ethics Attraction§! and §YEmpire-Wide Amenities§! as well as £unity£ §YUnity Generation§!."
+ decision_consecrated_worlds_effects_custom:1 "Adds this world to our collection of Temple Worlds (up to §Y3§!), increasing §YForce Conscious Ethics Attraction§!, §YEmpire-Wide Amenities§! and boosting £unity£ §YUnity Generation§!, scaling to the spiritual significance of the planet."
+ 
+ decision_unconsecrated_worlds:1 "Abandon Temple World"
+ decision_unconsecrated_worlds_desc:1 "This revokes the object's sacred status."
+ decision_unconsecrated_worlds_effects_short:0 "Revoke this planet's sacred status."
+ decision_unconsecrated_worlds_effects_custom:0 ""
+ 
+ consecrated_worlds_too_many:0 "$TRIGGER_FAIL$§RWe have already consecrated §Y3§! worlds§! §H(Unconsecrate another world to consecrate this one)§!"
+ consecrated_worlds_planet_owned:0 "$TRIGGER_FAIL$§RColonized planets cannot be consecrated§!"
+ consecrated_worlds_unsuitable:0 "\n§YThis object may be relatively ill-suited for consecration§!"
+ consecrated_worlds_suitable:0 "\n§YThis object may be fairly suitable for consecration§!"
+ consecrated_worlds_perfect:0 "\n§YThis object possesses an inherent sanctity, and ought to be consecrated§!"
+ 
+ consecrated_quality_1:0 "Temple Planet (Profane World)"
+ consecrated_quality_1_desc:0 "This is deemed a poor object of reverence."
+ consecrated_quality_2:0 "Temple Planet (Respected World)"
+ consecrated_quality_2_desc:0 "This is deemed a suitable object of reverence."
+ consecrated_quality_3:0 "Temple Planet (Venerated World) "
+ consecrated_quality_3_desc:0 "This is deemed a most sacred planet."
+ consecrated_quality_4:0 "Temple Planet (Sacrosanct World)"
+ consecrated_quality_4_desc:0 "This planet is deemed an immaculate and sacrosanct place."
+
+ decision_make_holy_world:0 "Create Temple Planet"
+ decision_make_holy_world_desc:1 "We search our domain for an uncolonized §Y$pc_gaia$§! to designate as a Holy World. As long as it remains unspoiled by mortals and within our borders, this sacrosanct planet will give us: £unity£ §Y$country_base_unity_produces_mult$§! §G+10%§!."
+
+ apoc.200.name:0 "Holy World Candidate"
+ apoc.200.desc:0 "In cooperation with theological experts, several scryers have independently confirmed §Y[holy_target.GetName]§! in the [holy_target.GetStarName] system as being worthy of particular veneration.\n\nOfficial recognition is sure to boost the public's appreciation of this mystical world."
+ apoc.200.a:0 "May [holy_target.GetName] be hallowed."
+ apoc.200.a.tooltip:0 "§Y$holy_player_planet$§! modifier added"
+
+ apoc.201.name:0 "No Holy World Candidate Found"
+ apoc.201.desc:0 "Our top scryers have issued a report stating that no spiritual nexuses are to be found among the planets within our Empire."
+ apoc.201.a.tooltip:0 "Edict £influence£ Influence cost is refunded."
+
+ holy_player_planet:1 "Temple World"
+ holy_player_planet_desc:0 "This planet is unspoiled by settlement and considered sacred."
+ has_holy_player_planet:0 "World Temple"
+ has_holy_player_planet_desc:0 "We have designated an uninhabited world within our borders as a temple world."
+
+ has_world_worship:0 "$TRIGGER_FAIL$§RWe have already designated a§! §Y$holy_player_planet$§!"
+ has_holy_world_candidate:0 "$TRIGGER_FAIL$§RThere is no uncolonized §YGaia Planet§! within our borders§!"
+ make_holy_world_effect:0 "We begin the search for a suitable planet into a temple world."
+ opinion_worships_our_holy_world:0 "Protects Temple World"

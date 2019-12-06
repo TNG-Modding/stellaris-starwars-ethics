@@ -4,7 +4,7 @@ l_english:
  
  transcendent_oligarchy:0 "Temple Oligarchy"
  transcendent_oligarchy_desc:0 "§LThis government is an advanced form of Force conscious oligarchy, ruled by a council of Force masters who are considered absolute authorities on all matters of state and religion.§!"
- 
+
  divine_mandate:0 "Force Master Dictatorship"
  divine_mandate_desc:0 "§LThis government is a Force conscious form of autocracy, where the ruler is treated as the conduit to the Force. Widespead Force discipleship is widely employed in support of the state apparatus.§!"
  divine_mandate_special:0 "Each Ruler can build a Tomb Monument Building"
@@ -31,4 +31,5 @@ l_english:
  gov_holy_tribunal:0 "Force Master Tribunal"
  gov_holy_tribunal_desc:0 "This government is a Force conscious form of oligarchy, where a council of Force masters controls the state. No division exists between the state and the temple bureaucracy."
 
- 
+ gov_subversive_cult:0 "Subversive Cult"
+ gov_subversive_cult_desc:0 "This government is structured like a cult that relies on a variety of criminal and corporate enterprises to sustain itself."

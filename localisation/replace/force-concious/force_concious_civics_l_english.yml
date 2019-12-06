@@ -1,4 +1,8 @@
 l_english:
+
+ civic_tooltip_spiritualist:0 "Is some degree of §YForce Conscious§!"
+ civic_tooltip_not_spiritualist:0 "Is not §YForce Conscious§!"
+
  civic_imperial_cult:0 "Force Conduit"
  civic_imperial_cult_desc:0 "This society has a dominant temple bureaucracy where the ruler is viewed as the singular conduit to the Force."
  

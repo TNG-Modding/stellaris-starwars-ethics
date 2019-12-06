@@ -1,0 +1,19 @@
+l_english:
+ sr_zro:0 "Zro"
+ sr_zro_desc:0 "An extremely rare aerosol of exotic particles. It has been deposited on a number of worlds through meteor impacts, but its true origin is a mystery. If ingested by Force sensitive individuals, zro acts as a very potent (and addictive) drug that enhances Force abilities."
+
+ tech_mine_zro:0 "Zro Distillation"
+ tech_mine_zro_desc:3 "An extremely rare aerosol of exotic particles. It has been deposited on a number of worlds through meteor impacts, but its true origin is a mystery. If ingested by Force sensitive individuals, Zro acts as a very potent (and addictive) drug that enhances Force abilities."
+ 
+ relic_zro_crystal_passive:0 "The cooldown to §YBreach into the Shroud§! is reduced by §G50%§!."
+ relic_zro_crystal_active:0 "Contact the spirit of §Y$relic_zro_entity_name$§! to seek guidance in different matters."
+ relic_zro_entity_name:0 "Ja'Baxti"
+
+ r_zro_crystal:1 "Holicron"
+ r_zro_crystal_desc:1 "A Holicron, containing the essence of §Y$relic_zro_entity_name$§!. From time to time it can be consulted for guidance."
+ r_severed_head:0 "Head of Zarqlan"
+ r_severed_head_desc:0 "Excerpt, Symbols of the Force (102nd Edition):\n\nZARQLAN (zaar-klann)\nRenowned Force disciple of indeterminate species, revered as an oracle by at least seven distinct galactic communities during Fourth Interregnum (32nd Cycle of Kavabh). Ultimate fate unknown, but references in historical records cease after 38th Cycle. Historicity heavily debated since at least (early) 41st Cycle; dismissed by many today as fable or legend."
+ 
+ relic_zro_crystal_knowledge:0 "§Y[Root.GetRulerTitle] [Root.GetRulerName]§! gains §Y500§! experience."
+ relic_zro_crystal_martial:0 "Martial Guidance"
+ relic_zro_crystal_state:0 "Statecraft Guidance"

@@ -1,4 +1,7 @@
 l_english:
+ civic_tooltip_pacifist:0 "Is some degree of §YJedi§!"
+ civic_tooltip_not_pacifist:0 "Is not §YJedi§!"
+
  civic_inwards_perfection:0 "Jedi Devotion"
  civic_inwards_perfection_desc:1 "This calm and pacifist society has little use for strangers who do not understand the Jedi way of life. More than anything, they would prefer to be left to their contemplation."
  

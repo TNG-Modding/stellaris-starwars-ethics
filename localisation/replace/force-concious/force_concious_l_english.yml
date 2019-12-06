@@ -15,6 +15,9 @@ l_english:
  POP_ATTRACTION_SPIRITUALIST_OVERLORD_POS:0 "§G+ Force Conscious Overlords§!"
  POP_ATTRACTION_SPIRITUALIST_OVERLORD_NEG:0 "§R- Force Conscious Overlords§!"
 
+ edict_declare_saint:0 "Declare Force Subsumption"
+ edict_declare_saint_desc:0 "This Edict will decale that a deceased individual who led a particularly devoted life has been subsumed by the Force, creating a new unifying symbol."
+
  building_temple:0 "Temple"
  building_temple_desc:0 "Simple constructs erected since time immemorial, temples are places of quiet contemplation and communion with the Force."
  building_holotemple:0 "Holotemple"
@@ -36,4 +39,7 @@ l_english:
  personality_awakened_fallen_empire_spiritualist:0 "Force Regulators"
  personality_awakened_fallen_empire_spiritualist_desc:0 "This Awakened Empire seeks to regulate the flow of the Force within the galaxy. They are likely to attack any empire that will not willingly practice Force cultivation."
 
+ artifact_proclaim_religious_finding:0 "Proclaim Force Insight"
+ artifact_proclaim_religious_finding_desc:0 "The discovery of artifacts far predating our own civilization has given indisputable proof of our beliefs."
+ proclaim_religious_finding:0 "Proclaimed Force Insight"
  

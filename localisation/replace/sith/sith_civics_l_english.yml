@@ -1,4 +1,8 @@
 l_english:
+
+ civic_tooltip_militarist:0 "Is some degree of §YSith§!"
+ civic_tooltip_not_militarist:0 "Is not §YSith§!"
+
  civic_citizen_service:0 "Sith Citizenship"
  civic_citizen_service_desc:0 "Full citizenship is limited to those who have adopted Sith principles and served a tour of duty in the military."
  

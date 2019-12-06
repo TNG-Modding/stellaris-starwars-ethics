@@ -1,0 +1,21 @@
+l_english:
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_GODRAY:0 "Preparing to make a believer out of $PLANET|Y$"
+ MESSAGE_DESC_FOR_PLANET_KILLER_GODRAY:0 "had belief enforced on it by"
+ tech_pk_godray:1 "Divine Stimulus"
+ tech_pk_godray_desc:1 "An arcane catalyst amplifying certain Force wavelengths, capable of inducing hallucinations (religious experiences) in biological brains, and severe disruption (brain death) in electronic ones."
+
+ god_rayed:0 "Divine Light"
+ god_rayed_desc:0 "The effects of the Divine Enforcer linger in the atmosphere, the soil, the local flora and fauna."
+ uneasy_faith:0 "Uneasy Faith"
+ uneasy_faith_desc:0 "The populace is on some level aware that the fervor of their faith is not wholly their own."
+ 
+ opinion_converted_my_world:0 "Converted our World"
+ opinion_converted_a_world:0 "Converted a World"
+ 
+ planet_destruction.401.name:0 "Faith Enforced"
+ planet_destruction.401.desc:0 "The empyral hum of the [From.From.GetName]'s Force coils fades, and for a moment all is quiet. Down on [From.GetName] the people stand slack-jawed (or local physiognomic equivalent), enraptured by the powerful and personal truths the Force ray unfetters from the tangled web of their minds.\n\nIf they did not understand before, they know now viscerally; we are all part of something greater."
+ planet_destruction.401.tooltip:0 "Any §Y$trait_mechanical$§!, §Y$trait_machine_unit$§! or §Y$trait_hive_mind$§! Pops are §Rdestroyed§! by the Force resonance.\n\nAll remaining §Ybiological§! Pops become §Y$ethic_spiritualist$§!.\n\nAdds the §Y$god_rayed$§! modifier to [This.GetName] for §Y10 years§!:\nForce Conscious Ethics Attraction: §Y+999%§!."
+
+ planet_destruction.610.spiri:0 "We shall demonstrate our righteousness."
+ planet_destruction.610.milit:0 "It was tactical, not personal."
+ planet_destruction.610.pacif:0 "A precautionary measure."

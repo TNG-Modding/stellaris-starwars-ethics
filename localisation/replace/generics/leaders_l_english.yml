@@ -1,32 +1,12 @@
 ﻿l_english:
-
- ####################################
- # Armies
- ####################################
  clone_army:0 "Clone Army"
  clone_army_plural:0 "Clone Armies"
  clone_army_desc:1 "Specialized clones that reach adulthood in a matter of months. With a natural lifespan of less than a decade, their lack of personal initiative is deemed an acceptable trade-off for their total obedience to officers."
- 
- 
- ####################################
- # Leader Traits
- ####################################
 
  leader_trait_defender:0 "Jedi Defender"
  leader_trait_defender_desc:1 "This leader known to defend the weak, knowing how best to deploy ground units and utilize fortifications to make planetary invasions as difficult as possible for the enemy."
  leader_trait_butcher:0 "Sith Tendencies"
  leader_trait_butcher_desc:1 "This leader is often exhibits Sith-like tendencies, offering no quarter and expecting none in return."
-
- ####################################
- # Advanced Resources
- ####################################
- sr_zro:0 "Zro"
- sr_zro_desc:0 "An extremely rare aerosol of exotic particles. It has been deposited on a number of worlds through meteor impacts, but its true origin is a mystery. If ingested by Force sensitive individuals, zro acts as a very potent (and addictive) drug that enhances Force abilities."
-
-
- ####################################
- # Rulers / Heirs
- ####################################
 
  RT_GRAND_MARSHAL:0 "Sith Lord"
  RT_GRAND_MARSHAL_FEMALE:0 "$RT_GRAND_MARSHAL$"
@@ -56,36 +36,5 @@
  RT_COMMISSARY_GENERAL_FEMALE:0 "$RT_COMMISSARY_GENERAL$"
  RT_HALLOWED_COMPTROLLER:0 "Hallowed Comptroller"
  RT_HALLOWED_COMPTROLLER_FEMALE:0 "$RT_HALLOWED_COMPTROLLER$"
-
- ####################################
- # Civics
- ####################################
- 
- civic_tooltip_spiritualist:0 "Is some degree of §YForce Conscious§!"
- civic_tooltip_not_spiritualist:0 "Is not §YForce Conscious§!"
-
- civic_tooltip_militarist:0 "Is some degree of §YSith§!"
- civic_tooltip_not_militarist:0 "Is not §YSith§!"
- 
- civic_tooltip_pacifist:0 "Is some degree of §YJedi§!"
- civic_tooltip_not_pacifist:0 "Is not §YJedi§!"
- 
- 
- 
-
- ####################################
- # Ship Components
- ####################################
-
- edict_peace_festivals:0 "Jedi Festivals"
- edict_peace_festivals_desc:1 "This Jedi Edict fosters a spirit of unity and good cheer through whole seasons filled with special events and festivals."
-
- edict_declare_saint:0 "Declare Force Subsumption"
- edict_declare_saint_desc:0 "This Edict will decale that a deceased individual who led a particularly devoted life has been subsumed by the Force, creating a new unifying symbol."
-
-
- ###################################
- # Personalities
- ####################################
 
  

@@ -1,0 +1,29 @@
+l_english:
+
+ job_telepath:0 "Inquisitor"
+ job_telepath_plural:0 "Inquisitor"
+ job_telepath_desc:0 "Members of the Inquisition, a unit of Force sensitive enforcers."
+ job_telepath_effect_desc:0 "£job_telepath£ $job_telepath_plural$ produce £unity£ §Y$unity$§! and decrease £crime£ §Y$PLANET_CRIME_TITLE$§!"
+ 
+ job_high_priest:0 "Force Master"
+ job_high_priest_plural:0 "Force Masters"
+ job_high_priest_desc:1 "To whom do guides turn when they themselves seek guidance? Another, more experienced guide."
+ job_high_priest_effect_desc:0 "£job_high_priest£ $job_high_priest_plural$ produce £unity£ §Y$unity$§! and £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+ 
+ job_priest:0 "Force Discple"
+ job_priest_plural:0 "Force Disciples"
+ job_priest_desc:1 "The guidance of the masses within the Force is performed by the most dedicated and wise."
+ job_priest_effect_desc:0 "£job_priest£ $job_priest_plural$ turn £consumer_goods£ §Y$consumer_goods$§! into £unity£ §Y$unity$§!, £society£ §Y$society_research$§! and £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+ 
+
+ # Primitive Jobs
+ job_primitive_priest:0 "Force Adept"
+ job_primitive_priest_plural:0 "Force Adept"
+ job_primitive_priest_desc:1 "Practitioners who conduct ceremonies pertaining to what can only be a primitive understanding of the Force."
+ 
+ job_primitive_priest_2:0 "Force Disciple"
+ job_primitive_priest_2_plural:0 "Force Disciples"
+ job_primitive_priest_2_desc:1 "Spiritual leaders who occupy various temple offices."
+ 
+ planet_priests:0 "Force Disciple Jobs"
+ planet_telepaths:0 "Telepath Jobs"

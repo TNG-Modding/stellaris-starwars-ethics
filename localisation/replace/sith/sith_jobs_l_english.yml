@@ -1,0 +1,8 @@
+l_english:
+ job_duelist:0 "Duelist"
+ job_duelist_plural:0 "Duelists"
+ job_duelist_desc:0 "Martial experts who display their deadly art for the entertainment of the masses."
+ job_duelist_effect_desc:0 "£job_duelist£ $job_duelist_plural$ turn £alloys£ §Y$alloys$§! into £unity£ §Y$unity$§!, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§! and £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!"
+ mod_job_duelist_add:0 "$job_duelist$ Jobs"
+ mod_job_duelist_per_pop:0 "§G+1§! $job_duelist$ Job per $VALUE$ Pops"
+ mod_job_duelist_per_pop_short:0 "\n§G+1§! £mod_job_duelist_add£ per $VALUE$ £pop£"

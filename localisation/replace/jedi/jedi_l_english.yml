@@ -8,6 +8,9 @@ l_english:
  pacifist_unrest:0 "Unrest (Jedi Attraction)"
  pacifist_unrest_desc:0 "§HUnrest§! on this colony has caused local Pops to become more attracted to §YJedi§!."
 
+ edict_peace_festivals:0 "Jedi Festivals"
+ edict_peace_festivals_desc:1 "This Jedi Edict fosters a spirit of unity and good cheer through whole seasons filled with special events and festivals."
+
  POP_ATTRACTION_PACIFIST_POS:0 "§G+ Jedi Governing Ethics§!"
  POP_ATTRACTION_PACIFIST_NEG:0 "§R- Jedi Governing Ethics§!"
  POP_ATTRACTION_INWARDS_PERFECTION_POS:0 "§G+ Jedi Devotion Civic§!"
