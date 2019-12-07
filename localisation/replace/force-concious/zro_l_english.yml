@@ -5,7 +5,7 @@ l_english:
  tech_mine_zro:0 "Zro Distillation"
  tech_mine_zro_desc:3 "An extremely rare aerosol of exotic particles. It has been deposited on a number of worlds through meteor impacts, but its true origin is a mystery. If ingested by Force sensitive individuals, Zro acts as a very potent (and addictive) drug that enhances Force abilities."
  
- relic_zro_crystal_passive:0 "The cooldown to §YBreach into the Shroud§! is reduced by §G50%§!."
+ relic_zro_crystal_passive:0 "The cooldown to §YBreach into the Astral Plane§! is reduced by §G50%§!."
  relic_zro_crystal_active:0 "Contact the spirit of §Y$relic_zro_entity_name$§! to seek guidance in different matters."
  relic_zro_entity_name:0 "Ja'Baxti"
 

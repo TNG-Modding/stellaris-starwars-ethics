@@ -75,8 +75,8 @@ l_english:
  TRANSCENDING_SPECIES_CANT_BE_HIVE:0 "Hive minds cannot develop Force energies."
  SPECIES_CAN_TRANSCEND:0 "Assimilating this species will set them upon the path to Force Ascension."
  
- psionic_avatar:0 "Shrouded Avatar"
- psionic_avatar_plural:0 "Shrouded Avatars"
+ psionic_avatar:0 "Astral Plane Avatar"
+ psionic_avatar_plural:0 "Astral Plane Avatars"
 
  living_standard_psi_assimilation:0 "Force Awakening"
  living_standard_psi_assimilation_tooltip:0 "This species is awakening to its Force potential."
@@ -95,7 +95,7 @@ l_english:
  trait_latent_psionic:0 "Latent Force Wielders"
  trait_latent_psionic_desc:0 "§LThis species has latent Force abilities, which are dormant in most of its members. Although quite rare, these powers will manifest in some leaders.§!\n"
  trait_psionic:0 "Force Wielders"
- trait_psionic_desc:0 "§LAll members of this species possess powerful Force abilities. They typically communicate with each other through telepathy.§!\n"
+ trait_psionic_desc:0 "§LAll members of this species possess powerful Force abilities. They typically communicate with each other through the Force.§!\n"
  ALLOW_PSI_CORPS:0 "The §H$building_psi_corps$§! building is now available."
  ALLOW_PSI_ARMIES:0 "§H$psionic_army_plural$§! can now be recruited."
  
@@ -111,7 +111,7 @@ l_english:
  leader_trait_scientist_chosen_desc:0 "$leader_trait_admiral_chosen_desc$"
 
  leader_trait_shroud_age:0 "Increased Lifespan"
- leader_trait_shroud_age_desc:0 "The powerful Force energies of the Shroud have slowed the natural aging process of this leader."
+ leader_trait_shroud_age_desc:0 "The powerful Force energies of the Astral Plane have slowed the natural aging process of this leader."
 
  leader_trait_reformer:0 "Reformer"
  leader_trait_reformer_desc:0 "This leader is a reformer, dedicated towards building the society of tomorrow."

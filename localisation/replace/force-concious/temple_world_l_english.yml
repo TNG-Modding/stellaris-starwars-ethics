@@ -25,14 +25,14 @@ l_english:
  consecrated_quality_4_desc:0 "This planet is deemed an immaculate and sacrosanct place."
 
  decision_make_holy_world:0 "Create Temple Planet"
- decision_make_holy_world_desc:1 "We search our domain for an uncolonized §Y$pc_gaia$§! to designate as a Holy World. As long as it remains unspoiled by mortals and within our borders, this sacrosanct planet will give us: £unity£ §Y$country_base_unity_produces_mult$§! §G+10%§!."
+ decision_make_holy_world_desc:1 "We search our domain for an uncolonized §Y$pc_gaia$§! to designate as a Temple World. As long as it remains unspoiled by mortals and within our borders, this sacrosanct planet will give us: £unity£ §Y$country_base_unity_produces_mult$§! §G+10%§!."
 
  apoc.200.name:0 "Holy World Candidate"
  apoc.200.desc:0 "In cooperation with theological experts, several scryers have independently confirmed §Y[holy_target.GetName]§! in the [holy_target.GetStarName] system as being worthy of particular veneration.\n\nOfficial recognition is sure to boost the public's appreciation of this mystical world."
  apoc.200.a:0 "May [holy_target.GetName] be hallowed."
  apoc.200.a.tooltip:0 "§Y$holy_player_planet$§! modifier added"
 
- apoc.201.name:0 "No Holy World Candidate Found"
+ apoc.201.name:0 "No Temple World Candidate Found"
  apoc.201.desc:0 "Our top scryers have issued a report stating that no spiritual nexuses are to be found among the planets within our Empire."
  apoc.201.a.tooltip:0 "Edict £influence£ Influence cost is refunded."
 

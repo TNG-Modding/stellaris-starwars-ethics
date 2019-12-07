@@ -12,14 +12,18 @@ Spiritualist -> Force Conscious
 Force Wielder
 Banned Words:
 -Priest(s)
--Religion
--Religious
--Church -> Foundation
--Minister -> Temple Official
+-Religio(n/s)
+-Church(es) -> Foundation(s)
+-Minister(s) -> Temple Official
 -Theo
 -Cultist(s) -> Sectarians
--Cult -> Sect
+-Cult(s) -> Sect(s)
 -True Path
 -Divine -> Sacred
 -Worship -> Revere
 -Clergy -> Disciples
+-Psychic -> Force wielding
+-Shroud -> Astral Plane of the Force
+-(Conclave of) Telepaths
+
+-The Divine
