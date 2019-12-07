@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_GODRAY:0 "Preparing to make a believer out of $PLANET|Y$"
  MESSAGE_DESC_FOR_PLANET_KILLER_GODRAY:0 "had belief enforced on it by"
  tech_pk_godray:1 "Divine Stimulus"

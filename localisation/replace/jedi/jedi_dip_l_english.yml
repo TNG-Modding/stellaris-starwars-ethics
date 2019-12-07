@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  # Peaceful Traders
  PT_HOSTILE_GREETING_01:0 "It's a shame good deals can rarely be made with bad people."
  PT_HOSTILE_GREETING_02:0 "The [Root.GetSpeciesName] seek to learn from others and have them learn from us, but we'd rather not learn any of your ways."
