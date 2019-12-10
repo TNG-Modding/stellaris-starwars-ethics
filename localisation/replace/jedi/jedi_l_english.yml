@@ -1,9 +1,9 @@
 ﻿l_english:
 
  ethic_pacifist:0 "Jedi"
- ethic_pacifist_desc:0 "§LConflict as a means to an end is a ridiculous concept. It is by nature destructive, destroying what was to be obtained or giving room to grow that which was to be destroyed.§!\n"
+ ethic_pacifist_desc:0 "§LThrough the wise application of force, the universe might be brought into harmony and peace.§!\n"
  ethic_fanatic_pacifist:0 "Fanatic Jedi"
- ethic_fanatic_pacifist_desc:0 "§LAs civilized beings, the end of all armed conflict should be our primary concern. War is an evolutionary dead end, as futile as it is wasteful.§!\n"
+ ethic_fanatic_pacifist_desc:0 "§LTo measure ones disorder is to take part in disorder. To acknowledge ones death is to give in to death. To weigh ones power is to misuse one power. To see your enemy is to become ones enemy.§!\n"
  
  pacifist_unrest:0 "Unrest (Jedi Attraction)"
  pacifist_unrest_desc:0 "§HUnrest§! on this colony has caused local Pops to become more attracted to §YJedi§!."

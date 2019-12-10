@@ -1,9 +1,9 @@
 ﻿l_english:
 
  ethic_spiritualist:0 "Force Conscious"
- ethic_spiritualist_desc:1 "§LThere is a Force, a field that emates from all life. Our government must remember our place within it, and guide our people to a greater awareness of it.§!\n"
+ ethic_spiritualist_desc:1 "§LThe Force eminates from all life. Our government must remember our place within it, and guide our people to a greater awareness of it.§!\n"
  ethic_fanatic_spiritualist:0 "Fanatic Force Conscious"
- ethic_fanatic_spiritualist_desc:0 "§LOur science has proven that it is the Force that begets knowable reality. We regard with patience the childlike efforts of those who seek Sight where none can be found.§!\n"
+ ethic_fanatic_spiritualist_desc:0 "§LIt is known that it is the Force that begets knowable reality. We regard with patience those who deafen their ears to it, and seek sight where none can be found.§!\n"
 
  spiritualist_unrest:0 "Unrest (Force Conscious Attraction)"
  spiritualist_unrest_desc:0 "§HUnrest§! on this colony has caused local Pops to become more attracted to §YForce Consciousness§!."

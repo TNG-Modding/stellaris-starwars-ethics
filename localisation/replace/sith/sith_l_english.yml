@@ -1,9 +1,9 @@
 ﻿l_english:
 
  ethic_militarist:0 "Sith"
- ethic_militarist_desc:1 "§LThe only true virtues are power and passion, and channeled properly they can overcome any obstacle. Therein lies true strength; force withheld, a promise made.§!\n"
+ ethic_militarist_desc:1 "§LTrue virtue is found in passion, and channeled properly it can overcome any obstacle.§!\n"
  ethic_fanatic_militarist:0 "Fanatic Sith"
- ethic_fanatic_militarist_desc:1 "§LThere exists only the strength of the individual. Reality must bend to our awe and might, or be broken all to pieces...§!\n"
+ ethic_fanatic_militarist_desc:1 "§LThere exists only the power of the individual. Through exceeding our limits, Reality will bend to our awe, or be broken all to pieces...§!\n"
  
  militarist_unrest:0 "Unrest (Sith Attraction)"
  militarist_unrest_desc:0 "§HUnrest§! on this colony has caused local Pops to become more attracted to §YSith§!."
