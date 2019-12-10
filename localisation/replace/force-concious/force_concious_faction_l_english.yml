@@ -1,6 +1,6 @@
 ﻿l_english:
- pft_traditionalist:0 "Force Concious Faction"
- pft_traditionalist_desc:1 "Force Concious Factions desire a return to traditional values that may or may not have existed at some point before the Empire took to the stars. They like austerity and dislike certain technological advancements and materialist values.\n\n§LForce Conscious Ethos§!"
+ pft_traditionalist:0 "Force Conscious Faction"
+ pft_traditionalist_desc:1 "Force Conscious Factions desire a return to traditional values that may or may not have existed at some point before the Empire took to the stars. They like austerity and dislike certain technological advancements and materialist values.\n\n§LForce Conscious Ethos§!"
  
  factions.1.desc.traditionalist:0 "Their members push for Force discipleship and traditonal values.\n\n"
  factions.2000.desc.traditionalist:0 "As a result of bringing this faction into their government, they have become more outwardly §HForce Conscious§!.\n\n"
@@ -9,7 +9,7 @@
  TRADITIONALIST_NO_FULL_ROBOT_RIGHTS:0 "No Synth Rights"
  TRADITIONALIST_NO_FULL_ROBOT_RIGHTS_DESC:0 "Giving Synthetics full citizen rights will greatly displease the [Root.GetName]."
  TRADITIONALIST_FULL_ROBOT_RIGHTS:0 "Profane Machines"
- TRADITIONALIST_SPIRITUALIST_GOVERNMENT:0 "Force Concious Polity"
+ TRADITIONALIST_SPIRITUALIST_GOVERNMENT:0 "Force Conscious Polity"
  TRADITIONALIST_SPIRITUALIST_GOVERNMENT_DESC:1 "Having Force Conscious values be reflected in our empire governing ethics will please the [Root.GetName]."
  TRADITIONALIST_SECULAR_GOVERNMENT:0 "Secular State"
  TRADITIONALIST_SPIRITUALIST_POPS:0 "Homogeneity"
