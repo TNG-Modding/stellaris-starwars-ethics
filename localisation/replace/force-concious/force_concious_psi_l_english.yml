@@ -22,8 +22,8 @@
  tech_psionic_theory:0 "Force Theory"
  tech_psionic_theory_desc:1 "The mind is in many ways a reflection of the Force itself, a microcosmos. All species may not reach this insight, but their minds are tools greater than any other."
  
- tech_telepathy:0 "Telepathy"
- tech_telepathy_desc:1 "Once fully adapted to the Force, the mind is capable of connecting to other individuals, becoming something greater."
+ tech_telepathy:0 "Force Powers"
+ tech_telepathy_desc:1 "Once fully adapted to the Force, the mind is capable of fantastical powers."
  tech_transcendent_thought:0 "Transcendent Thought"
 
  tech_precognition_interface:0 "Precognition Interface"
