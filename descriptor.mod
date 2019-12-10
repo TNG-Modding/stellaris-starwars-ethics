@@ -2,4 +2,4 @@ version="1.0"
 tags={
 	"Events"
 }
-name="Star Wars Ethics"
+name="Philosophically Star Wars: Flavor Mod"
