@@ -1,5 +1,5 @@
 version="1.0"
 tags={
-	"Events"
+"Events"
 }
-name="Philosophically Star Wars: Flavor Mod"
+name="StarWarsLocalisationLocalFiles"
