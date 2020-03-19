@@ -1,0 +1,8 @@
+part = {
+	location = 0
+	localization = "START_SCREEN_RULE_OF_TWO"
+	
+	trigger = {
+		has_origin = origin_rule_of_two
+	}
+}

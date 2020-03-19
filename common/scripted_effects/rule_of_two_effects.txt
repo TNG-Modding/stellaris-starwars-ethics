@@ -1,0 +1,19 @@
+create_rule_of_two_npc = {
+	create_country = {
+		name = random
+		name_list = random
+		species = event_target:rule_of_two_npc_species
+		type = default
+		origin = "origin_rule_of_two_npc"
+		ignore_initial_colony_error = yes
+		day_zero_contact = no
+		ethos = {
+			ethic = "ethic_spiritualist"
+			ethic = "ethic_fanatic_militarist"
+		}
+		effect = {
+			save_event_target_as = rule_of_two_npc
+			establish_communications_no_message = root
+		}
+	}	
+}

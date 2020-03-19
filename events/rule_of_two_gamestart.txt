@@ -1,0 +1,26 @@
+namespace = game_start
+
+### Hidden Game Start Event
+event = {
+	id = game_start.900
+	title = game_start.900.name
+	desc = game_start.900.desc
+	picture = GFX_evt_satellite_in_orbit
+	hide_window = no
+	is_triggered_only = yes
+
+	immediate = {
+		every_playable_country = {
+			limit = { 
+				OR = {
+					has_origin = origin_rule_of_two
+				}
+			}
+			country_event = { id = origin.900 }
+		}
+	}
+
+	option = {
+		name = game_start.900.ack
+	}
+}

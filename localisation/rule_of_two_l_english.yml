@@ -1,0 +1,16 @@
+﻿l_english:
+ origin_rule_of_two:0 "Rule of Two Aspirant"
+ origin_rule_of_two_desc:0 "The aspirant seeks and eventually surpasses the power of the master."
+ origin_tooltip_origin_rule_of_two_effects:0 "- Start as the subordinate of a §HHegemony§! federation."
+
+ origin_rule_of_two_npc:0 "Rule of Two Master"
+ origin_rule_of_two_npc_desc:0 "The master seeks those with power for their own gain."
+ origin_tooltip_origin_rule_of_two_npc_effects:0 "- Start as a leader of a §HHegemony§! federation with one member."
+
+ game_start.900.name:0 "Rule of Two Game Start"
+ game_start.900.desc:0 "Rule of Two has started!"
+ game_start.900.ack:0 "Acknowledged."
+
+ origin.900.name:0 "Rule of Two Origin Setup"
+ origin.900.desc:0 "Rule of Two origin setup started!"
+ origin.900.ack:0 "Acknowledged."

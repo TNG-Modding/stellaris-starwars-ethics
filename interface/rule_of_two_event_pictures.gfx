@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {	
+		name = "GFX_rule_of_two"
+		texturefile = "gfx/event_pictures/origins/origin_rule_of_two.dds"
+		alwaystransparent = yes
+	}
+}
