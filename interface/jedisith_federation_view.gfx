@@ -1,0 +1,10 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_sith_federation"
+		textureFile = "gfx/interface/icons/federation/federation_types/sith_federation.dds"
+	}
+	spriteType = {
+		name = "GFX_jedi_federation"
+		textureFile = "gfx/interface/icons/federation/federation_types/jedi_federation.dds"
+	}
+}

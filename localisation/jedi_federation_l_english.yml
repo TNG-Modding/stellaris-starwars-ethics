@@ -1,0 +1,5 @@
+l_english:
+  pacifist_federation:0 "Jedi Coalition"
+  pacifist_federation_desc:1 "Members of this federation seek to neutralize idealogical threats with using little to no direct force."
+
+  pacifist_federation_passive_effect:0 "Free and automatic §YMigration Treaties§! between all federation members."
