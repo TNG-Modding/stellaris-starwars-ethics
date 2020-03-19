@@ -1,0 +1,414 @@
+
+## Traditionalists
+pop_faction_name_parts_list = {
+	key = "traditionalist_names_1"
+	parts = {
+		"Union" = 1
+		"Alliance" = 1
+		"Council" = 1
+		"Committee" = 1
+		"Church" = 1
+		"Conclave" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "traditionalist_names_2"
+	parts = {
+		"of Force Understanding" = 1
+		"of Force Disciples" = 1
+		"of Force Guidance" = 1
+		"of Sacred Traditions" = 1
+		"of Force Preservationists" = 1
+		"of Force Redeeming" = 1
+		"of the Force Unchained" = 1
+		"of Force Philosophy" = 1
+		"of Temple Foundations" = 1
+		"of Force Cleansing" = 1
+		"of Exalted Temples" = 1
+		"of the Temple Disciples" = 1
+		"of the Truth" = 1
+		"of Disciples" = 1
+		"of the Force" = 4
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "traditionalist"
+		}
+	}
+	format = "<traditionalist_names_1> <traditionalist_names_2>"
+}
+
+## Imperialists
+pop_faction_name_parts_list = {
+	key = "imperialist_names"
+	parts = {
+		"Sith Officers Association" = 1
+		"Sith for Victory Movement" = 1
+		"Sith Warriors of the Void" = 1
+		"Black Sun Vanguard" = 1
+		"Order of the Black Star" = 1
+		"Sith Warrior Lodge" = 1
+		"Sith Legion" = 1
+		"Dark Sun Legion" = 1
+		"Banner of the Black Sun" = 1
+		"Sith Brethren" = 1
+		"Sith Guard" = 1
+		"Sith Initiative" = 1
+		"Path of the Dark Side" = 1
+		"Vanguard of the Sith" = 1
+		"Sith Order of the Black Sun" = 1
+		"Sith Supremacy Alliance" = 1
+		"March of the Sith" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "imperialist"
+		}
+	}
+	format = "<imperialist_names>"
+}
+
+
+## Prosperity Faction
+pop_faction_name_parts_list = {
+	key = "prosperity_names"
+	parts = {
+		"Jedi Order" = 1
+		"Jedi Peacekeepers Association" = 1
+		"Jedi for Peace Movement" = 1
+		"Jedi Watchmen in the Void" = 1
+		"Jedi Vanguard" = 1
+		"Order of the Peaceful Mind" = 1
+		"Jedi Lodge" = 1
+		"Jedi Brethren" = 1
+		"Jedi Guardsmen" = 1
+		"Jedi Initiative" = 1
+		"Path of the Light" = 1
+		"Vanguard of the Jedi" = 1
+		"Jedi Order of the Light" = 1
+		"Jedi Alliance" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "prosperity"
+		}
+	}
+	format = "<prosperity_names>"
+}
+
+## Supremacists
+pop_faction_name_parts_list = {
+	key = "supremacist_names_1"
+	parts = {
+		"Supremacy" = 1
+		"Unity" = 1
+		"Primacy" = 1
+		"Dominance" = 1
+		"Future" = 1
+		"Ascendancy" = 1
+		"Superiority" = 1
+		"Preservation" = 1
+		"Purity" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "supremacist_names_2"
+	parts = {
+		"Vanguard" = 1
+		"Front" = 1
+		"Movement" = 1
+		"Party" = 1
+		"Bloc" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "supremacist"
+		}
+	}
+	format = "[This.Owner.GetSpeciesName] <supremacist_names_1> <supremacist_names_2>"
+}
+
+## Isolationists
+pop_faction_name_parts_list = {
+	key = "isolationist_names_1"
+	parts = {
+		"Non-Interventionist" = 1
+		"No Entanglements" = 1
+		"Defense First" = 1
+		"National Preparedness" = 1
+		"Defensive Readiness" = 1
+		"Neutrality" = 1
+		"Internal Strength" = 1
+		"Closed Borders" = 1
+		"Eternal Vigilance" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "isolationist_names_2"
+	parts = {
+		"Coalition" = 1
+		"Council" = 1
+		"Committee" = 1
+		"Center" = 1
+		"Foundation" = 1
+		"Initiative" = 1
+		"Society" = 1
+		"Watch" = 1
+		"Alliance" = 1
+		"Movement" = 1
+		"Group" = 1
+		"Organization" = 1
+		"Network" = 1
+		"Forum" = 1
+		"Association" = 1
+		"League" = 1
+		"Party" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "isolationist"
+		}
+	}
+	format = "<isolationist_names_1> <isolationist_names_2>"
+}
+
+## Totalitarians
+pop_faction_name_parts_list = {
+	key = "totalitarian_names_1"
+	parts = {
+		"Strength Through Unity" = 1
+		"Authoritarian" = 1
+		"Imperial Unity" = 1
+		"One Throne" = 1
+		"Hierarchical" = 1
+		"United As One" = 1
+		"Noble Privilege" = 1
+		"Monarchist" = 1
+		"Ordered Society" = 1
+		"Peace and Order" = 1
+		"Loyal Citizenry" = 1
+		"Citizen Elite" = 1
+		"Citizen Obedience" = 1
+		"Obedience, Loyalty and Duty" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "totalitarian_names_2"
+	parts = {
+		"Initiative" = 1
+		"Coalition" = 1
+		"Movement" = 1
+		"Group" = 1
+		"Union" = 1
+		"Party" = 1
+		"Vanguard" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "totalitarian"
+		}
+	}
+	format = "<totalitarian_names_1> <totalitarian_names_2>"
+}
+
+## Progressives
+pop_faction_name_parts_list = {
+	key = "progressive_names_1"
+	parts = {
+		"Democratic" = 1
+		"Freedom" = 1
+		"Free Elections" = 1
+		"Liberty Now" = 1
+		"Democratic Reform" = 1
+		"Citizen Self-Determinism" = 1
+		"Full Enfranchisement" = 1
+		"True Democracy" = 1
+		"Individual Choice" = 1
+		"Free Thought" = 1
+		"Free Citizen" = 1
+		"Popular Vote" = 1
+		"Democratic Rights" = 1
+		"Friends of Liberty" = 1
+		"Galactic Emancipation" = 1
+		"Electoral Freedom" = 1
+		"Citizens for Freedom" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "progressive_names_2"
+	parts = {
+		"Coalition" = 1
+		"Council" = 1
+		"Committee" = 1
+		"Center" = 1
+		"Foundation" = 1
+		"Initiative" = 1
+		"Society" = 1
+		"Watch" = 1
+		"Alliance" = 1
+		"Movement" = 1
+		"Group" = 1
+		"Organization" = 1
+		"Network" = 1
+		"Forum" = 1
+		"Association" = 1
+		"League" = 1
+		"Party" = 1
+		"Convention" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "progressive"
+		}
+	}
+	format = "<progressive_names_1> <progressive_names_2>"
+}
+
+## Technologists
+pop_faction_name_parts_list = {
+	key = "technologist_names_1"
+	parts = {
+		"Committee" = 1
+		"Academy" = 1
+		"Council" = 1
+		"Institute" = 1
+		"Association" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "technologist_names_2"
+	parts = {
+		"of Higher Learning" = 1
+		"of United Scientists" = 1
+		"of Technological Progress" = 1
+		"of Technologists" = 1
+		"of Advanced Sciences" = 1
+		"of Scientific Scholars" = 1
+		"of Scientific Ascendancy" = 1
+		"of High Technology" = 1
+		"for the Advancement of Science" = 1
+		"of Technocratic Reform" = 1
+		"of Research Efficiency" = 1
+		"of Technological Mastery" = 1
+		"of Scientific Betterment" = 1
+		"of Robotic Sciences" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "technologist"
+		}
+	}
+	format = "<technologist_names_1> <technologist_names_2>"
+}
+
+## Xenoists
+pop_faction_name_parts_list = {
+	key = "xenoist_names_1"
+	parts = {
+		"Alien" = 1
+		"Xeno" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "xenoist_names_2"
+	parts = {
+		"Rights" = 1
+		"Tolerance" = 1
+		"Friendship" = 1
+		"Equality" = 1
+		"Justice" = 1
+		"Compassion" = 1
+		"Protection" = 1
+		"Liberty" = 1
+		"Freedom" = 1
+		"Aid" = 1
+		"Reform" = 1
+		"Awareness" = 1
+		"Suffrage" = 1
+	}
+}
+
+pop_faction_name_parts_list = {
+	key = "xenoist_names_3"
+	parts = {
+		"Coalition" = 1
+		"Lobby" = 1
+		"Council" = 1
+		"Committee" = 1
+		"Center" = 1
+		"Foundation" = 1
+		"Initiative" = 1
+		"Society" = 1
+		"Watch" = 1
+		"Alliance" = 1
+		"Movement" = 1
+		"Group" = 1
+		"Organization" = 1
+		"Network" = 1
+		"Forum" = 1
+		"Association" = 1
+		"Trust" = 1
+		"Institute" = 1
+		"League" = 1
+		"Observatory" = 1
+		"Party" = 1
+	}
+}
+
+pop_faction_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 100
+			is_pop_faction_type = "xenoist"
+		}
+	}
+	format = "<xenoist_names_1> <xenoist_names_2> <xenoist_names_3>"
+}
