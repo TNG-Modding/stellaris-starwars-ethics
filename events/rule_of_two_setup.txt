@@ -160,7 +160,7 @@ country_event = {
 		}
 
 		federation = { 
-			set_federation_type = hegemony_federation
+			set_federation_type = military_federation
 			set_federation_leader = event_target:rule_of_two_npc	
 			set_name = random
 		}	
