@@ -6,7 +6,7 @@ event = {
 	title = game_start.900.name
 	desc = game_start.900.desc
 	picture = GFX_evt_satellite_in_orbit
-	hide_window = no
+	hide_window = yes
 	is_triggered_only = yes
 
 	immediate = {

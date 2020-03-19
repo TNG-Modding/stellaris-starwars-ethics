@@ -6,7 +6,7 @@ country_event = {
 	title = origin.900.name
 	desc = origin.900.desc
 	picture = GFX_evt_satellite_in_orbit
-	hide_window = no
+	hide_window = yes
 
 	is_triggered_only = yes
 
@@ -161,8 +161,9 @@ country_event = {
 
 		federation = { 
 			set_federation_type = hegemony_federation
+			set_federation_leader = event_target:rule_of_two_npc	
 			set_name = random
 		}	
-		set_federation_leader = event_target:rule_of_two_npc	
+		
 	}
 }
