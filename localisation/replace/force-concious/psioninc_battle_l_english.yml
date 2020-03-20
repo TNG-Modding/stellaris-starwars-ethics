@@ -1,0 +1,7 @@
+l_english:
+ challenge_type_psionic_battle:0 "Light Saber Duel"
+ psionic_battle:0 "Light Saber Duel"
+ psionic_battle_begin:0 "The light saber duel will soon begin."
+ psionic_battle_outcome:0 "The §H[winning_country.GetName]§! will serve as presidents of the §H[Root.GetAllianceName]§!"
+ challenge_type_psionic_battle_desc:0 "The matter of who should be leading our federation is too important to be decided within the limits of the mundane. Each empire will send their most powerful force users to face off against one another in a battle of force abilities using the traditional weapon of all force wielders, the ligth saber.\n\n§YVictory will depend on:\n- The number of Pops with force abilities\n- The number of Pops with the Inquisitor job\n- Zro offerings§!\n\n§REmpires without force sensitive Pops cannot participate and must forfeit.§!"
+ requires_psionic_pops:0 "Requires at least one member having a Pop with a §YForce Wielder§! or §YLatent Force Wielder§! trait"
