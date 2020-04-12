@@ -6,4 +6,4 @@ tags={
 	"Events"
 	"Leaders"
 }
-name="Philosophically Star Wars: Flavor Mod"
+name="Philosophically Star Wars: Federation"
