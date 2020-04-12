@@ -1,5 +1,0 @@
-pacifist_federation_passive = {
-	members_modifier = {
-		description = pacifist_federation_passive_effect
-	}
-}
