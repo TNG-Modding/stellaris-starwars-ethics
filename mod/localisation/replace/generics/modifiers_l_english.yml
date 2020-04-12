@@ -12,7 +12,7 @@
  mod_pop_ethic_militarist_attraction_mult:0 "Sith Ethics Attraction"
  mod_pop_ethic_spiritualist_attraction_mult:0 "Force Conscious Ethics Attraction"
 
- opinion_of_spiritualist:0 "Force Charalans"
+ opinion_of_spiritualist:0 "Force Charlatans"
  opinion_of_spiritualist_pos:0 "Wise Force Disciples"
  opinion_of_pacifist_pos:0 "Enlightened Jedis"
  opinion_desecrated_holy_world:0 "Desecrated Temple Planet"
