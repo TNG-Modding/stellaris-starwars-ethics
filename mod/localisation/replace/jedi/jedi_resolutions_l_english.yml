@@ -1,9 +1,9 @@
-l_english:
+﻿l_english:
  # Rules of War
- resolution_category_rulesofwar:0 "Jedi Principles"
+ resolution_category_rulesofwar:0 "Jedi Discernment"
 
  resolution_rulesofwar_repeal_1:0 "§RRepeal $resolution_rulesofwar_guardian_angels$§!"
- resolution_rulesofwar_repeal_1_desc:0 "Might makes right. Attempting to hide the horrors of war by placing limits on it is just lying to ourselves. We should repeal these laws and untie our hands should a true threat appear."
+ resolution_rulesofwar_repeal_1_desc:0 "Attempting to hide the horrors of war by placing limits on it is just lying to ourselves. We should repeal these laws and untie our hands should a true threat appear."
  resolution_rulesofwar_repeal_1_effect_success:0 "Repeals the §Y$resolution_rulesofwar_guardian_angels$§! resolution."
 
  resolution_rulesofwar_repeal_2:0 "§RRepeal $resolution_rulesofwar_reverence_for_life$§!"
@@ -23,20 +23,20 @@ l_english:
  resolution_rulesofwar_repeal_5_effect_success:2 "Repeals the §Y$resolution_rulesofwar_demobilization_initiative$§! resolution, leaving §Y$resolution_rulesofwar_last_resort_doctrine$§! as galactic law.\n\n"
 
  resolution_rulesofwar_guardian_angels:0 "Jedi Guardians Act"
- resolution_rulesofwar_guardian_angels_desc:0 "The soldiers that dedicate their lives to keeping our planets safe should be recognized and honored."
+ resolution_rulesofwar_guardian_angels_desc:0 "The warriors that dedicate their lives to keeping our planets safe should be recognized and honored."
 
  resolution_rulesofwar_reverence_for_life:0 "Reverence for Life"
- resolution_rulesofwar_reverence_for_life_desc:0 "The horror of war on the scale of interstellar empires is a terrible thing. We should do what we can to limit its excesses to active combatants."
+ resolution_rulesofwar_reverence_for_life_desc:0 "The horror of war on the scale of interstellar empires is a terrible thing. We should do what we can to limit its excesses."
  resolution_rulesofwar_reverence_for_life_tooltip:0 "§YPurging§! (other than Displacement) and the use of §YWorld Crackers§! is §Rbanned§!."
 
  resolution_rulesofwar_independent_tribunals:0 "Jedi Tribunals"
- resolution_rulesofwar_independent_tribunals_desc:0 "Justice must occur for crimes soldiers commit, and civilian casualties must be accounted for. We should set up tribunals staffed by Jedi practitioners to investigate, try, and punish war crimes."
+ resolution_rulesofwar_independent_tribunals_desc:0 "Justice must occur for crimes warriors commit, and civilian casualties must be accounted for. We should set up tribunals staffed by Jedi practitioners to investigate, try, and punish war crimes."
  resolution_rulesofwar_independent_tribunals_tooltip:0 "§YArmageddon§! and §YIndiscriminate§! bombardment stances, and using any Colossus weapon other than a §YGlobal Pacifier§! are §Rbanned§!."
 
- resolution_rulesofwar_last_resort_doctrine:0 "Last Resort Doctrine"
- resolution_rulesofwar_last_resort_doctrine_desc:0 "War should be our last resort when all other forms of diplomacy fail. It should never be a tool that is used for unjustified purposes."
+ resolution_rulesofwar_last_resort_doctrine:0 "Correct the Errant"
+ resolution_rulesofwar_last_resort_doctrine_desc:0 "Though war might be used to correct the bisbehaving, it should never be a tool that is used for unjustified purposes."
  resolution_rulesofwar_last_resort_doctrine_tooltip:0 "The §YUnrestricted Wars§! war philosophy is §Rbanned§!."
 
- resolution_rulesofwar_demobilization_initiative:0 "Demobilization Initiative"
- resolution_rulesofwar_demobilization_initiative_desc:0 "Resources currently wasted on war could be better used for a myriad of other projects to better the lives of our civilians. We should put hard limits on military development and focus on improving things rather than destroying them."
+ resolution_rulesofwar_demobilization_initiative:0 "Serenity Initiative"
+ resolution_rulesofwar_demobilization_initiative_desc:0 "We should put hard limits on military development and focus on improving things rather than destroying them. Peace may yet reign within the galaxy."
  resolution_rulesofwar_demobilization_initiative_tooltip:0 "The §YMilitarized Economy§! economic policy is banned."

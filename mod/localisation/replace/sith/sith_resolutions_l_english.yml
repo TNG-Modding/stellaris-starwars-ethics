@@ -1,6 +1,6 @@
-l_english:
+﻿l_english:
  # Mutual Defense
- resolution_category_mutualdefense:0 "Sith Dynamics"
+ resolution_category_mutualdefense:0 "Sith Magnetism"
 
  resolution_mutualdefense_repeal_1:0 "§RRepeal $resolution_mutualdefense_the_readied_shield$§!"
  resolution_mutualdefense_repeal_1_desc:0 "Federations and Defensive Pacts are where military matters should be discussed, not on the Senate Floor."
@@ -23,66 +23,24 @@ l_english:
  resolution_mutualdefense_repeal_5_effect_success:2 "Repeals the §Y$resolution_mutualdefense_renegade_containment$§! resolution, leaving §Y$resolution_mutualdefense_military_readiness_act$§! as galactic law.\n\n"
 
  resolution_mutualdefense_naval_weight:0 "$MOD_DIPLO_WEIGHT_NAVAL_MULT$"
- resolution_mutualdefense_the_readied_shield:0 "Mandatory Power Projection"
- resolution_mutualdefense_the_readied_shield_desc:0 "The universe is a dangerous place, and all members of the Galactic Community should be ready to defend their worlds whether it be against pirates, space creatures, or the unknown."
+ resolution_mutualdefense_the_readied_shield:0 "Power Projection"
+ resolution_mutualdefense_the_readied_shield_desc:0 "The universe is a dangerous place, and all members of the Galactic Community should be ready to set their worlds on the path of war."
 
- resolution_mutualdefense_military_readiness_act:0 "Sith Readiness"
- resolution_mutualdefense_military_readiness_act_desc:0 "Each member of the Galactic Community has a duty to themselves and to others to contribute to galactic defense."
+ resolution_mutualdefense_military_readiness_act:0 "Sith Potential"
+ resolution_mutualdefense_military_readiness_act_desc:0 "Each member of the Galactic Community has a duty to themselves to achieve and surpass their potential."
  resolution_mutualdefense_military_readiness_act_tooltip:0 "Galactic Community members that are not vassals of another empire that are using less than half of their naval capacity are in §RBreach of Galactic Law§!."
 
- resolution_mutualdefense_enemy_of_my_enemy:0 "The Enemy of My Enemy"
- resolution_mutualdefense_enemy_of_my_enemy_desc:0 "An enemy of one is the enemy of all. If one of our number is attacked, should we not permit any of our number to punish the offender?"
+ resolution_mutualdefense_enemy_of_my_enemy:0 "All are Pawns"
+ resolution_mutualdefense_enemy_of_my_enemy_desc:0 "Any disruption of the Sith heirarchies from without should be contained and destroyed."
  resolution_mutualdefense_enemy_of_my_enemy_tooltip:0 "Grants the §Y'Counterattack'§! casus belli on empires that are not Galactic Community members and are in an offensive war against a Galactic Community member."
 
  resolution_mutualdefense_castigation_proclamation:0 "Proper Paranoia"
  resolution_mutualdefense_castigation_proclamation_desc:0 "Those who are not with us are against us, and all who stand against Galactic Law must be punished."
  resolution_mutualdefense_castigation_proclamation_tooltip:0 "Any Empire in the Galactic Community can propose a resolution to §YDenounce§! an Empire in §RBreach of Galactic Law§! or that is not a Galactic Community member.\n\nThe §Y'Animosity'§! casus belli and §Y'Humiliation'§! wargoal can be used by empires with §YUnrestricted Wars§! against empires that have been §RDenounced§! by the Galactic Community or are in §RBreach of Galactic Law§!."
- resolution_mutualdefense_castigation_denouncement:0 "Castigation"
+ 
+ resolution_mutualdefense_castigation_denouncement:0 "Passion Directed"
  resolution_mutualdefense_castigation_denouncement_desc:0 "A formal declaration denouncing the target empire. This proposal can target any empire that is either not a member of the Galactic Community or is in Breach of Galactic Law."
 
  resolution_mutualdefense_renegade_containment:0 "Sith Heirarchy Enforcement"
- resolution_mutualdefense_renegade_containment_desc:0 "The benefits of membership in the Galactic Community are self-evident, and as such refusal to be a member clearly indicates ill intent. Members should be authorized to preempt any nefarious acts with force before non-members enact their plots."
+ resolution_mutualdefense_renegade_containment_desc:0 "Adherining to the heirarches within the Galactic Community is essential. Refusal to do so clearly indicates ill intent. Members should be authorized to preempt any nefarious acts with force before non-members enact their plots."
  resolution_mutualdefense_renegade_containment_tooltip:0 "Grants the §Y'Preemptive War'§! total war casus belli on empires that are not members of the Galactic Community for empires with §YUnrestricted Wars§!."
-
- # Rules of War
-
- resolution_category_rulesofwar:0 "Rules of War"
-
- resolution_rulesofwar_repeal_1:0 "§RRepeal $resolution_rulesofwar_guardian_angels$§!"
- resolution_rulesofwar_repeal_1_desc:0 "Might makes right. Attempting to hide the horrors of war by placing limits on it is just lying to ourselves. We should repeal these laws and untie our hands should a true threat appear."
- resolution_rulesofwar_repeal_1_effect_success:0 "Repeals the §Y$resolution_rulesofwar_guardian_angels$§! resolution."
-
- resolution_rulesofwar_repeal_2:0 "§RRepeal $resolution_rulesofwar_reverence_for_life$§!"
- resolution_rulesofwar_repeal_2_desc:0 "$resolution_rulesofwar_repeal_1_desc$"
- resolution_rulesofwar_repeal_2_effect_success:2 "Repeals the §Y$resolution_rulesofwar_reverence_for_life$§! resolution, leaving §Y$resolution_rulesofwar_guardian_angels$§! as galactic law."
-
- resolution_rulesofwar_repeal_3:0 "§RRepeal $resolution_rulesofwar_independent_tribunals$§!"
- resolution_rulesofwar_repeal_3_desc:0 "$resolution_rulesofwar_repeal_1_desc$"
- resolution_rulesofwar_repeal_3_effect_success:2 "Repeals the §Y$resolution_rulesofwar_independent_tribunals$§! resolution, leaving §Y$resolution_rulesofwar_reverence_for_life$§! as galactic law.\n\n"
-
- resolution_rulesofwar_repeal_4:1 "§RRepeal $resolution_rulesofwar_last_resort_doctrine$§!"
- resolution_rulesofwar_repeal_4_desc:0 "$resolution_rulesofwar_repeal_1_desc$"
- resolution_rulesofwar_repeal_4_effect_success:2 "Repeals the §Y$resolution_rulesofwar_last_resort_doctrine$§! resolution, leaving §Y$resolution_rulesofwar_independent_tribunals$§! as galactic law.\n\n"
-
- resolution_rulesofwar_repeal_5:0 "§RRepeal $resolution_rulesofwar_demobilization_initiative$§!"
- resolution_rulesofwar_repeal_5_desc:0 "$resolution_rulesofwar_repeal_1_desc$"
- resolution_rulesofwar_repeal_5_effect_success:2 "Repeals the §Y$resolution_rulesofwar_demobilization_initiative$§! resolution, leaving §Y$resolution_rulesofwar_last_resort_doctrine$§! as galactic law.\n\n"
-
- resolution_rulesofwar_guardian_angels:0 "Guardian Angels Act"
- resolution_rulesofwar_guardian_angels_desc:0 "The soldiers that dedicate their lives to keeping our planets safe should be recognized and honored."
-
- resolution_rulesofwar_reverence_for_life:0 "Reverence for Life"
- resolution_rulesofwar_reverence_for_life_desc:0 "The horror of war on the scale of interstellar empires is a terrible thing. We should do what we can to limit its excesses to active combatants."
- resolution_rulesofwar_reverence_for_life_tooltip:0 "§YPurging§! (other than Displacement) and the use of §YWorld Crackers§! is §Rbanned§!."
-
- resolution_rulesofwar_independent_tribunals:0 "Independent Tribunals"
- resolution_rulesofwar_independent_tribunals_desc:0 "Justice must occur for crimes soldiers commit, and civilian casualties must be accounted for. We should set up independent tribunals to investigate, try, and punish war crimes."
- resolution_rulesofwar_independent_tribunals_tooltip:0 "§YArmageddon§! and §YIndiscriminate§! bombardment stances, and using any Colossus weapon other than a §YGlobal Pacifier§! are §Rbanned§!."
-
- resolution_rulesofwar_last_resort_doctrine:0 "Last Resort Doctrine"
- resolution_rulesofwar_last_resort_doctrine_desc:0 "War should be our last resort when all other forms of diplomacy fail. It should never be a tool that is used for unjustified purposes."
- resolution_rulesofwar_last_resort_doctrine_tooltip:0 "The §YUnrestricted Wars§! war philosophy is §Rbanned§!."
-
- resolution_rulesofwar_demobilization_initiative:0 "Demobilization Initiative"
- resolution_rulesofwar_demobilization_initiative_desc:0 "Resources currently wasted on war could be better used for a myriad of other projects to better the lives of our civilians. We should put hard limits on military development and focus on improving things rather than destroying them."
- resolution_rulesofwar_demobilization_initiative_tooltip:0 "The §YMilitarized Economy§! economic policy is banned."
