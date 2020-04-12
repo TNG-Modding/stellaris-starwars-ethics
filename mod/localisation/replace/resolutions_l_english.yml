@@ -1,0 +1,25 @@
+﻿l_english: 
+ defense_war:0 "Force Dynamics"
+ resolution_sanctions_military:0 "Force Dynamics Sanctions"
+ resolution_sanctions_military_desc:0 "$resolution_sanctions_tech_desc$"
+
+ resolution_sanctions_military_repeal_1:0 "§RRepeal $resolution_sanctions_military_1$§!"
+ resolution_sanctions_military_repeal_1_desc:0 "Restricting naval size for breaking Galactic Law is a dangerous proposition. We should use other means to ensure compliance."
+ resolution_sanctions_military_repeal_1_effect_success:0 "Repeals the §Y$resolution_sanctions_military_1$§! resolution."
+
+ resolution_sanctions_military_repeal_2:0 "§RRepeal $resolution_sanctions_military_2$§!"
+ resolution_sanctions_military_repeal_2_desc:0 "$resolution_sanctions_military_repeal_1_desc$"
+ resolution_sanctions_military_repeal_2_effect_success:2 "Repeals the §Y$resolution_sanctions_military_2$§! resolution, leaving §Y$resolution_sanctions_military_1$§! as galactic law."
+
+ resolution_sanctions_military_repeal_3:0 "§RRepeal $resolution_sanctions_military_3$§!"
+ resolution_sanctions_military_repeal_3_desc:0 "$resolution_sanctions_military_repeal_1_desc$"
+ resolution_sanctions_military_repeal_3_effect_success:2 "Repeals the §Y$resolution_sanctions_military_3$§! resolution, leaving §Y$resolution_sanctions_military_2$§! as galactic law."
+
+ resolution_sanctions_military_1:0 "Minor Force Dynamics Sanctions"
+ resolution_sanctions_military_1_desc:0 "We must place sensible restrictions on the navies of empires that are in §RBreach of Galactic Law§!."
+
+ resolution_sanctions_military_2:0 "Moderate Force Dynamics Sanctions"
+ resolution_sanctions_military_2_desc:0 "Stronger measures are needed to ensure compliance with Galactic Law."
+
+ resolution_sanctions_military_3:0 "Major Force Dynamics Sanctions"
+ resolution_sanctions_military_3_desc:0 "Empires that refuse to obey Galactic Law must have extreme restrictions placed on the size and deployment of their forces."
