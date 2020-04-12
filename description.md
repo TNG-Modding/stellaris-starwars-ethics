@@ -7,11 +7,6 @@ Philosophically Star Wars is a flavor mod designed to situate Stellaris within t
 [*] Force conciousness gestalts
 [/list]
 
-[h1]Work in Progress[/h1]
-[*] The Rule of Two Sith origins
-[*] Actually fun to play Jedi Federation
-[/list]
-
 [h1]Changes[/h1]
 [list]
 [*] Militarist Ethic replaced with Sith
@@ -19,6 +14,11 @@ Philosophically Star Wars is a flavor mod designed to situate Stellaris within t
 [*] Spiritualist Ethic replaced with Force conscious
 [*] Reconfigured events, buildings, jobs, and Force ascension path
 [*] Star Wars themed governments and factions
+[/list]
+
+[h2]Work in Progress[/h2]
+[*] The Rule of Two Sith origins
+[*] Actually fun to play Jedi Federation
 [/list]
 
 [h1]Ethics in Universe[/h1]
@@ -34,11 +34,7 @@ Empires following the Force conscious ethic are aware of the Force and take it i
 
 The Shroud ascension path has been replaced by a Force awakening, try it yourself and recontextualize your previous accomplishes!
 
-[h1]Mod and Ironman Compatibility[/h1]
-Since this mod only affects text and graphics, it is ironman compatible. Load this mod after all other government, personality, and event mods.
-
 [h1]Feedback[/h1]
 Thank you for trying Philosophically Star Wars! Please leave feedback as well as any bugs you may find. 
 
 [spoiler]And may the Force be with you…[/spoiler]
-
